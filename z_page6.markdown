@@ -4,7 +4,6 @@ title: coursess
 permalink: /coursess/
 ---
 
-
 # ap-info (general)
 [ <a href="https://apstudents.collegeboard.org/course-index-page" target="_blank">ap courses and exams </a> ]
 [ <a href="https://apcentral.collegeboard.org/" target="_blank">ap central</a> ]
