@@ -4,16 +4,15 @@ layout: home
 permalink: /
 ---
 
+
 I am an educator and technology enthusiast from the New England region in the United States. On this site I hope to post content related to my past and present teaching experiences, mainly focusing on the advanced placement (AP) mathematics and computer science curricula.
 
-  <br />
   
 
 <p align="center"><img src="../d-img/profile_.jpeg" border="2"> </p>
 
-<br />
-<br />
-<br />
+
+
 
 Some links related to other interests and hobbies:
 
