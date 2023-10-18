@@ -1,3 +1,3 @@
-# apteacher.github.io
+# apmath.github.io
 
 personal site
