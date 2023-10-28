@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bc notes
+title: bc-notes
 permalink: /bcnotes/
 ---
 
