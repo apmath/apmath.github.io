@@ -4,8 +4,6 @@ title: schedule
 permalink: /schedule/
 ---
 
-## academic year 2023-2024
-
 A  = AP Calculus AB
 
 B  = Multivariable Calculus
