@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ab notes
+title: ab-notes
 permalink: /abnotes/
 ---
 
