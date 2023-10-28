@@ -22,23 +22,8 @@ Link: <a href="https://ap-calc.github.io/gcc1/index.html" target="_blank"> Geoge
 
 ---
 
-# uscis citizenship questions
-
-Description: The following script randomly generates a citizenship question from a set of 100, in audio and text format, with answers included. Source: uscis.gov
-
-Link: <a href="https://ap-calc.github.io/uscis/" target="_blank"> ap-calc.github.io/uscis </a>
-
----
-<!-- 
-# ap computer science a  
-
-Description: resources for AP Computer Science A
-
-Link: <a href="https://ca-cs.github.io" target="_blank">ca-cs.github.io</a>
-
----
--->
 # random 
+<a href="https://ap-calc.github.io/uscis/" target="_blank"> uscis citizenship questions </a>
 
 <a href="https://ap-calc.github.io/running/" target="_blank">Visualizing running stats with Charts.js</a>
 
