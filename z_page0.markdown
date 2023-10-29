@@ -12,5 +12,6 @@ permalink: /links/
  
 [ <a href="https://allreals.github.io/mvcnotes/" target="_blank"> Multivariable Calculus</a> ]
 
+---
 
-<p align="center"> <img src="https://allreals.github.io/d-img/schedule-2022-2023.png" border="2"> </p>
+
