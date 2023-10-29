@@ -13,13 +13,7 @@ I am an educator and technology enthusiast from the New England region in the Un
 ---
 # class schedule
 
-A  = AP Calculus AB
-
-B  = Multivariable Calculus
-
-F  = AP Computer Science A
-
-G1 = AP Calculus BC
+A = AP Calculus AB ::: B = Multivariable Calculus ::: F = AP Computer Science A ::: G1 = AP Calculus BC
 
 <p align="center"> <img src="https://allreals.github.io/d-img/schedule-2022-2023.png" border="2"> </p>
 
