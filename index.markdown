@@ -4,7 +4,7 @@ layout: home
 ---
 
 
-I am an educator and technology enthusiast from the New England region in the United States. On this site I share content related to my past and present teaching experiences, mainly focusing on the advanced placement (AP) mathematics and computer science curricula.
+I am an educator and technology enthusiast from the New England region in the United States. On this site I share content related to my past and present teaching experiences, mainly focusing on the advanced placement (AP) mathematics and computer science curricula. [ <a href="/d-dl/vitae_web.pdf" target="_blank">vitae</a> ]
 
   
 
