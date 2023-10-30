@@ -11,7 +11,7 @@ I am an educator and technology enthusiast from the New England region in the Un
   
 
 <p align="center"><img src="../d-img/profile.jpeg" border="2"> <br />
-< [ <a href="/d-dl/vitae_web.pdf" target="_blank"> my vitae</a> ] </p>
+[ <a href="/d-dl/vitae_web.pdf" target="_blank"> my vitae</a> ] </p>
 
 
 <!-- 
