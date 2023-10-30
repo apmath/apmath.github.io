@@ -4,6 +4,9 @@ layout: page
 permalink: /courses/
 ---
 
+Many of the links on this page point to materials on the college board website but you'll also find other bookmarks and resources I've used in my classroom over the years.
+
+
 # ap calculus ab 
 [ <a href="https://apstudents.collegeboard.org/courses/ap-calculus-ab" target="_blank">about</a> ] 
 [ <a href="https://apstudents.collegeboard.org/courses/ap-calculus-ab/assessment" target="_blank">exam</a> ] 
