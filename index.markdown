@@ -4,7 +4,9 @@ layout: home
 ---
 
 
-I am an educator and technology enthusiast from the New England region in the United States. On this site I share content related to my past and present teaching experiences, mainly focusing on the advanced placement (AP) calculus curriculum. Here is a pdf version of my <a href="/d-dl/vitae_web.pdf" target="_blank">vitae</a>.
+I am an educator and technology enthusiast from the New England region in the United States. On this site I share content related to my past and present teaching experiences, mainly focusing on the advanced placement (AP) calculus curriculum. Many of the links on the <i> courses</i> page point to the public sections of the college board website but there are also other bookmarks and some resources I've edited over the years.  
+
+Here is a pdf version of my <a href="/d-dl/vitae_web.pdf" target="_blank">vitae</a>.
 
   
 
