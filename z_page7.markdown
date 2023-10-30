@@ -22,7 +22,8 @@ Link: <a href="https://ap-calc.github.io/gcc1/index.html" target="_blank"> Geoge
 
 ---
 
-# random 
+# random things
+
 <a href="https://ap-calc.github.io/uscis/" target="_blank"> uscis citizenship questions </a>
 
 <a href="https://ap-calc.github.io/running/" target="_blank">visualizing stats with Charts.js</a>
