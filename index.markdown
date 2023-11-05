@@ -9,7 +9,7 @@ I am an educator and technology enthusiast from the New England region in the Un
 
   
 
-<p align="center"><img src="../d-img/profile.jpeg" border="2"> </p>
+<p align="center"><img src="../d-img/profile_.jpeg" border="2"> </p>
 
 
 <!-- 
