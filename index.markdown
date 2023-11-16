@@ -25,9 +25,6 @@ Many of the links on this page point to materials on the college board website. 
 [ <a href="https://www.integral-domain.org/lwilliams/Applets/index.php" target="_blank"> js applets</a> ]
 [ <a href="https://www.geogebra.org/t/calculus?lang=en" target="_blank"> geogebra applets</a> ]
 
-
----
-
 # ap calculus bc
 [ <a href="https://apstudents.collegeboard.org/courses/ap-calculus-bc" target="_blank">about</a> ] 
 [ <a href="https://apstudents.collegeboard.org/courses/ap-calculus-bc/assessment" target="_blank">exam</a> ] 
@@ -46,8 +43,6 @@ Many of the links on this page point to materials on the college board website. 
 [ <a href="https://www.online.math.uh.edu/HoustonACT/videocalculus/index.html" target="_blank">video calculus</a> ]
 [ <a href="https://www.integral-domain.org/lwilliams/Applets/index.php" target="_blank"> js applets</a> ]
 [ <a href="https://www.geogebra.org/t/calculus?lang=en" target="_blank"> geogebra applets</a> ]
-
----
 
 # ap computer science a
 [ <a href="https://apstudents.collegeboard.org/courses/ap-computer-science-a" target="_blank">about</a> ] 
@@ -80,8 +75,6 @@ Many of the links on this page point to materials on the college board website. 
       [ <a href="https://processing.org/" target="_blank">processing</a> ]
       [ <a href="https://notepad-plus-plus.org/downloads/" target="_blank">notepad++</a> ]
       
----
-
 # ap statistics
 [ <a href="https://apstudents.collegeboard.org/courses/ap-statistics" target="_blank">about</a> ] 
 [ <a href="https://apstudents.collegeboard.org/courses/ap-statistics/assessment" target="_blank">exam</a> ] 
@@ -100,15 +93,11 @@ Many of the links on this page point to materials on the college board website. 
 [ <a href="https://education.ti.com/en/software/details/en/31FC737C43CF43B0ADA1CF67420C3AA8/89statisticswithlisteditor" target="_blank">ti-89</a> ]
 [ <a href="https://www.mathlore.net/files/TInspireCX_Skills_for_APstats.pdf" target="_blank"> ti-nspire </a> ]
 
----
-
 # ap pre-calculus
 [ <a href="https://apstudents.collegeboard.org/courses/ap-precalculus" target="_blank">about</a> ] 
 [ <a href="https://apstudents.collegeboard.org/courses/ap-precalculus/assessment" target="_blank">exam</a> ] 
 [ <a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">calculators</a> ]
 [ <a href="https://apcentral.collegeboard.org/media/pdf/ap-precalculus-course-and-exam-description.pdf" target="_blank">description</a> ]
-
----
 
 # multivariable calculus
 [ <a href="https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/" target="_blank">mit - ocw</a> ] 
@@ -116,15 +105,11 @@ Many of the links on this page point to materials on the college board website. 
 [ <a href="https://www.whitman.edu/mathematics/multivariable/multivariable.pdf" target="_blank"> textbook</a> ]
 [ <a href="https://open.umn.edu/opentextbooks/textbooks/780" target="_blank">open textbook</a> ]
 
----
-
 # linear algebra
 [ <a href="https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/" target="_blank"> mit - ocw</a> ] 
 [ <a href="https://www.khanacademy.org/math/linear-algebra" target="_blank">khan academy</a> ] 
 [ <a href="https://opentext.uleth.ca/linalg.html" target="_blank"> textbooks</a> ]
 [ <a href="https://open.umn.edu/opentextbooks/textbooks/5" target="_blank">open textbook</a> ]
-
----
 
 # software & books
 [ <a href="https://www.sagemath.org/" target="_blank">sagemath</a> ] [ <a href="https://sagecell.sagemath.org/" target="_blank"> sagecell</a> ]
@@ -145,9 +130,6 @@ Many of the links on this page point to materials on the college board website. 
 [ <a href="https://aimath.org/textbooks/approved-textbooks/" target="_blank"> american inst. of mathematics</a> ] [ <a href="https://openstax.org/" target="_blank"> open stax</a> ]
 [ <a href="https://activecalculus.org/" target="_blank"> activecalculus</a> ]
 
-
----
-
 # online teaching and learning
 
 [ <a href="https://zoom.us/download" target="_blank">zoom</a> ]
@@ -156,8 +138,6 @@ Many of the links on this page point to materials on the college board website. 
 [ <a href="https://www.ipevo.com/software" target="_blank">ipevo</a> ]
 [ <a href="https://support.smarttech.com/software/smart-notebook" target="_blank"> smart</a> ]
 [ <a href="https://meet.jit.si/" target="_blank">jitsi</a> ]
-
----
 
 # ap-info (general)
 
@@ -173,5 +153,3 @@ Many of the links on this page point to materials on the college board website. 
 [ <a href="https://apstudents.collegeboard.org/view-scores" target="_blank">ap scores</a> ]
 [ <a href="https://apcentral.collegeboard.org/instructional-resources/ap-classroom" target="_blank">ap classroom and ap daily</a> ]
 [ <a href="https://apcommunity.collegeboard.org/" target="_blank">ap teacher community</a> ]
-
----
