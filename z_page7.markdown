@@ -10,8 +10,6 @@ Description: a one-page website with resources for students and teachers of Adva
 
 Link: <a href="https://ap-calc.github.io" target="_blank">ap-calc.github.io</a>
 
----
-
 # grade curving (for teachers)
 
 Description: paste a column of raw student scores and use two different methods to adjust numerically using sliders. A visual representation of the original vs transformed scores is given. 
@@ -19,8 +17,6 @@ Description: paste a column of raw student scores and use two different methods 
 Link: <a href="https://ap-calc.github.io/gcc/index.html" target="_blank"> Javascript version </a> 
 
 Link: <a href="https://ap-calc.github.io/gcc1/index.html" target="_blank"> Geogebra version </a>
-
----
 
 # random things
 
@@ -30,4 +26,3 @@ Link: <a href="https://ap-calc.github.io/gcc1/index.html" target="_blank"> Geoge
 
 <a href="https://ap-calc.github.io/apscore/" target="_blank">ap calculus scores with google charts</a>
 
----
