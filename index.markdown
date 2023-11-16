@@ -3,8 +3,7 @@ title: courses
 layout: home
 ---
 
-Many of the links on this page point to materials on the college board website. You'll also find other bookmarks and resources I've used in the classroom over the years.
-
+The links on this page point to materials on the college board website and other resources I've used in the classroom over the years.
 
 # ap calculus ab 
 [ <a href="https://apstudents.collegeboard.org/courses/ap-calculus-ab" target="_blank">about</a> ] 
