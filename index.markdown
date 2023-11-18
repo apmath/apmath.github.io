@@ -3,8 +3,6 @@ title: ap-info
 layout: home
 ---
 
-<p align="center"><img src="../d-img/ap-logo.png" border="2"> </p>
-
 [ <a href="https://apstudents.collegeboard.org/course-index-page" target="_blank">ap courses and exams </a> ]
 [ <a href="https://apcentral.collegeboard.org/" target="_blank">ap central</a> ]
 [ <a href="https://myap.collegeboard.org/login" target="_blank">myap</a> ]
