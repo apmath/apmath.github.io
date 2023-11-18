@@ -18,13 +18,7 @@ Link: <a href="https://ap-calc.github.io/gcc/index.html" target="_blank"> Javasc
 
 Link: <a href="https://ap-calc.github.io/gcc1/index.html" target="_blank"> Geogebra version </a>
 
-# currently teaching
-
-Description: individual course pages for the subjects I currently teach.
-
-Link: <a href="https://apteacher.github.io" target="_blank">apteacher.github.io</a>
-
-# random things
+# random 
 
 <a href="https://ap-calc.github.io/uscis/" target="_blank"> uscis citizenship questions </a>
 
