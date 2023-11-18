@@ -6,7 +6,7 @@ permalink: /calcbc/
 
 <i> AP Calculus BC follows the curriculum set forth by the College Board. It is worth the equivalent of two semesters of college credit upon successful completion of the AP examination in May. Students enrolled in this course are required to take this test. Topics covered include library of functions, limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, techniques of integration, infinite series and sequences, etc. </i>
 
-<p align="center"><img src="../d-img/koch.png" border="2"> </p>
+<p align="center"><img src="../d-img/koch.png" border="0"> </p>
 
 [ <a href="https://apstudents.collegeboard.org/courses/ap-calculus-bc" target="_blank">about</a> ] 
 [ <a href="https://apstudents.collegeboard.org/courses/ap-calculus-bc/assessment" target="_blank">exam</a> ] 
