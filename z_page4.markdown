@@ -55,3 +55,31 @@ permalink: /other/
 [ <a href="https://opentext.uleth.ca/linalg.html" target="_blank"> textbooks</a> ]
 [ <a href="https://open.umn.edu/opentextbooks/textbooks/5" target="_blank">open textbook</a> ]
 
+
+# software & books
+[ <a href="https://www.sagemath.org/" target="_blank">sagemath</a> ] [ <a href="https://sagecell.sagemath.org/" target="_blank"> sagecell</a> ]
+
+
+[ <a href="https://www.desmos.com/calculator" target="_blank">desmos graphing calculator</a> ] [ <a href="https://help.desmos.com/hc/en-us/categories/4406369954701-Graphing-Calculator" target="_blank">reference</a> ]
+
+
+[ <a href="https://www.geogebra.org/?lang=en" target="_blank">geogebra</a> ] [ <a href="https://www.geogebra.org/math" target="_blank"> math resources</a> ]
+
+[ <a href="https://www.wolfram.com/mathematica/" target="_blank">mathematica</a> ] [ <a href="https://www.wolframalpha.com/" target="_blank">wolframalpha</a> ] [ <a href="https://demonstrations.wolfram.com/" target="_blank"> wolfram demos</a> ]
+
+[ <a href="https://www.graphcalc.com/download.shtml" target="_blank">graphcalc</a> ] 
+[ <a href="https://www.ticalc.org/pub/83plus/basic/math/" target="_blank"> ti-83/84 basic</a> ]
+[ <a href="https://www.ticalc.org/pub/89/basic/math/" target="_blank"> ti-89 basic</a> ]
+[ <a href="https://archive.org/details/tucows_343020_Graphe_Easy" target="_blank"> graphe easy</a> ]
+
+[ <a href="https://aimath.org/textbooks/approved-textbooks/" target="_blank"> american inst. of mathematics</a> ] [ <a href="https://openstax.org/" target="_blank"> open stax</a> ]
+[ <a href="https://activecalculus.org/" target="_blank"> activecalculus</a> ]
+
+# online teaching and learning
+
+[ <a href="https://zoom.us/download" target="_blank">zoom</a> ]
+[ <a href="https://www.skype.com/en/get-skype/" target="_blank">skype</a> ]
+[ <a href="https://meet.google.com/" target="_blank">meet</a> ]
+[ <a href="https://www.ipevo.com/software" target="_blank">ipevo</a> ]
+[ <a href="https://support.smarttech.com/software/smart-notebook" target="_blank"> smart</a> ]
+[ <a href="https://meet.jit.si/" target="_blank">jitsi</a> ]
