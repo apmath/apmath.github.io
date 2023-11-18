@@ -5,6 +5,8 @@ layout: home
 
 The links on this page point to materials on the college board website and other resources I've used in the classroom over the years.
 
+<p align="center"><img src="../d-img/ap-logo.png" border="2"> </p>
+
 # ap calculus ab 
 [ <a href="https://apstudents.collegeboard.org/courses/ap-calculus-ab" target="_blank">about</a> ] 
 [ <a href="https://apstudents.collegeboard.org/courses/ap-calculus-ab/assessment" target="_blank">exam</a> ] 
