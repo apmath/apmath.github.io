@@ -4,6 +4,8 @@ layout: page
 permalink: /calcab/
 ---
 
+<i> AP Calculus AB follows the curriculum set forth by the College Board. It is worth the equivalent of one semester of college credit upon successful completion of the AP examination offered in May. Students enrolled in this course are required to take this test. Topics covered include library of functions, limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, etc. </i>
+
 <p align="center"><img src="../d-img/squeeze.png" border="2"> </p>
 
 [ <a href="https://apstudents.collegeboard.org/courses/ap-calculus-ab" target="_blank">about</a> ] 

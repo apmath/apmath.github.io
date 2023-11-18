@@ -4,7 +4,7 @@ layout: page
 permalink: /about/
 ---
 
-I am an educator and technology enthusiast from the New England region in the United States. On this site I share content related to my past and present teaching experiences, mainly focusing on the advanced placement (AP) calculus curriculum. 
+I am an educator and technology enthusiast from the New England region in the United States. On this site I share content and bookmarks related to my past and present teaching experiences, mainly focusing on the advanced placement (AP) calculus curriculum. 
 
 <p align="center"><img src="../d-img/mvc.png" border="0"> </p>
 
