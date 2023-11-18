@@ -6,7 +6,7 @@ permalink: /about/
 
 I am an educator and technology enthusiast from the New England region in the United States. On this site I share content related to my past and present teaching experiences, mainly focusing on the advanced placement (AP) calculus curriculum. 
 
-<p align="center"><img src="../d-img/mvc.png" border="2"> </p>
+<p align="center"><img src="../d-img/mvc.png" border="0"> </p>
 
 For questions, feedback and all other inquiries, reach out at <i>apcalc@pm.me</i>  or use the form below.
 
