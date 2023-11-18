@@ -6,7 +6,6 @@ permalink: /calcab/
 
 <p align="center"><img src="../d-img/squeeze.png" border="2"> </p>
 
-# ap calculus ab 
 [ <a href="https://apstudents.collegeboard.org/courses/ap-calculus-ab" target="_blank">about</a> ] 
 [ <a href="https://apstudents.collegeboard.org/courses/ap-calculus-ab/assessment" target="_blank">exam</a> ] 
 [ <a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">calculators</a> ]
