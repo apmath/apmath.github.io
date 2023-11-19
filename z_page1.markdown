@@ -90,7 +90,10 @@ permalink: /courses/
       
 ---
 
+## other courses
+
 # ap statistics
+
 [ <a href="https://apstudents.collegeboard.org/courses/ap-statistics" target="_blank">about</a> ] 
 [ <a href="https://apstudents.collegeboard.org/courses/ap-statistics/assessment" target="_blank">exam</a> ] 
 [ <a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">calculators</a> ]
@@ -107,12 +110,6 @@ permalink: /courses/
 [ <a href="https://www.ticalc.org/pub/83plus/basic/math/statistics/" target="_blank">ti-83/84</a> ]
 [ <a href="https://education.ti.com/en/software/details/en/31FC737C43CF43B0ADA1CF67420C3AA8/89statisticswithlisteditor" target="_blank">ti-89</a> ]
 [ <a href="https://www.mathlore.net/files/TInspireCX_Skills_for_APstats.pdf" target="_blank"> ti-nspire </a> ]
-
-# ap pre-calculus
-[ <a href="https://apstudents.collegeboard.org/courses/ap-precalculus" target="_blank">about</a> ] 
-[ <a href="https://apstudents.collegeboard.org/courses/ap-precalculus/assessment" target="_blank">exam</a> ] 
-[ <a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">calculators</a> ]
-[ <a href="https://apcentral.collegeboard.org/media/pdf/ap-precalculus-course-and-exam-description.pdf" target="_blank">description</a> ]
 
 # multivariable calculus
 [ <a href="https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/" target="_blank">mit - ocw</a> ] 
