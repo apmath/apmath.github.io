@@ -59,7 +59,7 @@ solve([2*x+y==6, 3*x-y==4], x, y)
 ``` 
 
 
-# plotting
+# parametric and 3d plotting
 
 ```python
 
