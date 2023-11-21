@@ -6,7 +6,7 @@ permalink: /courses/
 
 # ap calculus ab
 
-<i> AP Calculus AB follows the curriculum set forth by the College Board. It is worth the equivalent of one semester of college credit upon successful completion of the AP examination offered in May. Students enrolled in this course are required to take this test. Topics covered include library of functions, limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, etc. </i>
+<i> AP Calculus AB follows the curriculum set forth by the College Board. It is worth the equivalent of one semester of college credit upon successful completion of the AP examination offered in May. Topics covered include the library of functions (review from precalculus), limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, etc. </i>
 
 <p align="center"><img src="../d-img/squeeze.png" border="0"> </p>
 
@@ -30,7 +30,7 @@ permalink: /courses/
 
 # ap calculus bc
 
-<i> AP Calculus BC follows the curriculum set forth by the College Board. It is worth the equivalent of two semesters of college credit upon successful completion of the AP examination in May. Students enrolled in this course are required to take this test. Topics covered include library of functions, limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, techniques of integration, infinite series and sequences, etc. </i>
+<i> AP Calculus BC follows the curriculum set forth by the College Board. It is worth the equivalent of two semesters of college credit upon successful completion of the AP examination in May.  Topics covered include the library of functions (review from precalculus), limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, techniques of integration, infinite series and sequences, calculus of parametric and polar curves etc. </i>
 
 <p align="center"><img src="../d-img/koch.png" border="0"> </p>
 
