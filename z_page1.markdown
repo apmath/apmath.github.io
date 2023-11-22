@@ -77,6 +77,7 @@ permalink: /courses/
 
 # ap statistics
 
+<p align="center"><img src="../d-img/stats.png" border="0"> </p>
 [ <a href="https://apstudents.collegeboard.org/courses/ap-statistics" target="_blank">about</a> ] 
 [ <a href="https://apstudents.collegeboard.org/courses/ap-statistics/assessment" target="_blank">exam</a> ] 
 [ <a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">calculators</a> ]
