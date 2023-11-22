@@ -4,7 +4,7 @@ layout: page
 permalink: /courses/
 ---
 
-# ap calculus 
+# ap calculus (taught: 2005 - present)
 
 <i> AP Calculus AB follows the curriculum set forth by the College Board. It is worth the equivalent of one semester of college credit upon successful completion of the AP examination offered in May. Topics covered include the library of functions (review from precalculus), limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, etc. </i>
 
@@ -41,7 +41,7 @@ permalink: /courses/
 
 ---
 
-# ap computer science a
+# ap computer science a (taught: 2009 - present)
 
 <i> AP Computer Science A is both a college-prep course for potential computer science majors and a foundation course for students planning to study in other technical fields such as engineering, physics, chemistry, and geology. The course emphasizes methodology, procedural abstraction, and in-depth study of algorithms, data structures, and data abstractions, as well as a detailed examination of a large case study program. Instruction includes preparation for the AP Computer Science A exam. In this course, students apply the programming tools they have learned to real-life examples on their own. Computer science is more than just programming; students who successfully complete the course will have an understanding of Java and the ability to adapt to any new programming language that they are taught in college. </i>
 
@@ -81,7 +81,7 @@ permalink: /courses/
 
 ## other courses
 
-# ap statistics
+# ap statistics (taught: 2007 - 2009)
 
 [ <a href="https://apstudents.collegeboard.org/courses/ap-statistics" target="_blank">about</a> ] 
 [ <a href="https://apstudents.collegeboard.org/courses/ap-statistics/assessment" target="_blank">exam</a> ] 
@@ -100,7 +100,8 @@ permalink: /courses/
 [ <a href="https://education.ti.com/en/software/details/en/31FC737C43CF43B0ADA1CF67420C3AA8/89statisticswithlisteditor" target="_blank">ti-89</a> ]
 [ <a href="https://www.mathlore.net/files/TInspireCX_Skills_for_APstats.pdf" target="_blank"> ti-nspire </a> ]
 
-# multivariable calculus
+# multivariable calculus (taught: 2010 - present)
+
 [ <a href="https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/" target="_blank">mit - ocw</a> ] 
 [ <a href="https://www.khanacademy.org/math/multivariable-calculus" target="_blank">khan academy</a> ] 
 [ <a href="https://www.whitman.edu/mathematics/multivariable/multivariable.pdf" target="_blank"> textbook</a> ]
