@@ -26,11 +26,13 @@ permalink: /courses/
 [ <a href="https://www.integral-domain.org/lwilliams/Applets/index.php" target="_blank"> js applets</a> ]
 [ <a href="https://www.geogebra.org/t/calculus?lang=en" target="_blank"> geogebra applets</a> ]
 
-## from ap-calc.github.io
+from ap-calc.github.io
+
 [ <a href="https://ap-calc.github.io/#course" target="_blank"> tutorials, worksheets, references</a> ] 
 [ <a href="https://ap-calc.github.io/#mc" target="_blank"> mcq</a> ]
 [ <a href="https://ap-calc.github.io/#fr" target="_blank"> frq</a> ]
 [ <a href="https://ap-calc.github.io/#summer" target="_blank"> summer</a> ]
+
 [ <a href="https://ap-calc.github.io/#wolfram" target="_blank">wolfram labs</a> ]
 [ <a href="https://ap-calc.github.io/fr-gen/" target="_blank"> frq - generator</a> ] 
 [ <a href="https://ap-calc.github.io/fcards/index.html" target="_blank">flash cards</a> ]
