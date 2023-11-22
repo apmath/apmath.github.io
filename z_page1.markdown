@@ -26,7 +26,7 @@ permalink: /courses/
 [ <a href="https://www.integral-domain.org/lwilliams/Applets/index.php" target="_blank"> js applets</a> ]
 [ <a href="https://www.geogebra.org/t/calculus?lang=en" target="_blank"> geogebra applets</a> ]
 
-[ <a href="https://ap-calc.github.io/#course" target="_blank"> tutorials, worksheets, references</a> ] 
+[ <a href="https://ap-calc.github.io/#course" target="_blank"> misc. resources</a> ] 
 [ <a href="https://ap-calc.github.io/#mc" target="_blank"> mcq</a> ]
 [ <a href="https://ap-calc.github.io/#fr" target="_blank"> frq</a> ]
 [ <a href="https://ap-calc.github.io/#summer" target="_blank"> summer</a> ]
