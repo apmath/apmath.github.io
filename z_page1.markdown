@@ -37,8 +37,6 @@ permalink: /courses/
 [ <a href="https://ap-calc.github.io/fcards/index.html" target="_blank">flash cards</a> ]
 [ <a href="https://ap-calc.github.io/mcq/" target="_blank">random mcq</a> ]
 
----
-
 # ap computer science a
 
 <i> AP Computer Science A is both a college-prep course for potential computer science majors and a foundation course for students planning to study in other technical fields such as engineering, physics, chemistry, and geology. The course emphasizes methodology, procedural abstraction, and in-depth study of algorithms, data structures, and data abstractions, as well as a detailed examination of a large case study program. Instruction includes preparation for the AP Computer Science A exam. In this course, students apply the programming tools they have learned to real-life examples on their own. Computer science is more than just programming; students who successfully complete the course will have an understanding of Java and the ability to adapt to any new programming language that they are taught in college. </i>
@@ -75,8 +73,6 @@ permalink: /courses/
       [ <a href="https://processing.org/" target="_blank">processing</a> ]
       [ <a href="https://notepad-plus-plus.org/downloads/" target="_blank">notepad++</a> ]
       
----
-
 ## other courses
 
 # ap statistics
