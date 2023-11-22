@@ -4,6 +4,8 @@ layout: page
 permalink: /courses/
 ---
 
+I've had the privilege of teaching both levels of AP Calculus ever since I started out as an independent school teacher in 2005. My other classroom experiences include: Multivariable Calculus (2010 - present), AP Computer Science A (2009 - present), AP Statistics (2007 - 2009), Linear Algebra (2017 - 2019), and independent studies in computer science and mathematics.   
+
 # ap calculus ab and bc
 
 <i> AP Calculus AB follows the curriculum set forth by the College Board. It is worth the equivalent of one semester of college credit upon successful completion of the AP examination offered in May. Topics covered include the library of functions (review from precalculus), limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, etc. </i>
