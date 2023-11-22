@@ -28,9 +28,9 @@ permalink: /courses/
 
 ## from ap-calc.github.io
 [ <a href="https://ap-calc.github.io/#course" target="_blank"> tutorials, worksheets, references</a> ] 
-[ <a href="https://ap-calc.github.io/#mc" target="_blank"> multiple choice questions</a> ]
-[ <a href="https://ap-calc.github.io/#fr" target="_blank"> free response questions</a> ]
-[ <a href="https://ap-calc.github.io/#summer" target="_blank"> summer review packets</a> ]
+[ <a href="https://ap-calc.github.io/#mc" target="_blank"> mcq</a> ]
+[ <a href="https://ap-calc.github.io/#fr" target="_blank"> frq</a> ]
+[ <a href="https://ap-calc.github.io/#summer" target="_blank"> summer</a> ]
 [ <a href="https://ap-calc.github.io/#wolfram" target="_blank">wolfram labs</a> ]
 [ <a href="https://ap-calc.github.io/fr-gen/" target="_blank"> frq - generator</a> ] 
 [ <a href="https://ap-calc.github.io/fcards/index.html" target="_blank">flash cards</a> ]
