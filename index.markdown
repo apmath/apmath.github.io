@@ -7,7 +7,7 @@ I am an educator and technology enthusiast from the New England region in the Un
 
 <p align="center"><img src="../d-img/profile__.jpeg" border="2"> </p>
 
-# current schedule
+# course schedule
 A = AP Calculus AB :: B = Multivariable Calculus :: F = AP Computer Science A :: G1 = AP Calculus BC
 <p align="center"><img src="../d-img/schedule.png" border="0"></p>
 
