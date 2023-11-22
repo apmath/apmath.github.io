@@ -6,6 +6,8 @@ permalink: /sage/
 
 On this page you'll find a few examples of sagemath. To install the SageMath software, visit the <a href="https://doc.sagemath.org/html/en/installation/index.html" target="_blank"> installation guide</a> or use the <a href="https://sagecell.sagemath.org/" target="_blank">sage cell server</a>. For a comprehensive tutorial, visit <a href="https://doc.sagemath.org/html/en/tutorial/" target="_blank"> docs.sagemath.org</a>. 
 
+<p align="center"><img src="../d-img/squeeze.png" border="0"> </p>
+
 # basic functions
 
 ```python
