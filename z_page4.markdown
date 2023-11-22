@@ -37,6 +37,11 @@ permalink: /links/
 [ <a href="https://www.ticalc.org/pub/89/basic/math/" target="_blank"> ti-89 basic</a> ]
 [ <a href="https://archive.org/details/tucows_343020_Graphe_Easy" target="_blank"> graphe easy</a> ]
 
+[ <a href="https://www.latex-project.org/" target="_blank">LaTeX</a> ]
+[ <a href="https://www.overleaf.com/" target="_blank">overleaf</a> ]
+[ <a href="https://embracingtherandom.com/software/latex-and-google-docs/" target="_blank"> LaTeX in Google Docs</a> ]
+
+
 [ <a href="https://aimath.org/textbooks/approved-textbooks/" target="_blank"> american inst. of mathematics</a> ] [ <a href="https://openstax.org/" target="_blank"> open stax</a> ]
 [ <a href="https://activecalculus.org/" target="_blank"> activecalculus</a> ]
 
