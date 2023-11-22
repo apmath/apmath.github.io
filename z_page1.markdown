@@ -4,15 +4,11 @@ layout: page
 permalink: /courses/
 ---
 
-I've had the privilege of teaching both levels of AP Calculus ever since I started out as an independent school teacher in 2005. My other classroom experiences include Multivariable Calculus, AP Computer Science A, AP Statistics, Linear Algebra, and independent studies in computer science and mathematics.   
-
 # ap calculus
 
-<i> AP Calculus AB follows the curriculum set forth by the College Board. It is worth the equivalent of one semester of college credit upon successful completion of the AP examination offered in May. Topics covered include the library of functions (review from precalculus), limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, etc. </i>
+<i> AP Calculus follows the curriculum set forth by the College Board. The AB level is worth the equivalent of one semester of college credit upon successful completion of the AP examination offered in May. The BC level, which is an extension of AB, is worth the equivalent of two semesters of college credit. AB topcs include the library of functions (review from precalculus), limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, etc. The BC curriculum adds advanced techniques of integration, series and sequences, calculus of parametric and polar curves, etc. </i>
 
 <p align="center"><img src="../d-img/koch.png" border="0"> </p>
-
-<i> AP Calculus BC is worth the equivalent of two semesters of college credit upon successful completion of the AP examination in May.  Topics covered include the library of functions (review from precalculus), limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, techniques of integration, infinite series and sequences, calculus of parametric and polar curves etc. </i>
 
 [ <a href="https://apstudents.collegeboard.org/courses/ap-calculus-ab" target="_blank">about ab</a> ]
 [ <a href="https://apstudents.collegeboard.org/courses/ap-calculus-bc" target="_blank">about bc</a> ] 
