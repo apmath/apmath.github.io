@@ -4,7 +4,7 @@ layout: page
 permalink: /courses/
 ---
 
-# ap calculus  (2 levels: AB and BC)
+# ap calculus 
 
 <i> AP Calculus AB follows the curriculum set forth by the College Board. It is worth the equivalent of one semester of college credit upon successful completion of the AP examination offered in May. Topics covered include the library of functions (review from precalculus), limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, etc. </i>
 
