@@ -107,7 +107,7 @@ permalink: /courses/
 [ <a href="https://www.whitman.edu/mathematics/multivariable/multivariable.pdf" target="_blank"> textbook</a> ]
 [ <a href="https://open.umn.edu/opentextbooks/textbooks/780" target="_blank">open textbook</a> ]
 
-# linear algebra
+# linear algebra (taught: 2017 - 2019)
 [ <a href="https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/" target="_blank"> mit - ocw</a> ] 
 [ <a href="https://www.khanacademy.org/math/linear-algebra" target="_blank">khan academy</a> ] 
 [ <a href="https://opentext.uleth.ca/linalg.html" target="_blank"> textbooks</a> ]
