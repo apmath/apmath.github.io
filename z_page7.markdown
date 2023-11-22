@@ -10,7 +10,7 @@ Description: a one-page website with resources for students and teachers of Adva
 
 Link: <a href="https://ap-calc.github.io" target="_blank">ap-calc.github.io</a>
 
-
+<p align="center"><img src="../d-img/squeeze.png" border="0"> </p>
 
 # grade curving (for teachers)
 
