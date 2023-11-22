@@ -4,13 +4,13 @@ layout: page
 permalink: /courses/
 ---
 
-# ap calculus 
+# ap calculus  (2 levels: AB and BC)
 
 <i> AP Calculus AB follows the curriculum set forth by the College Board. It is worth the equivalent of one semester of college credit upon successful completion of the AP examination offered in May. Topics covered include the library of functions (review from precalculus), limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, etc. </i>
 
-<i> AP Calculus BC is worth the equivalent of two semesters of college credit upon successful completion of the AP examination in May.  Topics covered include the library of functions (review from precalculus), limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, techniques of integration, infinite series and sequences, calculus of parametric and polar curves etc. </i>
-
 <p align="center"><img src="../d-img/koch.png" border="0"> </p>
+
+<i> AP Calculus BC is worth the equivalent of two semesters of college credit upon successful completion of the AP examination in May.  Topics covered include the library of functions (review from precalculus), limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, techniques of integration, infinite series and sequences, calculus of parametric and polar curves etc. </i>
 
 [ <a href="https://apstudents.collegeboard.org/courses/ap-calculus-ab" target="_blank">about</a> ] 
 [ <a href="https://apstudents.collegeboard.org/courses/ap-calculus-ab/assessment" target="_blank">exam</a> ] 
@@ -25,8 +25,6 @@ permalink: /courses/
 [ <a href="https://www.online.math.uh.edu/HoustonACT/videocalculus/index.html" target="_blank">video calculus</a> ]
 [ <a href="https://www.integral-domain.org/lwilliams/Applets/index.php" target="_blank"> js applets</a> ]
 [ <a href="https://www.geogebra.org/t/calculus?lang=en" target="_blank"> geogebra applets</a> ]
-
-from ap-calc.github.io
 
 [ <a href="https://ap-calc.github.io/#course" target="_blank"> tutorials, worksheets, references</a> ] 
 [ <a href="https://ap-calc.github.io/#mc" target="_blank"> mcq</a> ]
