@@ -4,7 +4,7 @@ layout: page
 permalink: /courses/
 ---
 
-# ap calculus
+# ap calculus (2005 - present / both levels)
 
 <i> AP Calculus follows the curriculum set forth by the College Board. The AB level is worth the equivalent of one semester of college credit upon successful completion of the AP examination offered in May. The BC level, which is an extension of AB, is worth the equivalent of two semesters of college credit. AB topcs include the library of functions (review from precalculus), limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, etc. The BC curriculum adds advanced techniques of integration, series and sequences, calculus of parametric and polar curves, etc. </i>
 
@@ -37,9 +37,9 @@ permalink: /courses/
 [ <a href="https://ap-calc.github.io/fcards/index.html" target="_blank">flash cards</a> ]
 [ <a href="https://ap-calc.github.io/mcq/" target="_blank">random mcq</a> ]
 
-# ap computer science a
+# ap computer science a (2009 - present)
 
-<i> AP Computer Science A is both a college-prep course for potential computer science majors and a foundation course for students planning to study in other technical fields such as engineering, physics, chemistry, and geology. The course emphasizes methodology, procedural abstraction, and in-depth study of algorithms, data structures, and data abstractions, as well as a detailed examination of a large case study program. Instruction includes preparation for the AP Computer Science A exam. In this course, students apply the programming tools they have learned to real-life examples on their own. Computer science is more than just programming; students who successfully complete the course will have an understanding of Java and the ability to adapt to any new programming language that they are taught in college. </i>
+<i> AP Computer Science A is both a college-prep course for potential computer science majors and a foundation course for students planning to study in other fields such as mathematics, engineering, physics, chemistry, and geology. The course emphasizes methodology, procedural abstraction, and in-depth study of algorithms, data structures, and data abstractions. Instruction includes preparation for the AP Computer Science A exam in May. In this course, students apply the programming tools they have learned to real-life examples on their own. Computer science is more than just programming; students who successfully complete the course will have an understanding of Java and the ability to adapt to any new programming language. </i>
 
 <p align="center"><img src="../d-img/csa.png" border="0"> </p>
 
@@ -73,9 +73,7 @@ permalink: /courses/
       [ <a href="https://processing.org/" target="_blank">processing</a> ]
       [ <a href="https://notepad-plus-plus.org/downloads/" target="_blank">notepad++</a> ]
       
-## other courses
-
-# ap statistics
+# ap statistics (2007 - 2009)
 
 <p align="center"><img src="../d-img/stats.png" border="0"> </p>
 [ <a href="https://apstudents.collegeboard.org/courses/ap-statistics" target="_blank">about</a> ] 
@@ -95,14 +93,13 @@ permalink: /courses/
 [ <a href="https://education.ti.com/en/software/details/en/31FC737C43CF43B0ADA1CF67420C3AA8/89statisticswithlisteditor" target="_blank">ti-89</a> ]
 [ <a href="https://www.mathlore.net/files/TInspireCX_Skills_for_APstats.pdf" target="_blank"> ti-nspire </a> ]
 
-# multivariable calculus
-
+# multivariable calculus (2009 - present)
 [ <a href="https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/" target="_blank">mit - ocw</a> ] 
 [ <a href="https://www.khanacademy.org/math/multivariable-calculus" target="_blank">khan academy</a> ] 
 [ <a href="https://www.whitman.edu/mathematics/multivariable/multivariable.pdf" target="_blank"> textbook</a> ]
 [ <a href="https://open.umn.edu/opentextbooks/textbooks/780" target="_blank">open textbook</a> ]
 
-# linear algebra 
+# linear algebra (2016 - 2019 )
 [ <a href="https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/" target="_blank"> mit - ocw</a> ] 
 [ <a href="https://www.khanacademy.org/math/linear-algebra" target="_blank">khan academy</a> ] 
 [ <a href="https://opentext.uleth.ca/linalg.html" target="_blank"> textbooks</a> ]
