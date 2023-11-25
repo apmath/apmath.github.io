@@ -4,7 +4,7 @@ layout: page
 permalink: /courses/
 ---
 
-Below find a general description for each course and related resources. In addition to the subjects listed, I've taught or tutored lower level high school courses and offered independent studies in college level mathematics.
+Below find a general description for each course and related resources.
 
 # ap calculus (2005 - present)
 
