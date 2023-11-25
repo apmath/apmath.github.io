@@ -4,7 +4,7 @@ layout: page
 permalink: /courses/
 ---
 
-# ap calculus (2005 - present)
+# ap calculus ab & bc (2005 - present)
 
 <i> AP Calculus follows the curriculum set forth by the College Board. The AB level is worth the equivalent of one semester of college credit upon successful completion of the AP examination offered in May. The BC level, which is an extension of AB, is worth the equivalent of two semesters of college credit. AB topcs include the library of functions (review from precalculus), limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, etc. The BC curriculum adds advanced techniques of integration, series and sequences, calculus of parametric and polar curves, etc. </i>
 
