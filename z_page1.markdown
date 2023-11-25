@@ -4,8 +4,7 @@ layout: page
 permalink: /courses/
 ---
 
-Below find a general description for each course and related resources. I've also taught or tutored lower level courses such as Geometry, Algebra, Precalculus, Probability, and offered independent studies in college level mathematics (Abstract Mathematics, Linear Algebra, Differential Equations, and Number Theory.)
-
+Below find a general description for each course and related resources. In addition to the subjects listed, I've taught or tutored lower level high school courses and offered independent studies in college level mathematics.
 
 # ap calculus (2005 - present)
 
