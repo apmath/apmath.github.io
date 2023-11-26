@@ -9,7 +9,7 @@ permalink: /wolfram/
 
 01:  Investigating Limits 
 <a href="../docs/labs/calculus/01_Limits.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/01_Limits.nb" target="_blank">[  .nb  ]</a><br>      
+<a href="../docs/labs/calculus/01_Limits.nb" target="_blank">[  .nb  ]</a><br>
 02:  Rates of Change
 <a href="../docs/labs/calculus/02_Rates_of_change.pdf" target="_blank">[  .pdf  ]</a>
 <a href="../docs/labs/calculus/02_Rates_of_change.nb" target="_blank">[  .nb  ]</a><br>
