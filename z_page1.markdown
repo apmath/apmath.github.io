@@ -1,7 +1,7 @@
 ---
-title: courses
+title: calculus
 layout: page
-permalink: /courses/
+permalink: /calculus/
 ---
 
 # ap calculus ab & bc (2005 - present)
