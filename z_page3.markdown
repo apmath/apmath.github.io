@@ -1,74 +1,128 @@
 ---
-title: other
 layout: page
-permalink: /other/
+title: sagemath
+permalink: /sage/
 ---
 
-# ap computer science a (2009 - present)
-<i> AP Computer Science A is both a college-prep course for potential computer science majors and a foundation course for students planning to study in other fields such as mathematics, engineering, physics, chemistry, and geology. The course emphasizes methodology, procedural abstraction, and in-depth study of algorithms, data structures, and data abstractions. Instruction includes preparation for the AP Computer Science A exam in May. In this course, students apply the programming tools they have learned to real-life examples on their own. Computer science is more than just programming; students who successfully complete the course will have an understanding of Java and the ability to adapt to any new programming language. </i>
+On this page you'll find a few examples of sagemath. To install the SageMath software, visit the <a href="https://doc.sagemath.org/html/en/installation/index.html" target="_blank"> installation guide</a> or use the <a href="https://sagecell.sagemath.org/" target="_blank">sage cell server</a>. For a comprehensive tutorial, visit <a href="https://doc.sagemath.org/html/en/tutorial/" target="_blank"> docs.sagemath.org</a>. 
 
-<strong>links</strong><br />
-<a href="https://apstudents.collegeboard.org/courses/ap-computer-science-a" target="_blank">about ap computer science a</a><br>
-<a href="https://apstudents.collegeboard.org/courses/ap-computer-science-a/assessment" target="_blank">about the ap exam</a><br>
-<a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">calculator policy</a><br>
-<a href="https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-course-and-exam-description.pdf" target="_blank">course description (ced)</a><br>
-<a href="https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam/past-exam-questions" target="_blank">past ap questions</a><br>
-<a href="https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-course-at-a-glance.pdf" target="_blank">ap computer science a at a glance</a> <br>
-<a href="https://blog.collegeboard.org/difference-between-ap-computer-science-principles-and-ap-computer-science" target="_blank">differences: cs p vs cs a</a><br>
-<a href="https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-java-quick-reference_0.pdf" target="_blank">quick reference - java subset</a><br>
-<a href="https://www.jdoodle.com/online-java-compiler/" target="_blank">jdoodle</a> <br> 
-<a href="https://www.w3schools.com/java/tryjava.asp?filename=demo_compiler" target="_blank">java compiler @ w3schools</a><br>
-<a href="https://apclassroom.collegeboard.org/8" target="_blank">ap classroom: college board</a><br>
-<a href="https://dev.java/learn/" target="_blank">dev.java/learn</a> <br>
-<a href="https://www.w3schools.com/java/default.asp" target="_blank">w3schools</a> <br>
-<a href="https://docs.oracle.com/javase/tutorial/" target="_blank">oracle: java tutorials</a><br> 
-<a href="https://docs.oracle.com/javase/8/docs/api/" target="_blank">oracle: documentation</a><br>
-<a href="http://codingbat.com/java" target="_blank">codingbat resources</a> <br>
-<a href="https://runestone.academy/ns/books/published/csawesome/Unit1-Getting-Started/topic-1-2-java-intro.html?mode=browsing" target="_blank"> csawesome</a> <br> <br>
+<p align="center"><img src="../img/site/mvc.png" border="0"> </p>
 
-<strong>tools</strong><br />
-<a href="https://www.sublimetext.com/" target="_blank">sublime</a><br>
-<a href="https://www.jgrasp.org/" target="_blank">jgrasp</a><br>
-<a href="https://www.bluej.org/" target="_blank">bluej </a><br>
-<a href="https://www.eclipse.org/" target="_blank">eclipse</a><br>
-<a href="https://www.oracle.com/java/technologies/downloads/" target="_blank">jdk</a><br>
-<a href="https://processing.org/" target="_blank">processing</a> <br>
-<a href="https://notepad-plus-plus.org/downloads/" target="_blank">notepad++</a><br>
+# basic functions
 
----
-      
-# ap statistics (2007 - 2009)
-<strong>links</strong><br />
-<a href="https://apstudents.collegeboard.org/courses/ap-statistics" target="_blank">about ap statistics</a>
-<a href="https://apstudents.collegeboard.org/courses/ap-statistics/assessment" target="_blank">about the ap exam</a> <br> 
-<a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">calculator policy</a><br>
-<a href="https://apcentral.collegeboard.org/media/pdf/ap-statistics-course-and-exam-description.pdf" target="_blank">course description (ced)</a> <br>
-<a href="https://apcentral.collegeboard.org/courses/ap-statistics/exam/past-exam-questions" target="_blank">past ap questions</a><br>
-<a href="https://apclassroom.collegeboard.org/33/home" target="_blank">ap classroom</a> <br>
-<a href="https://skewthescript.org/ap-stats-curriculum" target="_blank">skewthescript.org</a> <br>
-<a href="https://data.gov/" target="_blank">data.gov</a> <br><br>
+```python
 
-<strong>tools</strong><br />
-<a href="https://jasp-stats.org/" target="_blank">jasp</a> <br>
-<a href="https://www.w3schools.com/r/default.asp" target="_blank">learn r</a><br>
- <a href="https://posit.co/download/rstudio-desktop/" target="_blank">r-studio</a><br>
-<a href="https://www.ticalc.org/pub/83plus/basic/math/statistics/" target="_blank">ti-83/84</a><br>
-<a href="https://education.ti.com/en/software/details/en/31FC737C43CF43B0ADA1CF67420C3AA8/89statisticswithlisteditor" target="_blank">ti-89</a> <br>
-<a href="https://www.mathlore.net/files/TInspireCX_Skills_for_APstats.pdf" target="_blank"> ti-nspire </a> <br>
+# define a variable named x
+x = var('x')
 
----
+# define a function f(x)
+f(x)=sin(x)
 
-# multivariable calculus (2009 - present)
-<a href="https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/" target="_blank">mit - opencourseware</a><br>
-<a href="https://www.khanacademy.org/math/multivariable-calculus" target="_blank">khan academy - mvc lessons</a> <br>
-<a href="https://www.whitman.edu/mathematics/multivariable/multivariable.pdf" target="_blank"> textbook - whitman.edu</a> <br>
-<a href="https://open.umn.edu/opentextbooks/textbooks/780" target="_blank">open textbook - umn.edu</a> <br>
+# evaluate f(x) at x=1 and store to a variable y
+y = f(1)
 
----
+# get a numerical approximation of y
+n(y)
 
-# linear algebra (2016 - 2019 )
-<a href="https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/" target="_blank"> mit - opencourseware</a><br>
-<a href="https://www.khanacademy.org/math/linear-algebra" target="_blank">khan academy - linalg lessons</a> <br>
-<a href="https://opentext.uleth.ca/linalg.html" target="_blank"> textbooks - uleth.ca</a> <br>
-<a href="https://open.umn.edu/opentextbooks/textbooks/5" target="_blank">open textbook - umn.edu</a> <br>
+# plot f(x) over a given interval
+plot(f(x), (x, -2*pi, 2*pi))
 
+# plot two functions
+plot((e^x, 4-x^2), (x, -3, 2))
+
+# partial fractions
+f = 1/(x^2-3*x+2)
+f.partial_fraction(x)
+
+``` 
+
+
+# solving equations
+
+```python
+
+# declare a variable x and solve a quadratic equation x^2++5x+6=0
+x = var('x')
+solve(x^2 + 5*x + 6, x)
+
+
+# solving the quadratic equation
+a, b, c, x = var('a b c x')
+solve([a*x^2 + b*x + c == 0],x)
+
+# solving a system of two linear equations
+x, y = var('x, y')
+solve([2*x+y==6, 3*x-y==4], x, y)
+
+
+
+``` 
+
+
+# parametric and 3d plotting
+
+```python
+
+# parametric plot of the unit circle: <x(t), y(t)> = <cos(t), sin(t)>
+t = var('t')
+p = parametric_plot((cos(t),sin(t)),(t,0,2*pi),rgbcolor=hue(0.6))
+# to add a title at a specific position (0.5, 1.1)
+name = text("The Unit Circle", (0.5,1.1), rgbcolor=(1,0,0))
+show(p+name)
+
+# multiple parametric plots combined into 1 plotting window
+t = var('t')
+p1 = parametric_plot((sin(t),(sin(t))^2),(t,0,2*pi),rgbcolor=hue(0.2))
+p2 = parametric_plot((cos(t),sin(t)^2),(t,0,2*pi),rgbcolor=hue(0.4))
+p3 = parametric_plot((cos(t),sin(2*t)),(t,0,2*pi),rgbcolor=hue(0.6))
+show(p1+p2+p3, axes=false)
+
+# three-dimensional plot z = f(x, y)
+x, y = var('x,y')
+plot3d(x^2 + y^2, (x,-2,2), (y,-2,2))
+
+# three-dimensional parametric plot z = f(x(u,v), y(u,v))
+u, v = var('u, v')
+f_x(u, v) = cos(u)
+f_y(u, v) = sin(v)
+f_z(u, v) = u^2 + u*v + v^2
+parametric_plot3d([f_x, f_y, f_z], (u, -2, 2), (v, -2, 2))
+
+# three-dimensional implicit plot: hyperboloid of one sheet
+# x^2 + y^2 - z^2 = 1
+x, y, z = var('x, y, z')
+implicit_plot3d(x^2 + y^2 - z^2 - 1, (x,-3, 3), (y,-3, 3), (z,-3, 3))
+
+```
+
+# differentiation and integration
+
+```python
+# declare an independent variable t
+t = var('t')
+
+# differentiate an expression with respect to t
+diff(sin(t) + e^(3*t), t)
+
+# higher order derivative: the third derivative of cos(5x)
+diff(cos(5*x), x, 3)
+
+# partial differentiation
+x, y = var('x,y')
+
+# declare a function f in terms of x and y
+f = 2*x^2 + 3*y^3
+
+# differentiate f with respect to x
+f.diff(x)
+
+#differentiate f with respect to y
+f.diff(y)
+
+# an indefinite integral with respect to x
+integral(x*sin(x^2), x)
+
+# a definite integral with respect to x from x=-1 to 1
+integral(1/(x^2+1), x, -1, 1)
+
+```

@@ -1,138 +1,74 @@
 ---
-title: wolfram
+title: other
 layout: page
-permalink: /wolfram/
+permalink: /other/
 ---
 
-<strong>Wolfram Mathematica Labs for Single and Multivariable Calculus</strong> <br>
-[Originally created with <a href="https://www.wolfram.com/mathematica/" target="_blank">Mathematica 8.0</a>]  * denotes AP Calculus BC only <br>
-<p align="center"><img src="../img/site/koch.png" border="0"> </p>
+# ap computer science a (2009 - present)
+<i> AP Computer Science A is both a college-prep course for potential computer science majors and a foundation course for students planning to study in other fields such as mathematics, engineering, physics, chemistry, and geology. The course emphasizes methodology, procedural abstraction, and in-depth study of algorithms, data structures, and data abstractions. Instruction includes preparation for the AP Computer Science A exam in May. In this course, students apply the programming tools they have learned to real-life examples on their own. Computer science is more than just programming; students who successfully complete the course will have an understanding of Java and the ability to adapt to any new programming language. </i>
 
-01:  Investigating Limits 
-<a href="../docs/labs/calculus/01_Limits.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/01_Limits.nb" target="_blank">[  .nb  ]</a><br>
-02:  Rates of Change
-<a href="../docs/labs/calculus/02_Rates_of_change.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/02_Rates_of_change.nb" target="_blank">[  .nb  ]</a><br>
-03:  The Derivative 
-<a href="../docs/labs/calculus/03_The_Derivative.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/03_The_Derivative.nb" target="_blank">[  .nb  ]</a><br>
-04:  Derivatives Graphically
-<a href="../docs/labs/calculus/04_Derivatives_Graphically.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/04_Derivatives_Graphically.nb" target="_blank">[  .nb  ]</a><br>
-05:  Higher Derivatives
-<a href="../docs/labs/calculus/05_Higher_Derivatives.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/05_Higher_Derivatives.nb" target="_blank">[  .nb  ]</a><br>
-06:  Extrema
-<a href="../docs/labs/calculus/06_Extrema.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/06_Extrema.nb" target="_blank">[  .nb  ]</a><br>
-07:  Inflection Points
-<a href="../docs/labs/calculus/07_Inflection_Points.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/07_Inflection_Points.pdf" target="_blank">[  .nb  ]</a><br>
-08:  Implicit Differentiation
-<a href="../docs/labs/calculus/08_Implicit_Differentiation.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/08_Implicit_Differentiation.nb" target="_blank">[  .nb  ]</a><br>
-09:  Differential Equations
-<a href="../docs/labs/calculus/09_Differential_Equations.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/09_Differential_Equations.nb" target="_blank">[  .nb  ]</a><br>
-10:  Integrals
-<a href="../docs/labs/calculus/10_Integrals.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/10_Integrals.nb" target="_blank">[  .nb  ]</a><br>
-11: Riemann Sums
-<a href="../docs/labs/calculus/11_Riemann_Sums.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/11_Riemann_Sums.nb" target="_blank">[  .nb  ]</a><br>
-12: Improper Integrals*
-<a href="../docs/labs/calculus/12_Improper_Integrals.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/12_Improper_Integrals.nb" target="_blank">[  .nb  ]</a><br>
-13: Accumulating Functions
-<a href="../docs/labs/calculus/13_Accumulating_Functions.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/13_Accumulating_Functions.nb" target="_blank">[  .nb  ]</a><br>
-14: Sequences and Series*
-<a href="../docs/labs/calculus/14_Sequences_and_Series.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/14_Sequences_and_Series.nb" target="_blank">[  .nb  ]</a><br>
-15: Dot Product<a href="../docs/labs/calculus/15_Dot_Product.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/15_Dot_Product.nb" target="_blank">[  .nb  ]</a><br>
-16: Cross Product
-<a href="../docs/labs/calculus/16_Cross_Product.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/16_Cross_Product.nb" target="_blank">[  .nb  ]</a><br>
-17: Lines and Planes
-<a href="../docs/labs/calculus/17_Lines_Planes.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/17_Lines_Planes.nb" target="_blank">[  .nb  ]</a><br>
-18: Curvature, T(t),N(t), B(t)
-<a href="../docs/labs/calculus/18_Curvature_TNB.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/18_Curvature_TNB.nb" target="_blank">[  .nb  ]</a><br>
-19: Multivariable Functions
-<a href="../docs/labs/calculus/19_Multivariable_Functions.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/19_Multivariable_Functions.nb" target="_blank">[  .nb  ]</a><br>
-20: Partial Derivatives
-<a href="../docs/labs/calculus/20_Partial_Derivatives.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/20_Partial_Derivatives.nb" target="_blank">[  .nb  ]</a><br>
-21: The Chain Rule
-<a href="../docs/labs/calculus/21_Chain_Rule.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/21_Chain_Rule.nb" target="_blank">[  .nb  ]</a><br>
-22: The Gradient
-<a href="../docs/labs/calculus/22_Gradient.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/22_Gradient.nb" target="_blank">[  .nb  ]</a><br>
-23: Lagrange Multiplier
-<a href="../docs/labs/calculus/23_Lagrange_Multiplier.pdf" target="_blank">[  .pdf  ]</a>
-<a href="../docs/labs/calculus/23_Lagrange_Multiplier.nb" target="_blank">[  .nb  ]</a><br>
-00: Taylor Series with Mathematica 
-<a href="../docs/labs/calculus/Taylor-Series-Shubleka.nb.zip" target="_blank"> [ .zip ] </a> <br><br>
+<strong>links</strong><br />
+<a href="https://apstudents.collegeboard.org/courses/ap-computer-science-a" target="_blank">about ap computer science a</a><br>
+<a href="https://apstudents.collegeboard.org/courses/ap-computer-science-a/assessment" target="_blank">about the ap exam</a><br>
+<a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">calculator policy</a><br>
+<a href="https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-course-and-exam-description.pdf" target="_blank">course description (ced)</a><br>
+<a href="https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam/past-exam-questions" target="_blank">past ap questions</a><br>
+<a href="https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-course-at-a-glance.pdf" target="_blank">ap computer science a at a glance</a> <br>
+<a href="https://blog.collegeboard.org/difference-between-ap-computer-science-principles-and-ap-computer-science" target="_blank">differences: cs p vs cs a</a><br>
+<a href="https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-java-quick-reference_0.pdf" target="_blank">quick reference - java subset</a><br>
+<a href="https://www.jdoodle.com/online-java-compiler/" target="_blank">jdoodle</a> <br> 
+<a href="https://www.w3schools.com/java/tryjava.asp?filename=demo_compiler" target="_blank">java compiler @ w3schools</a><br>
+<a href="https://apclassroom.collegeboard.org/8" target="_blank">ap classroom: college board</a><br>
+<a href="https://dev.java/learn/" target="_blank">dev.java/learn</a> <br>
+<a href="https://www.w3schools.com/java/default.asp" target="_blank">w3schools</a> <br>
+<a href="https://docs.oracle.com/javase/tutorial/" target="_blank">oracle: java tutorials</a><br> 
+<a href="https://docs.oracle.com/javase/8/docs/api/" target="_blank">oracle: documentation</a><br>
+<a href="http://codingbat.com/java" target="_blank">codingbat resources</a> <br>
+<a href="https://runestone.academy/ns/books/published/csawesome/Unit1-Getting-Started/topic-1-2-java-intro.html?mode=browsing" target="_blank"> csawesome</a> <br> <br>
 
+<strong>tools</strong><br />
+<a href="https://www.sublimetext.com/" target="_blank">sublime</a><br>
+<a href="https://www.jgrasp.org/" target="_blank">jgrasp</a><br>
+<a href="https://www.bluej.org/" target="_blank">bluej </a><br>
+<a href="https://www.eclipse.org/" target="_blank">eclipse</a><br>
+<a href="https://www.oracle.com/java/technologies/downloads/" target="_blank">jdk</a><br>
+<a href="https://processing.org/" target="_blank">processing</a> <br>
+<a href="https://notepad-plus-plus.org/downloads/" target="_blank">notepad++</a><br>
 
-<strong> Interactive Demonstrations: Calculus Concepts </strong><br>
-[ <a href="https://www.wolfram.com/cdf-player/" target="_blank">Download Mathematica Player (free)</a> ]
+---
+      
+# ap statistics (2007 - 2009)
+<strong>links</strong><br />
+<a href="https://apstudents.collegeboard.org/courses/ap-statistics" target="_blank">about ap statistics</a>
+<a href="https://apstudents.collegeboard.org/courses/ap-statistics/assessment" target="_blank">about the ap exam</a> <br> 
+<a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">calculator policy</a><br>
+<a href="https://apcentral.collegeboard.org/media/pdf/ap-statistics-course-and-exam-description.pdf" target="_blank">course description (ced)</a> <br>
+<a href="https://apcentral.collegeboard.org/courses/ap-statistics/exam/past-exam-questions" target="_blank">past ap questions</a><br>
+<a href="https://apclassroom.collegeboard.org/33/home" target="_blank">ap classroom</a> <br>
+<a href="https://skewthescript.org/ap-stats-curriculum" target="_blank">skewthescript.org</a> <br>
+<a href="https://data.gov/" target="_blank">data.gov</a> <br><br>
 
-<table width="100%"  border="0">
-        <tr valign="top">
-          <td><a href="https://demonstrations.wolfram.com/TheTangentLineProblem/" target="_blank"><img src="https://demonstrations.wolfram.com/TheTangentLineProblem/thumbnail_174.jpg" border="0" alt="&quot;The Tangent Line Problem&quot; from the Wolfram Demonstrations Project" title="&quot;The Tangent Line Problem&quot; from the Wolfram Demonstrations Project" /></a><strong><br>
-          The Tangent Problem</strong></td>
-          <td><a href="https://demonstrations.wolfram.com/TheQuotientRule/" target="_blank"><img src="https://demonstrations.wolfram.com/TheQuotientRule/thumbnail_174.jpg" border="0" alt="&quot;The Quotient Rule&quot; from the Wolfram Demonstrations Project" title="&quot;The Quotient Rule&quot; from the Wolfram Demonstrations Project" /></a><br>
-            <strong>The Quotient Rule</strong></td>
-          <td><a href="https://demonstrations.wolfram.com/Discontinuity/" target="_blank"><img src="https://demonstrations.wolfram.com/Discontinuity/thumbnail_174.jpg" border="0" alt="&quot;Discontinuity&quot; from the Wolfram Demonstrations Project" title="&quot;Discontinuity&quot; from the Wolfram Demonstrations Project" /></a><br>
-            <strong>Discontinuity</strong></td>
-        </tr>
-        <tr valign="top">
-          <td>
-        <p align="left"><strong><strong><a href="https://demonstrations.wolfram.com/MeanValueTheorem/" target="_blank"><img src="https://demonstrations.wolfram.com/MeanValueTheorem/thumbnail_174.jpg" border="0" alt="&quot;Mean Value Theorem&quot; from the Wolfram Demonstrations Project" title="&quot;Mean Value Theorem&quot; from the Wolfram Demonstrations Project" /></a> <br>
-          Mean Value Theorem</strong></strong></p></td>
-          <td><p align="left"><strong><a href="https://demonstrations.wolfram.com/SqueezeTheorem/" target="_blank"><img src="https://demonstrations.wolfram.com/SqueezeTheorem/thumbnail_174.jpg" border="0" alt="&quot;Squeeze Theorem&quot; from the Wolfram Demonstrations Project" title="&quot;Squeeze Theorem&quot; from the Wolfram Demonstrations Project"/></a><br>
-          Squeeze Theorem
-            </strong></p>
-          </td>
-          <td><strong><a href="https://demonstrations.wolfram.com/TheFundamentalTheoremOfCalculus/" target="_blank"><img src="https://demonstrations.wolfram.com/TheFundamentalTheoremOfCalculus/thumbnail_174.jpg" border="0" alt="&quot;The Fundamental Theorem of Calculus&quot; from the Wolfram Demonstrations Project" title="&quot;The Fundamental Theorem of Calculus&quot; from the Wolfram Demonstrations Project" /></a><br>
-          The Fundamental Theorem of Calculus</strong></td>
-        </tr>
-        <tr valign="top">
-          <td><strong><a href="https://demonstrations.wolfram.com/AverageValueOfAFunction/" target="_blank"><img src="https://demonstrations.wolfram.com/AverageValueOfAFunction/thumbnail_174.jpg" border="0" alt="&quot;Average Value of a Function&quot; from the Wolfram Demonstrations Project" title="&quot;Average Value of a Function&quot; from the Wolfram Demonstrations Project" /></a><br>
-          Average Value of a Function</strong></td>
-          <td><a href="https://demonstrations.wolfram.com/ExtremeValueTheorem/" target="_blank"><img src="https://demonstrations.wolfram.com/ExtremeValueTheorem/thumbnail_174.jpg" border="0" alt="&quot;Extreme Value Theorem&quot; from the Wolfram Demonstrations Project" title="&quot;Extreme Value Theorem&quot; from the Wolfram Demonstrations Project" /></a><br>
-            <strong>Extreme Value Theorem</strong></td>
-          <td><a href="https://demonstrations.wolfram.com/IntegralMeanValueTheorem/" target="_blank"><img src="https://demonstrations.wolfram.com/IntegralMeanValueTheorem/thumbnail_174.jpg" border="0" alt="&quot;Integral Mean Value Theorem&quot; from the Wolfram Demonstrations Project" title="&quot;Integral Mean Value Theorem&quot; from the Wolfram Demonstrations Project" /></a><br>
-            <strong>Integral Mean Value Theorem</strong></td>
-        </tr>
-        <tr valign="top">
-          <td><a href="https://demonstrations.wolfram.com/IntermediateValueTheorem/" target="_blank"><img src="https://demonstrations.wolfram.com/IntermediateValueTheorem/thumbnail_174.jpg" border="0" alt="&quot;Intermediate Value Theorem&quot; from the Wolfram Demonstrations Project" title="&quot;Intermediate Value Theorem&quot; from the Wolfram Demonstrations Project" /></a><br> <strong>Intermediate Value Theorem</strong></td>
-          <td><a href="https://demonstrations.wolfram.com/IntegrationByRiemannSums/" target="_blank"><img src="https://demonstrations.wolfram.com/IntegrationByRiemannSums/thumbnail_174.jpg" border="0" alt="&quot;Integration by Riemann Sums&quot; from the Wolfram Demonstrations Project" title="&quot;Integration by Riemann Sums&quot; from the Wolfram Demonstrations Project" /></a><br>
-            <strong>Riemann Sums: Integration</strong></td>
-          <td><a href="https://demonstrations.wolfram.com/AreaBetweenCurves/" target="_blank"><img src="https://demonstrations.wolfram.com/AreaBetweenCurves/thumbnail_174.jpg" border="0" alt="&quot;Area Between Curves&quot; from the Wolfram Demonstrations Project" title="&quot;Area Between Curves&quot; from the Wolfram Demonstrations Project" /></a><br>
-            <strong>Area Between Curves</strong></td>
-        </tr>
-        <tr valign="top">
-          <td><a href="https://demonstrations.wolfram.com/VolumesUsingTheDiscMethod/" target="_blank"><img src="https://demonstrations.wolfram.com/VolumesUsingTheDiscMethod/thumbnail_174.jpg" border="0" alt="&quot;Volumes Using the Disc Method&quot; from the Wolfram Demonstrations Project" title="&quot;Volumes Using the Disc Method&quot; from the Wolfram Demonstrations Project" /></a><br>
-            <strong>Disk Method</strong></td>
-          <td><a href="https://demonstrations.wolfram.com/SolidsOfKnownCrossSection/" target="_blank"><img src="https://demonstrations.wolfram.com/SolidsOfKnownCrossSection/thumbnail_174.jpg" border="0" alt="&quot;Solids of Known Cross Section&quot; from the Wolfram Demonstrations Project" title="&quot;Solids of Known Cross Section&quot; from the Wolfram Demonstrations Project" /></a><br>
-            <strong>Solids of Known Cross Sections</strong></td>
-          <td><a href="https://demonstrations.wolfram.com/VolumesOfRevolutionUsingCylindricalShells/" target="_blank"><img src="https://demonstrations.wolfram.com/VolumesOfRevolutionUsingCylindricalShells/thumbnail_174.jpg" border="0" alt="&quot;Volumes of Revolution Using Cylindrical Shells&quot; from the Wolfram Demonstrations Project" title="&quot;Volumes of Revolution Using Cylindrical Shells&quot; from the Wolfram Demonstrations Project" /></a><br>
-            <strong>Shell Method</strong></td>
-        </tr>
-        <tr valign="top">
-          <td><a href="https://demonstrations.wolfram.com/PlotOfAGeometricSequenceAndItsPartialSums/" target="_blank"><img src="https://demonstrations.wolfram.com/PlotOfAGeometricSequenceAndItsPartialSums/thumbnail_174.jpg" border="0" alt="&quot;Plot of a Geometric Sequence and Its Partial Sums&quot; from the Wolfram Demonstrations Project" title="&quot;Plot of a Geometric Sequence and Its Partial Sums&quot; from the Wolfram Demonstrations Project" /></a><br>
-            <strong>Geometric Sequence</strong></td>
-          <td><a href="https://demonstrations.wolfram.com/GraphsOfTaylorPolynomials/" target="_blank"><img src="https://demonstrations.wolfram.com/GraphsOfTaylorPolynomials/thumbnail_174.jpg" border="0" alt="&quot;Graphs of Taylor Polynomials&quot; from the Wolfram Demonstrations Project" title="&quot;Graphs of Taylor Polynomials&quot; from the Wolfram Demonstrations Project" /></a><br>
-            <strong>Taylor Polynomials</strong></td>
-          <td><a href="https://demonstrations.wolfram.com/LHospitalsRuleFor00Forms/" target="_blank"><img src="https://demonstrations.wolfram.com/LHospitalsRuleFor00Forms/thumbnail_174.jpg" border="0" alt="&quot;L'Hospital's Rule for 0/0 Forms&quot; from the Wolfram Demonstrations Project" title="&quot;L'Hospital's Rule for 0/0 Forms&quot; from the Wolfram Demonstrations Project" /></a><br>
-            <strong>L'Hopital's Rule 0/0</strong></td>
-        </tr>
-  
-</table>
+<strong>tools</strong><br />
+<a href="https://jasp-stats.org/" target="_blank">jasp</a> <br>
+<a href="https://www.w3schools.com/r/default.asp" target="_blank">learn r</a><br>
+ <a href="https://posit.co/download/rstudio-desktop/" target="_blank">r-studio</a><br>
+<a href="https://www.ticalc.org/pub/83plus/basic/math/statistics/" target="_blank">ti-83/84</a><br>
+<a href="https://education.ti.com/en/software/details/en/31FC737C43CF43B0ADA1CF67420C3AA8/89statisticswithlisteditor" target="_blank">ti-89</a> <br>
+<a href="https://www.mathlore.net/files/TInspireCX_Skills_for_APstats.pdf" target="_blank"> ti-nspire </a> <br>
+
+---
+
+# multivariable calculus (2009 - present)
+<a href="https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/" target="_blank">mit - opencourseware</a><br>
+<a href="https://www.khanacademy.org/math/multivariable-calculus" target="_blank">khan academy - mvc lessons</a> <br>
+<a href="https://www.whitman.edu/mathematics/multivariable/multivariable.pdf" target="_blank"> textbook - whitman.edu</a> <br>
+<a href="https://open.umn.edu/opentextbooks/textbooks/780" target="_blank">open textbook - umn.edu</a> <br>
+
+---
+
+# linear algebra (2016 - 2019 )
+<a href="https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/" target="_blank"> mit - opencourseware</a><br>
+<a href="https://www.khanacademy.org/math/linear-algebra" target="_blank">khan academy - linalg lessons</a> <br>
+<a href="https://opentext.uleth.ca/linalg.html" target="_blank"> textbooks - uleth.ca</a> <br>
+<a href="https://open.umn.edu/opentextbooks/textbooks/5" target="_blank">open textbook - umn.edu</a> <br>
+
