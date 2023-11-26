@@ -133,7 +133,7 @@ permalink: /courses/
 <a href="https://blog.collegeboard.org/difference-between-ap-computer-science-principles-and-ap-computer-science" target="_blank">differences: cs p vs cs a</a><br>
 <a href="https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-java-quick-reference_0.pdf" target="_blank">quick reference - java subset</a><br>
 <a href="https://www.jdoodle.com/online-java-compiler/" target="_blank">jdoodle</a> <br> 
-<a href="https://www.w3schools.com/java/tryjava.asp?filename=demo_compiler" target="_blank">java compiler @ w3schools</a>
+<a href="https://www.w3schools.com/java/tryjava.asp?filename=demo_compiler" target="_blank">java compiler @ w3schools</a><br>
 <a href="https://apclassroom.collegeboard.org/8" target="_blank">ap classroom: college board</a><br>
 <a href="https://dev.java/learn/" target="_blank">dev.java/learn</a> <br>
 <a href="https://www.w3schools.com/java/default.asp" target="_blank">w3schools</a> <br>
