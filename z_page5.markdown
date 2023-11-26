@@ -136,7 +136,7 @@ permalink: /wolfram/
       <p class="style1"><u>Interactive Demonstrations: Calculus Concepts </u></p>
       <p class="style2"><u><a href="https://www.wolfram.com/cdf-player/" target="_blank">Download Mathematica Player (Free)</a></u>
      </p>
-      <table width="100%"  border="0">
+<table width="100%"  border="0">
         <tr valign="top">
           <td><a href="https://demonstrations.wolfram.com/TheTangentLineProblem/" target="_blank"><img src="https://demonstrations.wolfram.com/TheTangentLineProblem/thumbnail_174.jpg" border="0" alt="&quot;The Tangent Line Problem&quot; from the Wolfram Demonstrations Project" title="&quot;The Tangent Line Problem&quot; from the Wolfram Demonstrations Project" /></a><strong><br>
           The Tangent Problem</strong></td>
