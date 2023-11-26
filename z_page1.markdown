@@ -10,7 +10,7 @@ permalink: /courses/
 
 <p align="center"><img src="../img/site/squeeze.png" border="0"> </p>
 
-<table width="100%" style="border:0px solid white; width:100%;">
+<table width="100%" border="0">
 <tr> 
 <td width="50%" valign="top">
 <strong>calculus links</strong> <br />
