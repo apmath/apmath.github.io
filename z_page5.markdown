@@ -7,95 +7,95 @@ permalink: /wolfram/
 <strong>Wolfram Mathematica Labs for AP Calculus</strong> [Originally created with <a href="https://www.wolfram.com/mathematica/" target="_blank">Mathematica 8.0</a>]<br>
 
 01:  Investigating Limits 
-<a href="../docs/labs/calculus/01_Limits.pdf" target="_blank">.pdf
-<a href="../docs/labs/calculus/01_Limits.nb" target="_blank">.nb</a>
+<a href="../docs/labs/calculus/01_Limits.pdf" target="_blank">[  .pdf  ]</a>
+<a href="../docs/labs/calculus/01_Limits.nb" target="_blank">[  .nb  ]</a>
         
 02:  Rates of Change
-<a href="../docs/labs/calculus/02_Rates_of_change.pdf" target="_blank">.pdf</a>
-<a href="../docs/labs/calculus/02_Rates_of_change.nb" target="_blank">.nb</a>
+<a href="../docs/labs/calculus/02_Rates_of_change.pdf" target="_blank">[  .pdf  ]</a>
+<a href="../docs/labs/calculus/02_Rates_of_change.nb" target="_blank">[  .nb  ]</a>
 
 03:  The Derivative 
-<a href="../docs/labs/calculus/03_The_Derivative.pdf" target="_blank">.pdf</a>
-<a href="../docs/labs/calculus/03_The_Derivative.nb" target="_blank">.nb</a>
+<a href="../docs/labs/calculus/03_The_Derivative.pdf" target="_blank">[  .pdf  ]</a>
+<a href="../docs/labs/calculus/03_The_Derivative.nb" target="_blank">[  .nb  ]</a>
 
 04:  Derivatives Graphically
-<a href="../docs/labs/calculus/04_Derivatives_Graphically.pdf" target="_blank">.pdf</a>
-<a href="../docs/labs/calculus/04_Derivatives_Graphically.nb" target="_blank">.nb</a>
+<a href="../docs/labs/calculus/04_Derivatives_Graphically.pdf" target="_blank">[  .pdf  ]</a>
+<a href="../docs/labs/calculus/04_Derivatives_Graphically.nb" target="_blank">[  .nb  ]</a>
 
 05:  Higher Derivatives
-<a href="../docs/labs/calculus/05_Higher_Derivatives.pdf" target="_blank">.pdf</a>
-<a href="../docs/labs/calculus/05_Higher_Derivatives.nb" target="_blank">.nb</a>
+<a href="../docs/labs/calculus/05_Higher_Derivatives.pdf" target="_blank">[  .pdf  ]</a>
+<a href="../docs/labs/calculus/05_Higher_Derivatives.nb" target="_blank">[  .nb  ]</a>
         
 06:  Extrema
-<a href="../docs/labs/calculus/06_Extrema.pdf" target="_blank">.pdf</a>
-<a href="../docs/labs/calculus/06_Extrema.nb" target="_blank">.nb</a>
+<a href="../docs/labs/calculus/06_Extrema.pdf" target="_blank">[  .pdf  ]</a>
+<a href="../docs/labs/calculus/06_Extrema.nb" target="_blank">[  .nb  ]</a>
 
 07:  Inflection Points
-<a href="../docs/labs/calculus/07_Inflection_Points.pdf" target="_blank">.pdf</a>
-<a href="../docs/labs/calculus/07_Inflection_Points.pdf" target="_blank">.nb</a>
+<a href="../docs/labs/calculus/07_Inflection_Points.pdf" target="_blank">[  .pdf  ]</a>
+<a href="../docs/labs/calculus/07_Inflection_Points.pdf" target="_blank">[  .nb  ]</a>
  
 08:  Implicit Differentiation
-<a href="../docs/labs/calculus/08_Implicit_Differentiation.pdf" target="_blank">.pdf</a>
-<a href="../docs/labs/calculus/08_Implicit_Differentiation.nb" target="_blank">.nb</a>
+<a href="../docs/labs/calculus/08_Implicit_Differentiation.pdf" target="_blank">[  .pdf  ]</a>
+<a href="../docs/labs/calculus/08_Implicit_Differentiation.nb" target="_blank">[  .nb  ]</a>
 
 09:  Differential Equations
-<a href="../docs/labs/calculus/09_Differential_Equations.pdf" target="_blank">.pdf</a>
-<a href="../docs/labs/calculus/09_Differential_Equations.nb" target="_blank">.nb</a>
+<a href="../docs/labs/calculus/09_Differential_Equations.pdf" target="_blank">[  .pdf  ]</a>
+<a href="../docs/labs/calculus/09_Differential_Equations.nb" target="_blank">[  .nb  ]</a>
       
 10:  Integrals
-<a href="../docs/labs/calculus/10_Integrals.pdf" target="_blank">.pdf</a>
-<a href="../docs/labs/calculus/10_Integrals.nb" target="_blank">.nb</a>
+<a href="../docs/labs/calculus/10_Integrals.pdf" target="_blank">[  .pdf  ]</a>
+<a href="../docs/labs/calculus/10_Integrals.nb" target="_blank">[  .nb  ]</a>
       
 11: Riemann Sums
-<a href="../docs/labs/calculus/11_Riemann_Sums.pdf" target="_blank">.pdf</a>
-<a href="../docs/labs/calculus/11_Riemann_Sums.nb" target="_blank">.nb</a>
+<a href="../docs/labs/calculus/11_Riemann_Sums.pdf" target="_blank">[  .pdf  ]</a>
+<a href="../docs/labs/calculus/11_Riemann_Sums.nb" target="_blank">[  .nb  ]</a>
       
 12: Improper Integrals*
-<a href="../docs/labs/calculus/12_Improper_Integrals.pdf" target="_blank">.pdf</a>
-<a href="../docs/labs/calculus/12_Improper_Integrals.nb" target="_blank">.nb</a>
+<a href="../docs/labs/calculus/12_Improper_Integrals.pdf" target="_blank">[  .pdf  ]</a>
+<a href="../docs/labs/calculus/12_Improper_Integrals.nb" target="_blank">[  .nb  ]</a>
    
 13: Accumulating Functions
-<a href="../docs/labs/calculus/13_Accumulating_Functions.pdf" target="_blank">.pdf</a>
-<a href="../docs/labs/calculus/13_Accumulating_Functions.nb" target="_blank">.nb</a>
+<a href="../docs/labs/calculus/13_Accumulating_Functions.pdf" target="_blank">[  .pdf  ]</a>
+<a href="../docs/labs/calculus/13_Accumulating_Functions.nb" target="_blank">[  .nb  ]</a>
        
 14: Sequences and Series*
-<a href="../docs/labs/calculus/14_Sequences_and_Series.pdf" target="_blank">.pdf</a>
-<a href="../docs/labs/calculus/14_Sequences_and_Series.nb" target="_blank">.nb</a>
+<a href="../docs/labs/calculus/14_Sequences_and_Series.pdf" target="_blank">[  .pdf  ]</a>
+<a href="../docs/labs/calculus/14_Sequences_and_Series.nb" target="_blank">[  .nb  ]</a>
 
-15: Dot Product<a href="../docs/labs/calculus/15_Dot_Product.pdf" target="_blank">.pdf</a>
-<a href="../docs/labs/calculus/15_Dot_Product.nb" target="_blank">.nb</a>
+15: Dot Product<a href="../docs/labs/calculus/15_Dot_Product.pdf" target="_blank">[  .pdf  ]</a>
+<a href="../docs/labs/calculus/15_Dot_Product.nb" target="_blank">[  .nb  ]</a>
 
 16: Cross Product
-<a href="../docs/labs/calculus/16_Cross_Product.pdf" target="_blank">.pdf</a>
-<a href="../docs/labs/calculus/16_Cross_Product.nb" target="_blank">.nb</a>
+<a href="../docs/labs/calculus/16_Cross_Product.pdf" target="_blank">[  .pdf  ]</a>
+<a href="../docs/labs/calculus/16_Cross_Product.nb" target="_blank">[  .nb  ]</a>
 
 17: Lines and Planes
-<a href="../docs/labs/calculus/17_Lines_Planes.pdf" target="_blank">.pdf</a>
-<a href="../docs/labs/calculus/17_Lines_Planes.nb" target="_blank">.nb</a>
+<a href="../docs/labs/calculus/17_Lines_Planes.pdf" target="_blank">[  .pdf  ]</a>
+<a href="../docs/labs/calculus/17_Lines_Planes.nb" target="_blank">[  .nb  ]</a>
 
 18: Curvature, T(t),N(t), B(t)
-<a href="../docs/labs/calculus/18_Curvature_TNB.pdf" target="_blank">.pdf</a>
-<a href="../docs/labs/calculus/18_Curvature_TNB.nb" target="_blank">.nb</a>
+<a href="../docs/labs/calculus/18_Curvature_TNB.pdf" target="_blank">[  .pdf  ]</a>
+<a href="../docs/labs/calculus/18_Curvature_TNB.nb" target="_blank">[  .nb  ]</a>
       
 19: Multivariable Functions
-<a href="../docs/labs/calculus/19_Multivariable_Functions.pdf" target="_blank">.pdf</a>
-<a href="../docs/labs/calculus/19_Multivariable_Functions.nb" target="_blank">.nb</a>
+<a href="../docs/labs/calculus/19_Multivariable_Functions.pdf" target="_blank">[  .pdf  ]</a>
+<a href="../docs/labs/calculus/19_Multivariable_Functions.nb" target="_blank">[  .nb  ]</a>
    
 20: Partial Derivatives
-<a href="../docs/labs/calculus/20_Partial_Derivatives.pdf" target="_blank">.pdf</a>
-<a href="../docs/labs/calculus/20_Partial_Derivatives.nb" target="_blank">.nb</a>
+<a href="../docs/labs/calculus/20_Partial_Derivatives.pdf" target="_blank">[  .pdf  ]</a>
+<a href="../docs/labs/calculus/20_Partial_Derivatives.nb" target="_blank">[  .nb  ]</a>
 
 21:  The Chain Rule
-<a href="../docs/labs/calculus/21_Chain_Rule.pdf" target="_blank">.pdf</a>
-<a href="../docs/labs/calculus/21_Chain_Rule.nb" target="_blank">.nb</a>
+<a href="../docs/labs/calculus/21_Chain_Rule.pdf" target="_blank">[  .pdf  ]</a>
+<a href="../docs/labs/calculus/21_Chain_Rule.nb" target="_blank">[  .nb  ]</a>
 
 22:  The Gradient
-<a href="../docs/labs/calculus/22_Gradient.pdf" target="_blank">.pdf</a>
-<a href="../docs/labs/calculus/22_Gradient.nb" target="_blank">.nb</a>
+<a href="../docs/labs/calculus/22_Gradient.pdf" target="_blank">[  .pdf  ]</a>
+<a href="../docs/labs/calculus/22_Gradient.nb" target="_blank">[  .nb  ]</a>
 
 23:  Lagrange Multiplier
-<a href="../docs/labs/calculus/23_Lagrange_Multiplier.pdf" target="_blank">.pdf</a>
-<a href="../docs/labs/calculus/23_Lagrange_Multiplier.nb" target="_blank">.nb</a>
+<a href="../docs/labs/calculus/23_Lagrange_Multiplier.pdf" target="_blank">[  .pdf  ]</a>
+<a href="../docs/labs/calculus/23_Lagrange_Multiplier.nb" target="_blank">[  .nb  ]</a>
 
 
 <center>*AP Calculus BC only </center>
