@@ -6,27 +6,30 @@ permalink: /projects/
 
 # ap calculus
 
-Description: a one-page website with resources for students and teachers of Advanced Placement Calculus.
+<a href="../fr-gen/index.html" target="_blank"> frq - generator: ab & bc (updated 2023)</a> <br>
+<a href="../fr-gen/fr-ab.html" target="_blank">random fr: ab </a> <br />
+<a href="../fr-gen/fr-bc.html" target="_blank">random fr: bc </a>  <br />
+<a href="../fcards/index.html" target="_blank">flash cards</a><br>
+<a href="../mcq/index.html" target="_blank">random mcq</a> <br>
 
-<a href="https://ap-calc.github.io" target="_blank">ap-calc.github.io</a>
 
-<p align="center"><img src="../img/site/squeeze.png" border="0"> </p>
 
 # grade curving (for teachers)
 
 Description: paste a column of raw student scores and use two different methods to adjust numerically using sliders. A visual representation of the original vs transformed scores is given. 
 
-<a href="https://ap-calc.github.io/gcc/index.html" target="_blank"> Javascript version </a> 
-
-<a href="https://ap-calc.github.io/gcc1/index.html" target="_blank"> Geogebra version </a>
+<a href="https://ap-calc.github.io/gcc/index.html" target="_blank"> Javascript version </a> <br>
+<a href="https://ap-calc.github.io/gcc1/index.html" target="_blank"> Geogebra version </a><br>
 
 <p align="center"><img src="../d-img/curving.png" border="0"> </p>
 
 # random 
 
-<a href="https://ap-calc.github.io/uscis/" target="_blank"> uscis citizenship questions </a>
+<a href="../uscis/" target="_blank"> uscis citizenship questions </a> <br>
+<a href="../running/" target="_blank">visualizing stats with Charts.js</a><br>
+<a href="../apscore/" target="_blank">ap calculus scores with google charts</a><br>
+<a href="../srs/index.html" target="_blank"> the square Root Spiral with Geogebra</a><br />
+<a href="../fileserver/" target="_blank"> shared files / old </a><br />
+<a href="../apscore/" target="_blank">ap results with Google Charts</a> <br />
 
-<a href="https://ap-calc.github.io/running/" target="_blank">visualizing stats with Charts.js</a>
-
-<a href="https://ap-calc.github.io/apscore/" target="_blank">ap calculus scores with google charts</a>
 
