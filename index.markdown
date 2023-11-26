@@ -3,7 +3,10 @@ title: about
 layout: home
 ---
 
-I am an educator and technology enthusiast from the New England region in the United States. This site contains resources for students and teachers of Advanced Placement Calculus AB and BC. Some of the content originally came about when I first started teaching in 2005, for the purpose of making classroom materials available to my students on the web. Here you will find selected tutorials, references, worksheets, multiple choice and free response practice, summer review packets, and links to external resources. I hope you find these materials useful in your teaching or learning. If you are looking for the single-page version of ap-calc.github.io, find it <a href="../index_retired.html" target="_blank"> here</a>. For questions or comments email me at apcalc@pm.me or use the form below.
+I am an educator and technology enthusiast from the New England region in the United States. This site contains resources for students and teachers of Advanced Placement Calculus AB and BC. Here you will find selected tutorials, references, worksheets, multiple choice and free response practice, summer review packets, and links to external resources. I hope you find these materials useful in your teaching or learning. The idea of making classroom materials available on the web for my students came about when I first started teaching in 2005. In addition to the AP Calculus sequence, I've also taught Multivariable Calculus, AP Computer Science A, AP Statistics, and Linear Algebra.
+
+
+If you are looking for the single-page version of ap-calc.github.io, find it <a href="../index_retired.html" target="_blank"> here</a>. For questions or comments email me at apcalc@pm.me or use the form below.
 
 <p align="center"> site last updated: Nov 25, 2023</p>
 
