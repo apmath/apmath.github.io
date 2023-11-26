@@ -21,11 +21,11 @@ permalink: /course/
 <a href="https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/" target="_blank">mit opencourseware</a><br>
 <a href="https://demonstrations.wolfram.com/topic.html?topic=Calculus&limit=20" target="_blank"> wolfram demos for calculus</a> <br>
 <a href="https://www.online.math.uh.edu/HoustonACT/videocalculus/index.html" target="_blank">video calculus from uh.edu</a><br>
- <a href="https://math.arizona.edu/~calc/m124Worksheets.html" target="_blank">Univ. of Arizona: Calculus I Resources</a> <br />
+ <a href="https://math.arizona.edu/~calc/m124Worksheets.html" target="_blank">univ. of arizona: calculus I resources</a> <br />
 <a href="https://www.integral-domain.org/lwilliams/Applets/index.php" target="_blank"> js applets forcalculus</a><br>
 <a href="https://www.geogebra.org/t/calculus?lang=en" target="_blank"> geogebra applets for calculus</a><br>
-<a href="https://library.wolfram.com/webMathematica/Education/WalkD.jsp" target="_blank">Wolfram Derivative Calculator</a> <br />
-<a href="https://www.wolframalpha.com/" target="_blank"> WolframAlpha.com</a>
+<a href="https://library.wolfram.com/webMathematica/Education/WalkD.jsp" target="_blank">wolfram derivative calculator</a> <br />
+<a href="https://www.wolframalpha.com/" target="_blank"> wolframalpha.com</a>
 
 <strong>Tutorials on  Selected Topics</strong><br />
       <a href="../../docs/apcalculus/tutorials/tutorial01.pdf" target="_blank">01: Limits and Continuity </a><br />

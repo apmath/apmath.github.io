@@ -4,7 +4,7 @@ layout: home
 ---
 
 I am an educator and technology enthusiast from the New England region in the United States. This site contains resources for students and teachers of Advanced Placement Calculus AB and BC. Some of the content originally came about when I first started teaching in 2005, for the purpose of making classroom materials available to my students on the web. Here you will find selected tutorials, references, worksheets, multiple choice and free response practice, summer review packets, and links to external resources. I hope you find these materials useful in your teaching or learning. For questions or comments email me at apcalc@pm.me or use the form below.
-<p align="center"> Denis last updated this page on Nov 25, 2023.</p>
+<p align="center"> site last updated: Nov 25, 2023</p>
 
 <p align="center"><img src="../img/site/running.jpeg" border="3"> </p>
 
