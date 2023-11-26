@@ -70,7 +70,7 @@ permalink: /calculus/
 <td width="50%" valign="top">
 <strong>worksheets/activities</strong> <br />
       <a href="../../docs/apcalculus/worksheets/worksheet01.pdf" target="_blank">01: Self-Diagnostic Test </a><br /> 
-      <a href="../../docs/apcalculus/worksheets/worksheet02.pdf" target="_blank">02: pdf-requisites Test </a><br />
+      <a href="../../docs/apcalculus/worksheets/worksheet02.pdf" target="_blank">02: Pre-requisites Test </a><br />
       <a href="../../docs/apcalculus/worksheets/worksheet03.pdf" target="_blank">03: Extrema, MVT I  </a><br />
       <a href="../../docs/apcalculus/worksheets/worksheet04.pdf" target="_blank">04: Extrema, MVT II </a> <br />
       <a href="../../docs/apcalculus/worksheets/worksheet05.pdf" target="_blank">05: Derivatives & Original Functions </a> <br />
@@ -89,7 +89,7 @@ permalink: /calculus/
       <a href="../../docs/apcalculus/worksheets/worksheet18.pdf" target="_blank"> 18: Areas/Solids</a><br />
       <a href="../../docs/apcalculus/worksheets/worksheet19.pdf" target="_blank"> 19: Volumes orgSolids</a><br />
       <a href="../../docs/apcalculus/worksheets/worksheet20.pdf" target="_blank"> 20: Known X-Sections</a><br />
-      <a href="../../docs/apcalculus/worksheets/worksheet21.pdf" target="_blank"> 21: Separation orgVariables</a><br />
+      <a href="../../docs/apcalculus/worksheets/worksheet21.pdf" target="_blank"> 21: Separation of Variables</a><br />
       <a href="../../docs/apcalculus/worksheets/worksheet22.pdf" target="_blank"> 22: You see this...you do... (AB) </a><br />
       <a href="../../docs/apcalculus/worksheets/worksheet23.pdf" target="_blank"> 23: Slope Fields </a><br />
       <a href="../../docs/apcalculus/worksheets/worksheet24.pdf" target="_blank"> 24: You see this...you do... (BC)</a><br />
@@ -353,7 +353,7 @@ permalink: /calculus/
 <a href="../docs/apcalculus/apexa../2006/2006_bc_exam2_full.pdf" target="_blank"> UH | BC 2006 | Exam 2 | Full </a> (<a href="../docs/apcalculus/apexa../2006/2006_bc_exam2_fr-solutions.pdf" target="_blank">FR Key</a>) <br />
 <a href="../docs/apcalculus/apexa../2006/2006_bc_exam3.pdf" target="_blank"> UH | BC 2006 | Exam 3 | MC </a> <br />
 <a href="../docs/apcalculus/apexa../2006/2006_bc_exam4.pdf" target="_blank"> UH | BC 2006 | Exam 4 | MC </a> <br />
-<a href="../docs/apcalculus/apexa../2006/2006_bc_exam5.pdf" target="_blank"> UH | BC 2006 | Exam 5 | MC </a> 
+<a href="../docs/apcalculus/apexa../2006/2006_bc_exam5.pdf" target="_blank"> UH | BC 2006 | Exam 5 | MC </a> <br>
            
 <!-- UH 2008 Exams --> 
 <a href="../docs/apcalculus/apexa../2008/2008_ab_exam1.pdf" target="_blank"> UH | AB 2008 | Exam 1 | MC </a> <br />
