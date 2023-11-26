@@ -282,7 +282,7 @@ permalink: /calculus/
   
 -->
 </td>
-<tr>
+</tr>
 
 <tr>
 <td colspan="2" valign="top">
