@@ -10,7 +10,7 @@ Description: a one-page website with resources for students and teachers of Adva
 
 <a href="https://ap-calc.github.io" target="_blank">ap-calc.github.io</a>
 
-<p align="center"><img src="../d-img/squeeze.png" border="0"> </p>
+<p align="center"><img src="../img/site/squeeze.png" border="0"> </p>
 
 # grade curving (for teachers)
 
@@ -20,7 +20,7 @@ Description: paste a column of raw student scores and use two different methods 
 
 <a href="https://ap-calc.github.io/gcc1/index.html" target="_blank"> Geogebra version </a>
 
-<p align="center"><img src="../d-img/curving.png" border="0"> </p>
+<p align="center"><img src="../img//site/curving.png" border="0"> </p>
 
 # random 
 
