@@ -8,22 +8,23 @@ permalink: /course/
 
 <i> AP Calculus follows the curriculum set forth by the College Board. The AB level is worth the equivalent of one semester of college credit upon successful completion of the AP examination offered in May. The BC level, which is an extension of AB, is worth the equivalent of two semesters of college credit. AB topcs include the library of functions (review from precalculus), limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, etc. The BC curriculum adds advanced techniques of integration, series and sequences, calculus of parametric and polar curves, etc. </i>
 
-[ <a href="https://apstudents.collegeboard.org/courses/ap-calculus-ab" target="_blank">about ab</a> ]
-[ <a href="https://apstudents.collegeboard.org/courses/ap-calculus-bc" target="_blank">about bc</a> ] 
-[ <a href="https://apstudents.collegeboard.org/courses/ap-calculus-ab/assessment" target="_blank">ab exam</a> ] 
-[ <a href="https://apstudents.collegeboard.org/courses/ap-calculus-bc/assessment" target="_blank">bc exam</a> ] 
-[ <a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">calculators</a> ]
+<strong>calculus links</strong> <br />
+<a href="https://apstudents.collegeboard.org/courses/ap-calculus-ab" target="_blank">about ap calculus ab</a><br> 
+<a href="https://apstudents.collegeboard.org/courses/ap-calculus-bc" target="_blank">about calculus bc</a> <br>
+<a href="https://apstudents.collegeboard.org/courses/ap-calculus-ab/assessment" target="_blank">about the ab exam</a> <br>
+<a href="https://apstudents.collegeboard.org/courses/ap-calculus-bc/assessment" target="_blank">about the bc exam</a> <br>
+<a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">calculator policy</a> 
 
-[ <a href="https://apcentral.collegeboard.org/media/pdf/ap-calculus-ab-and-bc-course-and-exam-description.pdf" target="_blank">description</a> ]
-[ <a href="https://blog.collegeboard.org/difference-between-ap-calculus-ab-and-bc" target="_blank">ab vs bc</a> ]
-[ <a href="https://apcentral.collegeboard.org/courses/ap-calculus-ab/exam/past-exam-questions" target="_blank">ab questions</a> ]
-[ <a href="https://apcentral.collegeboard.org/courses/ap-calculus-bc/exam/past-exam-questions" target="_blank">bc questions</a> ]
+<a href="https://apcentral.collegeboard.org/media/pdf/ap-calculus-ab-and-bc-course-and-exam-description.pdf" target="_blank">course description (ced)</a><br>
+<a href="https://blog.collegeboard.org/difference-between-ap-calculus-ab-and-bc" target="_blank">differences: ab vs bc</a> <br>
+<a href="https://apcentral.collegeboard.org/courses/ap-calculus-ab/exam/past-exam-questions" target="_blank">ab past questions</a><br>
+<a href="https://apcentral.collegeboard.org/courses/ap-calculus-bc/exam/past-exam-questions" target="_blank">bc past questions</a>
 
-[ <a href="https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/" target="_blank">mit-ocw</a> ]
-[ <a href="https://demonstrations.wolfram.com/topic.html?topic=Calculus&limit=20" target="_blank"> wolfram demos</a> ] 
-[ <a href="https://www.online.math.uh.edu/HoustonACT/videocalculus/index.html" target="_blank">video calculus</a> ]
-[ <a href="https://www.integral-domain.org/lwilliams/Applets/index.php" target="_blank"> js applets</a> ]
-[ <a href="https://www.geogebra.org/t/calculus?lang=en" target="_blank"> geogebra applets</a> ]
+<a href="https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/" target="_blank">mit-ocw</a><br>
+<a href="https://demonstrations.wolfram.com/topic.html?topic=Calculus&limit=20" target="_blank"> wolfram demos</a> <br>
+<a href="https://www.online.math.uh.edu/HoustonACT/videocalculus/index.html" target="_blank">video calculus</a><br>
+<a href="https://www.integral-domain.org/lwilliams/Applets/index.php" target="_blank"> js applets</a><br>
+<a href="https://www.geogebra.org/t/calculus?lang=en" target="_blank"> geogebra applets</a><br>
 
 <strong>Tutorials on  Selected Topics</strong><br />
       <a href="../../docs/apcalculus/tutorials/tutorial01.pdf" target="_blank">01: Limits and Continuity </a><br />
