@@ -10,6 +10,9 @@ permalink: /courses/
 
 <p align="center"><img src="../img/site/squeeze.png" border="0"> </p>
 
+<table width="100%" border="0">
+<tr> 
+<td width="50%">
 <strong>calculus links</strong> <br />
 <a href="https://apstudents.collegeboard.org/courses/ap-calculus-ab" target="_blank">about ap calculus ab</a><br> 
 <a href="https://apstudents.collegeboard.org/courses/ap-calculus-bc" target="_blank">about calculus bc</a> <br>
@@ -63,7 +66,8 @@ permalink: /courses/
       <a href="../../docs/apcalculus/references/reference15.pdf" target="_blank">15: AP Calculus AB Study Sheets </a><br />
       <a href="../../docs/apcalculus/references/reference16.pdf" target="_blank">16: *Convergence Flowchart v2.0 </a><br />
       <a href="../../docs/apcalculus/references/reference17.pdf" target="_blank">17: TI-84 Tutorial </a><br />
-  
+</td>
+<td width="50%">
 <strong>Worksheets/Activities</strong> <br />
       <a href="../../docs/apcalculus/worksheets/worksheet01.pdf" target="_blank">01: Self-Diagnostic Test </a><br /> 
       <a href="../../docs/apcalculus/worksheets/worksheet02.pdf" target="_blank">02: Pre-requisites Test </a><br />
@@ -110,6 +114,14 @@ permalink: /courses/
       <a href="../docs/apcalculus/apexams/review/ab_ap_style_worksheets.pdf" target="_blank">04: AP Style: AB Review</a> <br />
       <a href="../docs/apcalculus/apexams/review/apcalc_worksheets_and_free_response.pdf" target="_blank">05: Calc AB: Worksheets/Free Resp.</a><br />
       
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+</td>
+</tr>
+</table>
       
  ---
 
