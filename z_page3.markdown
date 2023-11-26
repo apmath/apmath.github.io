@@ -1,76 +1,74 @@
 ---
-title: mcq
+title: other
 layout: page
-permalink: /mcqu/
+permalink: /other/
 ---
 
-<strong>From the CollegeBoard</strong>
-  <!-- 1988 FULL EXAM -->   
-<a href="https://apcentral.collegeboard.com/apc/public/repository/calculcus-free-exam-1988.pdf" target="_blank">1988 - AP Calculus AB - FULL EXAM</a> ( <a href="../docs/apcalculus/apexams/fullexams/calculcus-free-exam-1988.pdf" target="_blank">MIRROR </a> ) 
-<!-- 1998 FULL EXAM -->  
-<a href="https://apcentral.collegeboard.com/apc/public/repository/calculcus-free-exam-1998.pdf" target="_blank">1998 - AP Calculus AB - FULL EXAM</a> ( <a href="../docs/apcalculus/apexams/fullexams/calculcus-free-exam-1998.pdf" target="_blank">MIRROR </a> )<br>
-<!-- Sample Questions from the the College Board course description -->
-<a href="../docs/apcalculus/apexams/multiplechoice/mc_sample_ab_bc_cb_2013.pdf" target="_blank">Sample Questions: College Board</a> 
+# ap computer science a (2009 - present)
+<i> AP Computer Science A is both a college-prep course for potential computer science majors and a foundation course for students planning to study in other fields such as mathematics, engineering, physics, chemistry, and geology. The course emphasizes methodology, procedural abstraction, and in-depth study of algorithms, data structures, and data abstractions. Instruction includes preparation for the AP Computer Science A exam in May. In this course, students apply the programming tools they have learned to real-life examples on their own. Computer science is more than just programming; students who successfully complete the course will have an understanding of Java and the ability to adapt to any new programming language. </i>
 
-<strong>AP Calculus AB/BC: ap-calc.github.io</strong><br> 
-<!-- ilearnmath.net Multiple Choice Questions for AP Calculus AB/BC -->
-<a href="../mcq/index.html" target="_blank"> 300 Questions: ap-calc.github.io </a> <br>
-<a href="../docs/quest/questapcalculus.pdf" target="_blank"> 130 Questions: ap-calc.github.io</a>
-<!-- 1997 Calculus AB MOCK EXAM - iLearnMath.net -->   
-<a href="../docs/apcalculus/apexams/fullexams/mc_calcab_1997_mock.pdf" target="_blank">1997 - AP Calculus AB - MOCK EXAM </a> 
-  
-<strong>AP Calculus AB/BC MISC. SOURCES</strong><br>
-<!-- 20 AP Calculus AB Problems from LHS -->
-<a href="../docs/apcalculus/apexams/multiplechoice/01_mc_calc_ab_20p.pdf" target="_blank"> 01. AB/BC | 20 Sample Questions </a><br>
-<!-- 32 AP Calculus AB Problems--> 
-<a href="../docs/apcalculus/apexams/multiplechoice/02_mc_ab_32_problems.pdf" target="_blank">  02. AB/BC | 32 Sample Questions </a><font color=purple>(key incl.)</font><br>
-<!-- 11 AP Calculus AB Problems from Newton HS? --> 
-<a href="../docs/apcalculus/apexams/multiplechoice/03_mc_ab_11problems.pdf" target="_blank"> 03. AB/BC | 11 Sample Questions </a>
-<!-- Sets AP Calculus AB Multiple Choice Problems from Designated Deriver Wiki -->  
-<a href="../docs/apcalculus/apexams/multiplechoice/04_mc_multiple_choice_sets_1thru20.pdf" target="_blank">04. AB/BC | 75 Questions (20 Sets) </a><font color=purple>(key incl.)</font><br>
-<!-- 14 MC Problems --> 
-<a href="../docs/apcalculus/apexams/multiplechoice/05_mc_bc_14_problems.pdf" target="_blank"> 05. AB/BC | 14 Sample Problems </a> <font color=purple>(key inc.)</font><br>
-<!-- 20 MC/TF Problems -->
-<a href="../docs/apcalculus/apexams/multiplechoice/06_mc_calc_20problems.pdf" target="_blank"> 06. AB/BC | 20 Problems MC/True/False </a>  
-<!-- 32 MC Problems AB/BC from Brandeis -->
-<a href="../docs/apcalculus/apexams/multiplechoice/07_mc_bc_32_problems_brandeis.pdf" target="_blank"> 07. AB/BC | 32 Sample Problems </a><br>
-<!-- 19 MC Problems AB/BC -->
-<a href="../docs/apcalculus/apexams/multiplechoice/08_mc_ab_19questions.pdf" target="_blank"> 08. AB/BC | 19 Sample Problems </a>
-<!-- 17 Graphing Calculus Problems - Solved - AP Calculus AB Level -->  
-<a href="../docs/apcalculus/apexams/multiplechoice/09_mc_old_guide_key_solutions.pdf" target="_blank">   09. AB/BC | 17 Solved Graphing Problems (AB)  </a><br>
-<!-- Spark Notes: AP Calculus AB | Full Exam -->
-<a href="../docs/apcalculus/apexams/multiplechoice/10_sparknotes_ab_exam_full.pdf" target="_blank"> 10. AB/BC | Full Exam (AB Level)  </a>
-<!-- 41 MC Problems AB Level -->   
-<a href="../docs/apcalculus/apexams/multiplechoice/11_mc_ab_41questions.pdf" target="_blank">  11. AB/BC | 41 Sample Problems (AB) </a>
-  
-<strong>ap exams: uh.edu</strong>
+<strong>links</strong><br />
+<a href="https://apstudents.collegeboard.org/courses/ap-computer-science-a" target="_blank">about ap computer science a</a><br>
+<a href="https://apstudents.collegeboard.org/courses/ap-computer-science-a/assessment" target="_blank">about the ap exam</a><br>
+<a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">calculator policy</a><br>
+<a href="https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-course-and-exam-description.pdf" target="_blank">course description (ced)</a><br>
+<a href="https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam/past-exam-questions" target="_blank">past ap questions</a><br>
+<a href="https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-course-at-a-glance.pdf" target="_blank">ap computer science a at a glance</a> <br>
+<a href="https://blog.collegeboard.org/difference-between-ap-computer-science-principles-and-ap-computer-science" target="_blank">differences: cs p vs cs a</a><br>
+<a href="https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-java-quick-reference_0.pdf" target="_blank">quick reference - java subset</a><br>
+<a href="https://www.jdoodle.com/online-java-compiler/" target="_blank">jdoodle</a> <br> 
+<a href="https://www.w3schools.com/java/tryjava.asp?filename=demo_compiler" target="_blank">java compiler @ w3schools</a><br>
+<a href="https://apclassroom.collegeboard.org/8" target="_blank">ap classroom: college board</a><br>
+<a href="https://dev.java/learn/" target="_blank">dev.java/learn</a> <br>
+<a href="https://www.w3schools.com/java/default.asp" target="_blank">w3schools</a> <br>
+<a href="https://docs.oracle.com/javase/tutorial/" target="_blank">oracle: java tutorials</a><br> 
+<a href="https://docs.oracle.com/javase/8/docs/api/" target="_blank">oracle: documentation</a><br>
+<a href="http://codingbat.com/java" target="_blank">codingbat resources</a> <br>
+<a href="https://runestone.academy/ns/books/published/csawesome/Unit1-Getting-Started/topic-1-2-java-intro.html?mode=browsing" target="_blank"> csawesome</a> <br> <br>
 
-<!-- UH 2006 Exams --> 
-<a href="../docs/apcalculus/apexa../2006/2006_ab_exam1_full.pdf" target="_blank"> UH | AP Calculus AB 2006 | Exam 1 | Full </a> <br />
-<a href="../docs/apcalculus/apexa../2006/2006_ab_exam2_full.pdf" target="_blank"> UH | AP Calculus AB 2006 | Exam 2 | Full </a> <br />
-<a href="../docs/apcalculus/apexa../2006/2006_ab_exam3.pdf" target="_blank"> UH | AP Calculus AB 2006 | Exam 3 | MC </a> <br />
-<a href="../docs/apcalculus/apexa../2006/2006_ab_exam4.pdf" target="_blank"> UH | AP Calculus AB 2006 | Exam 4 | MC </a> <br />
-<a href="../docs/apcalculus/apexa../2006/2006_ab_exam5.pdf" target="_blank"> UH | AP Calculus AB 2006 | Exam 5 | MC </a> <br />
-<a href="../docs/apcalculus/apexa../2006/2006_bc_exam1_full.pdf" target="_blank"> UH | AP Calculus BC 2006 | Exam 1 | Full </a> (<a href="../docs/apcalculus/apexa../2006/2006_bc_exam1_fr-solutions.pdf" target="_blank">FR Key</a>)<br />
-<a href="../docs/apcalculus/apexa../2006/2006_bc_exam2_full.pdf" target="_blank"> UH | AP Calculus BC 2006 | Exam 2 | Full </a> (<a href="../docs/apcalculus/apexa../2006/2006_bc_exam2_fr-solutions.pdf" target="_blank">FR Key</a>) <br />
-<a href="../docs/apcalculus/apexa../2006/2006_bc_exam3.pdf" target="_blank"> UH | AP Calculus BC 2006 | Exam 3 | MC </a> <br />
-<a href="../docs/apcalculus/apexa../2006/2006_bc_exam4.pdf" target="_blank"> UH | AP Calculus BC 2006 | Exam 4 | MC </a> <br />
-<a href="../docs/apcalculus/apexa../2006/2006_bc_exam5.pdf" target="_blank"> UH | AP Calculus BC 2006 | Exam 5 | MC </a> 
-           
-<!-- UH 2008 Exams --> 
-<a href="../docs/apcalculus/apexa../2008/2008_ab_exam1.pdf" target="_blank"> UH | AP Calculus AB 2008 | Exam 1 | MC </a> <br />
-<a href="../docs/apcalculus/apexa../2008/2008_ab_exam2.pdf" target="_blank"> UH | AP Calculus AB 2008 | Exam 2 | MC</a><br />
-<a href="../docs/apcalculus/apexa../2008/2008_ab_exam3.pdf" target="_blank"> UH | AP Calculus AB 2008 | Exam 3 | MC </a> <br />
-<a href="../docs/apcalculus/apexa../2008/2008_ab_exam4.pdf" target="_blank"> UH | AP Calculus AB 2008 | Exam 4 | MC </a> <br />
-<a href="../docs/apcalculus/apexa../2008/2008_ab_exam5.pdf" target="_blank"> UH | AP Calculus AB 2008 | Exam 5 | MC </a> <br />
-<a href="../docs/apcalculus/apexa../2008/2008_bc_exam1.pdf" target="_blank"> UH | AP Calculus BC 2008 | Exam 1 | MC</a> <br />
-<a href="../docs/apcalculus/apexa../2008/2008_bc_exam2.pdf" target="_blank"> UH | AP Calculus BC 2008 | Exam 2 | MC </a> <br />
-<a href="../docs/apcalculus/apexa../2008/2008_bc_exam3.pdf" target="_blank"> UH | AP Calculus BC 2008 | Exam 3 | MC</a> <br />
-<a href="../docs/apcalculus/apexa../2008/2008_bc_exam4.pdf" target="_blank"> UH | AP Calculus BC 2008 | Exam 4 | MC </a> <br />
-<a href="../docs/apcalculus/apexa../2008/2008_bc_exam5.pdf" target="_blank"> UH | AP Calculus BC 2008 | Exam 5 | MC </a> <br />
+<strong>tools</strong><br />
+<a href="https://www.sublimetext.com/" target="_blank">sublime</a><br>
+<a href="https://www.jgrasp.org/" target="_blank">jgrasp</a><br>
+<a href="https://www.bluej.org/" target="_blank">bluej </a><br>
+<a href="https://www.eclipse.org/" target="_blank">eclipse</a><br>
+<a href="https://www.oracle.com/java/technologies/downloads/" target="_blank">jdk</a><br>
+<a href="https://processing.org/" target="_blank">processing</a> <br>
+<a href="https://notepad-plus-plus.org/downloads/" target="_blank">notepad++</a><br>
 
-<strong>Classroom Polling</strong><br />
-<!-- Polling Questions from "Good Project" and "Math Quest" -->
-<a href="../docs/apcalculus/apexams/multiplechoice/mc_good_questions_calculus.pdf" target="_blank">"Good Questions": Calculus</a> <br />
-<a href="../docs/quest/questdifferentialcalculus.pdf" target="_blank">Math Quest: Differential Calculus</a> <br />
-<a href="../docs/quest/questintegralcalculus.pdf" target="_blank">Math Quest: Integral Calculus</a> <br />
+---
+      
+# ap statistics (2007 - 2009)
+<strong>links</strong><br />
+<a href="https://apstudents.collegeboard.org/courses/ap-statistics" target="_blank">about ap statistics</a>
+<a href="https://apstudents.collegeboard.org/courses/ap-statistics/assessment" target="_blank">about the ap exam</a> <br> 
+<a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">calculator policy</a><br>
+<a href="https://apcentral.collegeboard.org/media/pdf/ap-statistics-course-and-exam-description.pdf" target="_blank">course description (ced)</a> <br>
+<a href="https://apcentral.collegeboard.org/courses/ap-statistics/exam/past-exam-questions" target="_blank">past ap questions</a><br>
+<a href="https://apclassroom.collegeboard.org/33/home" target="_blank">ap classroom</a> <br>
+<a href="https://skewthescript.org/ap-stats-curriculum" target="_blank">skewthescript.org</a> <br>
+<a href="https://data.gov/" target="_blank">data.gov</a> <br><br>
+
+<strong>tools</strong><br />
+<a href="https://jasp-stats.org/" target="_blank">jasp</a> <br>
+<a href="https://www.w3schools.com/r/default.asp" target="_blank">learn r</a><br>
+ <a href="https://posit.co/download/rstudio-desktop/" target="_blank">r-studio</a><br>
+<a href="https://www.ticalc.org/pub/83plus/basic/math/statistics/" target="_blank">ti-83/84</a><br>
+<a href="https://education.ti.com/en/software/details/en/31FC737C43CF43B0ADA1CF67420C3AA8/89statisticswithlisteditor" target="_blank">ti-89</a> <br>
+<a href="https://www.mathlore.net/files/TInspireCX_Skills_for_APstats.pdf" target="_blank"> ti-nspire </a> <br>
+
+---
+
+# multivariable calculus (2009 - present)
+<a href="https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/" target="_blank">mit - opencourseware</a><br>
+<a href="https://www.khanacademy.org/math/multivariable-calculus" target="_blank">khan academy - mvc lessons</a> <br>
+<a href="https://www.whitman.edu/mathematics/multivariable/multivariable.pdf" target="_blank"> textbook - whitman.edu</a> <br>
+<a href="https://open.umn.edu/opentextbooks/textbooks/780" target="_blank">open textbook - umn.edu</a> <br>
+
+---
+
+# linear algebra (2016 - 2019 )
+<a href="https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/" target="_blank"> mit - opencourseware</a><br>
+<a href="https://www.khanacademy.org/math/linear-algebra" target="_blank">khan academy - linalg lessons</a> <br>
+<a href="https://opentext.uleth.ca/linalg.html" target="_blank"> textbooks - uleth.ca</a> <br>
+<a href="https://open.umn.edu/opentextbooks/textbooks/5" target="_blank">open textbook - umn.edu</a> <br>
+
