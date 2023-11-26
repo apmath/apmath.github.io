@@ -119,12 +119,10 @@ permalink: /calculus/
 </tr>
 </table>
       
- ---
 
 # free response questions
 
 <table width="100%" border="0">
-
 <tr>
 <td width="50%" valign="top">
 <strong>Calculus AB FRQ</strong><br />
@@ -285,7 +283,7 @@ permalink: /calculus/
 </tr>
 
 <tr>
-<td colspan="2" valign="top">
+<td colspan="2" valign="top" bgcolor="white">
 <strong> More FR Practice </strong> <br />
 <a href="../docs/apcalculus/apexa../2009/2009_ab_exam1_fr.pdf" target="_blank">UH: 2009 - AB FR</a> (<a href="../docs/apcalculus/apexa../2009/2009_ab_exam1_fr_solutions_only.pdf" target="_blank"> Key</a> ) <br />
 <a href="../docs/apcalculus/apexa../2009/2009_bc_exam1_fr.pdf" target="_blank">UH: 2009 - BC FR</a> <br />
@@ -294,7 +292,6 @@ permalink: /calculus/
 </tr>
 </table>
 
----
 
 # multiple choice questions
   
