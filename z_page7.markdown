@@ -8,7 +8,7 @@ permalink: /projects/
 
 Description: a one-page website with resources for students and teachers of Advanced Placement Calculus.
 
-Link: <a href="https://ap-calc.github.io" target="_blank">ap-calc.github.io</a>
+<a href="https://ap-calc.github.io" target="_blank">ap-calc.github.io</a>
 
 <p align="center"><img src="../d-img/squeeze.png" border="0"> </p>
 
@@ -16,9 +16,9 @@ Link: <a href="https://ap-calc.github.io" target="_blank">ap-calc.github.io</a>
 
 Description: paste a column of raw student scores and use two different methods to adjust numerically using sliders. A visual representation of the original vs transformed scores is given. 
 
-Link: <a href="https://ap-calc.github.io/gcc/index.html" target="_blank"> Javascript version </a> 
+<a href="https://ap-calc.github.io/gcc/index.html" target="_blank"> Javascript version </a> 
 
-Link: <a href="https://ap-calc.github.io/gcc1/index.html" target="_blank"> Geogebra version </a>
+<a href="https://ap-calc.github.io/gcc1/index.html" target="_blank"> Geogebra version </a>
 
 <p align="center"><img src="../d-img/curving.png" border="0"> </p>
 
