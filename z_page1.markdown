@@ -118,7 +118,8 @@ permalink: /calculus/
 
 </tr>
 </table>
-      
+
+---
 
 # free response questions
 
@@ -283,7 +284,7 @@ permalink: /calculus/
 </tr>
 
 <tr>
-<td colspan="2" valign="top" bgcolor="white">
+<td colspan="2" valign="top">
 <strong> More FR Practice </strong> <br />
 <a href="../docs/apcalculus/apexa../2009/2009_ab_exam1_fr.pdf" target="_blank">UH: 2009 - AB FR</a> (<a href="../docs/apcalculus/apexa../2009/2009_ab_exam1_fr_solutions_only.pdf" target="_blank"> Key</a> ) <br />
 <a href="../docs/apcalculus/apexa../2009/2009_bc_exam1_fr.pdf" target="_blank">UH: 2009 - BC FR</a> <br />
@@ -292,9 +293,13 @@ permalink: /calculus/
 </tr>
 </table>
 
+---
 
 # multiple choice questions
-  
+
+<table width="100%" border="0">
+<tr>
+<td width="50%" valign="top">
 <strong>from the collegeboard</strong>
   <!-- 1988 FULL EXAM -->   
 <a href="https://apcentral.collegeboard.com/apc/public/repository/calculcus-free-exam-1988.pdf" target="_blank">1988 - AP Calculus AB - FULL EXAM</a> ( <a href="../docs/apcalculus/apexams/fullexams/calculcus-free-exam-1988.pdf" target="_blank">MIRROR </a> ) 
@@ -333,7 +338,9 @@ permalink: /calculus/
 <a href="../docs/apcalculus/apexams/multiplechoice/10_sparknotes_ab_exam_full.pdf" target="_blank"> 10. AB/BC | Full Exam (AB Level)  </a>
 <!-- 41 MC Problems AB Level -->   
 <a href="../docs/apcalculus/apexams/multiplechoice/11_mc_ab_41questions.pdf" target="_blank">  11. AB/BC | 41 Sample Problems (AB) </a>
-  
+
+</td>
+<td width="50%" valign="top">
 <strong>ap exams: uh.edu</strong>
 
 <!-- UH 2006 Exams --> 
@@ -359,12 +366,24 @@ permalink: /calculus/
 <a href="../docs/apcalculus/apexa../2008/2008_bc_exam3.pdf" target="_blank"> UH | AP Calculus BC 2008 | Exam 3 | MC</a> <br />
 <a href="../docs/apcalculus/apexa../2008/2008_bc_exam4.pdf" target="_blank"> UH | AP Calculus BC 2008 | Exam 4 | MC </a> <br />
 <a href="../docs/apcalculus/apexa../2008/2008_bc_exam5.pdf" target="_blank"> UH | AP Calculus BC 2008 | Exam 5 | MC </a> <br />
+</td>
+</tr>
 
+<tr>
+<td colspan="2" valign="top">
 <strong>Classroom Polling</strong><br />
 <!-- Polling Questions from "Good Project" and "Math Quest" -->
 <a href="../docs/apcalculus/apexams/multiplechoice/mc_good_questions_calculus.pdf" target="_blank">"Good Questions": Calculus</a> <br />
 <a href="../docs/quest/questdifferentialcalculus.pdf" target="_blank">Math Quest: Differential Calculus</a> <br />
 <a href="../docs/quest/questintegralcalculus.pdf" target="_blank">Math Quest: Integral Calculus</a> <br />
+</td>
+</tr>
+</table>
+
+  
+
+
+
 
 
 # summer review (for students enrolling in AP Calculus)
