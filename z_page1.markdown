@@ -124,6 +124,7 @@ permalink: /courses/
 # ap computer science a (2009 - present)
 <i> AP Computer Science A is both a college-prep course for potential computer science majors and a foundation course for students planning to study in other fields such as mathematics, engineering, physics, chemistry, and geology. The course emphasizes methodology, procedural abstraction, and in-depth study of algorithms, data structures, and data abstractions. Instruction includes preparation for the AP Computer Science A exam in May. In this course, students apply the programming tools they have learned to real-life examples on their own. Computer science is more than just programming; students who successfully complete the course will have an understanding of Java and the ability to adapt to any new programming language. </i>
 
+<strong>links</strong><br />
 <a href="https://apstudents.collegeboard.org/courses/ap-computer-science-a" target="_blank">about ap computer science a</a><br>
 <a href="https://apstudents.collegeboard.org/courses/ap-computer-science-a/assessment" target="_blank">about the ap exam</a><br>
 <a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">calculator policy</a><br>
@@ -141,7 +142,8 @@ permalink: /courses/
 <a href="https://docs.oracle.com/javase/8/docs/api/" target="_blank">oracle: documentation</a><br>
 <a href="http://codingbat.com/java" target="_blank">codingbat resources</a> <br>
 <a href="https://runestone.academy/ns/books/published/csawesome/Unit1-Getting-Started/topic-1-2-java-intro.html?mode=browsing" target="_blank"> csawesome</a> <br> <br>
-      
+
+<strong>tools</strong><br />
 <a href="https://www.sublimetext.com/" target="_blank">sublime</a><br>
 <a href="https://www.jgrasp.org/" target="_blank">jgrasp</a><br>
 <a href="https://www.bluej.org/" target="_blank">bluej </a><br>
@@ -153,15 +155,17 @@ permalink: /courses/
 ---
       
 # ap statistics (2007 - 2009)
-<a href="https://apstudents.collegeboard.org/courses/ap-statistics" target="_blank">about</a>
-<a href="https://apstudents.collegeboard.org/courses/ap-statistics/assessment" target="_blank">exam</a> <br> 
-<a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">calculators</a><br>
-<a href="https://apcentral.collegeboard.org/media/pdf/ap-statistics-course-and-exam-description.pdf" target="_blank">description</a> <br>
-<a href="https://apcentral.collegeboard.org/courses/ap-statistics/exam/past-exam-questions" target="_blank">questions</a><br>
+<strong>links</strong><br />
+<a href="https://apstudents.collegeboard.org/courses/ap-statistics" target="_blank">about ap statistics</a>
+<a href="https://apstudents.collegeboard.org/courses/ap-statistics/assessment" target="_blank">about the ap exam</a> <br> 
+<a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">calculator policy</a><br>
+<a href="https://apcentral.collegeboard.org/media/pdf/ap-statistics-course-and-exam-description.pdf" target="_blank">course description (CED)</a> <br>
+<a href="https://apcentral.collegeboard.org/courses/ap-statistics/exam/past-exam-questions" target="_blank">past ap questions</a><br>
 <a href="https://apclassroom.collegeboard.org/33/home" target="_blank">ap classroom</a> <br>
 <a href="https://skewthescript.org/ap-stats-curriculum" target="_blank">skewthescript.org</a> <br>
 <a href="https://data.gov/" target="_blank">data.gov</a> <br><br>
 
+<strong>tools</strong><br />
 <a href="https://jasp-stats.org/" target="_blank">jasp</a> <br>
 <a href="https://www.w3schools.com/r/default.asp" target="_blank">learn r</a><br>
  <a href="https://posit.co/download/rstudio-desktop/" target="_blank">r-studio</a><br>
