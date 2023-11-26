@@ -6,6 +6,7 @@ permalink: /wolfram/
 
 <strong>Wolfram Mathematica Labs for Single and Multivariable Calculus</strong> <br>
 [Originally created with <a href="https://www.wolfram.com/mathematica/" target="_blank">Mathematica 8.0</a>]  * denotes AP Calculus BC only <br>
+<p align="center"><img src="../img/site/koch.png" border="0"> </p>
 
 01:  Investigating Limits 
 <a href="../docs/labs/calculus/01_Limits.pdf" target="_blank">[  .pdf  ]</a>

@@ -14,6 +14,8 @@ permalink: /summer/
 
 My notes on pre-requisite content: <a href="../docs/paca/preparing_for_ap_calculus_ab.pdf" target="_blank">Preparing for AP Calculus AB</a> <br>
   
+  <p align="center"><img src="../img/site/ca.jpg" border="2"> </p>
+
 <strong>SUMMER REVIEW PACKETS</strong><br>
 <a href="../docs/apcalculus/ptests/mctest1.pdf" target="_blank"> Multiple Choice Test: 34 problems | KEY INCLUDED</a> <br>
 <a href="../docs/apcalculus/ptests/mctest2.pdf" target="_blank"> Multiple Choice Test: 25 problems | KEY INCLUDED</a> <br>
