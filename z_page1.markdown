@@ -40,9 +40,6 @@ permalink: /course/
       <a href="../../docs/apcalculus/tutorials/tutorial12.pdf" target="_blank">12: Notes on the FTC</a> <br />
       <a href="../../docs/apcalculus/tutorials/tutorial13.pdf" target="_blank">13: Known X-Sections</a> <br />
   
----
-
-
 <strong>References</strong><br />
       <a href="../../docs/apcalculus/references/reference0.pdf" target="_blank">00: Review of Algebra </a><br />
       <a href="../../docs/apcalculus/references/reference1.pdf" target="_blank">01: Summary: The Laws of Limits</a><br />
@@ -63,7 +60,6 @@ permalink: /course/
       <a href="../../docs/apcalculus/references/reference16.pdf" target="_blank">16: *Convergence Flowchart v2.0 </a><br />
       <a href="../../docs/apcalculus/references/reference17.pdf" target="_blank">17: TI-84 Tutorial </a><br />
   
----
 <strong>Worksheets/Activities</strong> <br />
       <a href="../../docs/apcalculus/worksheets/worksheet01.pdf" target="_blank">01: Self-Diagnostic Test </a><br /> 
       <a href="../../docs/apcalculus/worksheets/worksheet02.pdf" target="_blank">02: Pre-requisites Test </a><br />
@@ -103,7 +99,6 @@ permalink: /course/
       <a href="../../docs/apcalculus/worksheets/worksheet36.pdf" target="_blank"> 36: Polar / Parametric</a><br />
       <a href="../../docs/apcalculus/worksheets/worksheet37.pdf" target="_blank"> 37: More Related Rates</a><br />
 
----
 <strong>Comprehensive Review Material</strong> <br /> 
       <a href="../docs/apcalculus/apexams/review/course_review_worksheets.pdf" target="_blank">01: Course Review Worksheets</a> <br />
       <a href="../docs/apcalculus/apexams/review/apcalc_chapter_review.pdf" target="_blank">02: Miscellaneous Chapter Review</a> <br />
