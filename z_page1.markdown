@@ -292,6 +292,7 @@ permalink: /calculus/
 <a href="../docs/apcalculus/apexams/review/free_response_sets_1thru18.pdf" target="_blank"> Sets of Free Response: AB </a>
 </td>
 </tr>
+</table>
 
 ---
 
