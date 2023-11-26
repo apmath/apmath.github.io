@@ -48,8 +48,8 @@ permalink: /calculus/
       <a href="../../docs/apcalculus/tutorials/tutorial13.pdf" target="_blank">13: Known X-Sections</a> <br /><br>
   
 <strong>references</strong><br />
-      <a href="../../docs/apcalculus/references/reference0.pdf" target="_blank">00: Review orgAlgebra </a><br />
-      <a href="../../docs/apcalculus/references/reference1.pdf" target="_blank">01: Summary: The Laws orgLimits</a><br />
+      <a href="../../docs/apcalculus/references/reference0.pdf" target="_blank">00: Review of Algebra </a><br />
+      <a href="../../docs/apcalculus/references/reference1.pdf" target="_blank">01: Summary: The Laws of Limits</a><br />
       <a href="../../docs/apcalculus/references/reference2.pdf" target="_blank">02: Cheat Sheet: Differentiation</a><br />
       <a href="../../docs/apcalculus/references/reference3.pdf" target="_blank">03: AP Exam Tips: AP Calculus AB</a><br />
       <a href="../../docs/apcalculus/references/reference4.pdf" target="_blank">04: Derivatives and Limits</a><br />
@@ -57,7 +57,7 @@ permalink: /calculus/
       <a href="../../docs/apcalculus/references/reference6.pdf" target="_blank">06: English - Chinese Vocabulary</a><br />
       <a href="../../docs/apcalculus/references/reference7.pdf" target="_blank">07: Stuff You Must Know Cold </a><br />
       <a href="../../docs/apcalculus/references/reference8.pdf" target="_blank">08: *Polar and Parametric Note Cards </a><br />
-      <a href="../../docs/apcalculus/references/reference9.pdf" target="_blank">09: pdf-Requisite Topics </a><br />
+      <a href="../../docs/apcalculus/references/reference9.pdf" target="_blank">09: Pre-Requisite Topics </a><br />
       <a href="../../docs/apcalculus/references/reference10.pdf" target="_blank">10: AP Calculus Formulas </a><br />
       <a href="../../docs/apcalculus/references/reference11.pdf" target="_blank">11: TI-84/89 USB Connection </a><br />
       <a href="../../docs/apcalculus/references/reference12.pdf" target="_blank">12: *Final Notes: BC Calculus </a><br />
