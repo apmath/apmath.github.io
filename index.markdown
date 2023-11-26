@@ -73,9 +73,9 @@ layout: home
       <a href="../../docs/apcalculus/worksheets/worksheet03.pdf" target="_blank">03: Extrema, MVT I  </a><br />
       <a href="../../docs/apcalculus/worksheets/worksheet04.pdf" target="_blank">04: Extrema, MVT II </a> <br />
       <a href="../../docs/apcalculus/worksheets/worksheet05.pdf" target="_blank">05: Derivatives & Original Functions </a> <br />
-      <a href="../../docs/apcalculus/worksheets/worksheet06.pdf" target="_blank">06: Fundamental Thm orgCalculus </a><br />
+      <a href="../../docs/apcalculus/worksheets/worksheet06.pdf" target="_blank">06: Fundamental Thm of Calculus </a><br />
       <a href="../../docs/apcalculus/worksheets/worksheet07.pdf" target="_blank">07: Continuity and Piecewise Functions</a><br />
-      <a href="../../docs/apcalculus/worksheets/worksheet08.pdf" target="_blank">08: Derivative orgInverse </a> <br />
+      <a href="../../docs/apcalculus/worksheets/worksheet08.pdf" target="_blank">08: Derivative of the Inverse Function </a> <br />
       <a href="../../docs/apcalculus/worksheets/worksheet09.pdf" target="_blank">09: Differentiation </a> <br />
       <a href="../../docs/apcalculus/worksheets/worksheet10.pdf" target="_blank">10: Limits and Continuity </a> <br />
       <a href="../../docs/apcalculus/worksheets/worksheet11.pdf" target="_blank">11: Chain Rule</a> <br />
@@ -86,7 +86,7 @@ layout: home
       <a href="../../docs/apcalculus/worksheets/worksheet16.pdf" target="_blank">16: Optimization</a><br />
       <a href="../../docs/apcalculus/worksheets/worksheet17.pdf" target="_blank"> 17: Linear Approximation</a><br />
       <a href="../../docs/apcalculus/worksheets/worksheet18.pdf" target="_blank"> 18: Areas/Solids</a><br />
-      <a href="../../docs/apcalculus/worksheets/worksheet19.pdf" target="_blank"> 19: Volumes orgSolids</a><br />
+      <a href="../../docs/apcalculus/worksheets/worksheet19.pdf" target="_blank"> 19: Volumes of Solids</a><br />
       <a href="../../docs/apcalculus/worksheets/worksheet20.pdf" target="_blank"> 20: Known X-Sections</a><br />
       <a href="../../docs/apcalculus/worksheets/worksheet21.pdf" target="_blank"> 21: Separation of Variables</a><br />
       <a href="../../docs/apcalculus/worksheets/worksheet22.pdf" target="_blank"> 22: You see this...you do... (AB) </a><br />
