@@ -1,5 +1,5 @@
 ---
-title: other-courses
+title: courses+
 layout: page
 permalink: /other-courses/
 ---
