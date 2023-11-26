@@ -158,15 +158,15 @@ permalink: /courses/
 <a href="https://www.mathlore.net/files/TInspireCX_Skills_for_APstats.pdf" target="_blank"> ti-nspire </a> <br>
 
 # multivariable calculus (2009 - present)
-[ <a href="https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/" target="_blank">mit - ocw</a> ] 
-[ <a href="https://www.khanacademy.org/math/multivariable-calculus" target="_blank">khan academy</a> ] 
-[ <a href="https://www.whitman.edu/mathematics/multivariable/multivariable.pdf" target="_blank"> textbook</a> ]
-[ <a href="https://open.umn.edu/opentextbooks/textbooks/780" target="_blank">open textbook</a> ]
+<a href="https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/" target="_blank">mit - ocw</a><br>
+<a href="https://www.khanacademy.org/math/multivariable-calculus" target="_blank">khan academy</a> <br>
+<a href="https://www.whitman.edu/mathematics/multivariable/multivariable.pdf" target="_blank"> textbook</a> <br>
+<a href="https://open.umn.edu/opentextbooks/textbooks/780" target="_blank">open textbook</a> <br>
 
 # linear algebra (2016 - 2019 )
-[ <a href="https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/" target="_blank"> mit - ocw</a> ] 
-[ <a href="https://www.khanacademy.org/math/linear-algebra" target="_blank">khan academy</a> ] 
-[ <a href="https://opentext.uleth.ca/linalg.html" target="_blank"> textbooks</a> ]
-[ <a href="https://open.umn.edu/opentextbooks/textbooks/5" target="_blank">open textbook</a> ]
+<a href="https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/" target="_blank"> mit - ocw</a><br>
+<a href="https://www.khanacademy.org/math/linear-algebra" target="_blank">khan academy</a> <br>
+<a href="https://opentext.uleth.ca/linalg.html" target="_blank"> textbooks</a> <br>
+<a href="https://open.umn.edu/opentextbooks/textbooks/5" target="_blank">open textbook</a> <br>
 
 
