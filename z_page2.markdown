@@ -3,7 +3,10 @@ title: frq
 layout: page
 permalink: /frq/
 ---
+<table width="100%" border="0">
 
+<tr>
+<td width="50%" valign="top">
 <strong>Calculus AB FRQ</strong><br />
 <a href="https://apcentral.collegeboard.org/media/pdf/ap23-frq-calculus-ab.pdf" target="_blank">2023 Form A </a> ( Key ) ( <a href="../docs/apcalculus/apexams/cbfreeresponse/2023_ab_form_a_solutions-shubleka.pdf" target="_blank">Solutions</a> ) <br />
 <a href="https://secure-media.collegeboard.org/apc/ap22-frq-calculus-ab.pdf" target="_blank">2022 Form A </a> ( <a href="https://apcentral.collegeboard.org/media/pdf/ap22-sg-calculus-ab.pdf" target="_blank">Key</a> ) ( <a href="../docs/apcalculus/apexams/cbfreeresponse/2022_ab_form_a_solutions-shubleka.pdf" target="_blank">Solutions</a> ) <br />
@@ -97,7 +100,8 @@ permalink: /frq/
 <a href="../docs/apcalculus/apexams/cbfreeresponse/1969_to_2005_ab_questions.pdf" target="_blank"> 1969 - 2005 AB Free Response </a></span>
   
   -->
-  
+</td>
+<td width="50%" valign="top">
 <strong>Calculus BC FRQ</strong><br />
 <a href="https://apcentral.collegeboard.org/media/pdf/ap23-frq-calculus-bc.pdf" target="_blank">2023 Form A </a> ( Key ) ( <a href="../docs/apcalculus/apexams/cbfreeresponse/2023_bc_form_a_solutions-shubleka.pdf" target="_blank">Solutions</a> ) <br />
 <a href="https://secure-media.collegeboard.org/apc/ap22-frq-calculus-bc.pdf" target="_blank">2022 Form A </a> ( <a href="https://apcentral.collegeboard.org/media/pdf/ap22-sg-calculus-bc.pdf" target="_blank">Key</a> ) ( <a href="../docs/apcalculus/apexams/cbfreeresponse/2022_bc_form_a_solutions-shubleka.pdf" target="_blank">Solutions</a> ) <br />
@@ -157,8 +161,18 @@ permalink: /frq/
  <a href="../docs/apcalculus/apexams/cbfreeresponse/2001_bc_form_a_questions.pdf" target="_blank">2001 Form A</a> ( <a href="../docs/apcalculus/apexams/cbfreeresponse/2001_bc_form_a_solutions.pdf" target="_blank">Key</a> )</span></p>
   
 -->
+</td>
+<tr>
 
+<tr>
+<td colspan="2" valign="top">
 <strong> More FR Practice </strong> <br />
 <a href="../docs/apcalculus/apexa../2009/2009_ab_exam1_fr.pdf" target="_blank">UH: 2009 - AB FR</a> (<a href="../docs/apcalculus/apexa../2009/2009_ab_exam1_fr_solutions_only.pdf" target="_blank"> Key</a> ) <br />
 <a href="../docs/apcalculus/apexa../2009/2009_bc_exam1_fr.pdf" target="_blank">UH: 2009 - BC FR</a> <br />
 <a href="../docs/apcalculus/apexams/review/free_response_sets_1thru18.pdf" target="_blank"> Sets of Free Response: AB </a>
+</td>
+</tr>
+
+  
+
+
