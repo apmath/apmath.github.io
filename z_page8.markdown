@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 # ap calculus
-<a href="../index.html" target="_blank">retired single-page version of this website</a><br>
+<a href="../index_retired.html" target="_blank">retired single-page version of this website</a><br>
 <a href="../fr-gen/index.html" target="_blank"> frq - generator: ab & bc (updated 2023)</a> <br>
 <a href="../fr-gen/fr-ab.html" target="_blank">random fr: ab </a> <br />
 <a href="../fr-gen/fr-bc.html" target="_blank">random fr: bc </a>  <br />
