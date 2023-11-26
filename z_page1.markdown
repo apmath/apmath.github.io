@@ -63,3 +63,42 @@ permalink: /course/
        <a href="docs/apcalculus/references/reference16.pdf" target="_blank">16: *Convergence Flowchart v2.0 </a><br />
        <a href="docs/apcalculus/references/reference17.pdf" target="_blank">17: TI-84 Tutorial </a><br />
   
+
+<strong>Worksheets/Activities</strong> <br />
+      <a href="docs/apcalculus/worksheets/worksheet01.pdf" target="_blank">01: Self-Diagnostic Test </a><br /> 
+      <a href="docs/apcalculus/worksheets/worksheet02.pdf" target="_blank">02: Pre-requisites Test </a><br />
+      <a href="docs/apcalculus/worksheets/worksheet03.pdf" target="_blank">03: Extrema, MVT I  </a><br />
+      <a href="docs/apcalculus/worksheets/worksheet04.pdf" target="_blank">04: Extrema, MVT II </a> <br />
+      <a href="docs/apcalculus/worksheets/worksheet05.pdf" target="_blank">05: Derivatives & Original Functions </a> <br />
+      <a href="docs/apcalculus/worksheets/worksheet06.pdf" target="_blank">06: Fundamental Thm of Calculus </a><br />
+      <a href="docs/apcalculus/worksheets/worksheet07.pdf" target="_blank">07: Continuity and Piecewise Functions</a><br />
+      <a href="docs/apcalculus/worksheets/worksheet08.pdf" target="_blank">08: Derivative of Inverse </a> <br />
+      <a href="docs/apcalculus/worksheets/worksheet09.pdf" target="_blank">09: Differentiation </a> <br />
+      <a href="docs/apcalculus/worksheets/worksheet10.pdf" target="_blank">10: Limits and Continuity </a> <br />
+      <a href="docs/apcalculus/worksheets/worksheet11.pdf" target="_blank">11: Chain Rule</a> <br />
+      <a href="docs/apcalculus/worksheets/worksheet12.pdf" target="_blank">12: Implicit Differentiation</a> <br />
+      <a href="docs/apcalculus/worksheets/worksheet13.pdf" target="_blank">13: Inverse Trig Derivatives (incl. key)</a><br />
+      <a href="docs/apcalculus/worksheets/worksheet14.pdf" target="_blank">14: Exp/Log Derivatives (incl. key)</a><br />
+      <a href="docs/apcalculus/worksheets/worksheet15.pdf" target="_blank">15: Related Rates</a> <br />
+      <a href="docs/apcalculus/worksheets/worksheet16.pdf" target="_blank">16: Optimization</a><br />
+      <a href="docs/apcalculus/worksheets/worksheet17.pdf" target="_blank"> 17: Linear Approximation</a><br />
+      <a href="docs/apcalculus/worksheets/worksheet18.pdf" target="_blank"> 18: Areas/Solids</a><br />
+      <a href="docs/apcalculus/worksheets/worksheet19.pdf" target="_blank"> 19: Volumes of Solids</a><br />
+      <a href="docs/apcalculus/worksheets/worksheet20.pdf" target="_blank"> 20: Known X-Sections</a><br />
+      <a href="docs/apcalculus/worksheets/worksheet21.pdf" target="_blank"> 21: Separation of Variables</a><br />
+      <a href="docs/apcalculus/worksheets/worksheet22.pdf" target="_blank"> 22: You see this...you do... (AB) </a><br />
+      <a href="docs/apcalculus/worksheets/worksheet23.pdf" target="_blank"> 23: Slope Fields </a><br />
+      <a href="docs/apcalculus/worksheets/worksheet24.pdf" target="_blank"> 24: You see this...you do... (BC)</a><br />
+      <a href="docs/apcalculus/worksheets/worksheet25.pdf" target="_blank"> 25: Limits and Derivatives</a><br />
+      <a href="docs/apcalculus/worksheets/worksheet26.pdf" target="_blank"> 26: Power Series, Lagrange Error Bound</a><br />
+      <a href="docs/apcalculus/worksheets/worksheet27.pdf" target="_blank"> 27: Taylor Series, Lagrange Error Bound</a><br />
+      <a href="docs/apcalculus/worksheets/worksheet28.pdf" target="_blank"> 28: Series, Taylor Series</a><br />
+      <a href="docs/apcalculus/worksheets/worksheet29.pdf" target="_blank"> 29: Polar Coordinates</a><br />
+      <a href="docs/apcalculus/worksheets/worksheet30.pdf" target="_blank"> 30: Optimization I</a><br />
+      <a href="docs/apcalculus/worksheets/worksheet31.pdf" target="_blank"> 31: Rectilinear Motion</a><br />
+      <a href="docs/apcalculus/worksheets/worksheet32.pdf" target="_blank"> 32: L'Hospital's Rule</a><br />
+      <a href="docs/apcalculus/worksheets/worksheet33.pdf" target="_blank"> 33: Separable Equations</a><br />
+      <a href="docs/apcalculus/worksheets/worksheet34.pdf" target="_blank"> 34: U-Substitution</a><br />
+      <a href="docs/apcalculus/worksheets/worksheet35.pdf" target="_blank"> 35: Area between Curves</a><br />
+      <a href="docs/apcalculus/worksheets/worksheet36.pdf" target="_blank"> 36: Polar / Parametric</a><br />
+      <a href="docs/apcalculus/worksheets/worksheet37.pdf" target="_blank"> 37: More Related Rates</a><br />
