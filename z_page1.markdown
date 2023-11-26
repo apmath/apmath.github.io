@@ -13,18 +13,16 @@ permalink: /course/
 <a href="https://apstudents.collegeboard.org/courses/ap-calculus-bc" target="_blank">about calculus bc</a> <br>
 <a href="https://apstudents.collegeboard.org/courses/ap-calculus-ab/assessment" target="_blank">about the ab exam</a> <br>
 <a href="https://apstudents.collegeboard.org/courses/ap-calculus-bc/assessment" target="_blank">about the bc exam</a> <br>
-<a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">calculator policy</a> 
-
+<a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">calculator policy</a> <br>
 <a href="https://apcentral.collegeboard.org/media/pdf/ap-calculus-ab-and-bc-course-and-exam-description.pdf" target="_blank">course description (ced)</a><br>
 <a href="https://blog.collegeboard.org/difference-between-ap-calculus-ab-and-bc" target="_blank">differences: ab vs bc</a> <br>
 <a href="https://apcentral.collegeboard.org/courses/ap-calculus-ab/exam/past-exam-questions" target="_blank">ab past questions</a><br>
-<a href="https://apcentral.collegeboard.org/courses/ap-calculus-bc/exam/past-exam-questions" target="_blank">bc past questions</a>
-
-<a href="https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/" target="_blank">mit-ocw</a><br>
-<a href="https://demonstrations.wolfram.com/topic.html?topic=Calculus&limit=20" target="_blank"> wolfram demos</a> <br>
-<a href="https://www.online.math.uh.edu/HoustonACT/videocalculus/index.html" target="_blank">video calculus</a><br>
-<a href="https://www.integral-domain.org/lwilliams/Applets/index.php" target="_blank"> js applets</a><br>
-<a href="https://www.geogebra.org/t/calculus?lang=en" target="_blank"> geogebra applets</a><br>
+<a href="https://apcentral.collegeboard.org/courses/ap-calculus-bc/exam/past-exam-questions" target="_blank">bc past questions</a><br>
+<a href="https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/" target="_blank">mit opencourseware</a><br>
+<a href="https://demonstrations.wolfram.com/topic.html?topic=Calculus&limit=20" target="_blank"> wolfram demos for calculus</a> <br>
+<a href="https://www.online.math.uh.edu/HoustonACT/videocalculus/index.html" target="_blank">video calculus from uh.edu</a><br>
+<a href="https://www.integral-domain.org/lwilliams/Applets/index.php" target="_blank"> js applets forcalculus</a><br>
+<a href="https://www.geogebra.org/t/calculus?lang=en" target="_blank"> geogebra applets for calculus</a><br>
 
 <strong>Tutorials on  Selected Topics</strong><br />
       <a href="../../docs/apcalculus/tutorials/tutorial01.pdf" target="_blank">01: Limits and Continuity </a><br />
