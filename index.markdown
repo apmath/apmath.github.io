@@ -3,7 +3,7 @@ title: about
 layout: home
 ---
 
-I am an educator and technology enthusiast from the New England region in the United States. On this site you'll find content and bookmarks related to my past and present teaching experiences, mainly focusing on the advanced placement (AP) calculus curriculum. For questions, feedback and all other inquiries, reach out at <i>apcalc@pm.me</i>  or use the contact form below.
+I am an educator and technology enthusiast from the New England region in the United States. On this site you'll find content and bookmarks related to my past and present teaching experiences, mainly focusing on the advanced placement (AP) calculus curriculum. For questions or comments email me at apcalc@pm.me or use the form below.
 
 <p align="center"><img src="../d-img/running.jpeg" border="2"> </p>
 
