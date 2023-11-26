@@ -4,9 +4,7 @@ layout: page
 permalink: /frq/
 ---
 
-# free
-
-  <strong>Calculus AB FRQ</strong><br />
+<strong>Calculus AB FRQ</strong><br />
       
       
 <a href="https://apcentral.collegeboard.org/media/pdf/ap23-frq-calculus-ab.pdf" target="_blank">2023 Form A </a> ( Key ) ( <a href="../docs/apcalculus/apexams/cbfreeresponse/2023_ab_form_a_solutions-shubleka.pdf" target="_blank">Solutions</a> ) <br />

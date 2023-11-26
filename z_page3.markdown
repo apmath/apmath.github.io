@@ -4,8 +4,6 @@ layout: page
 permalink: /mcquest/
 ---
 
-# multiple choice questions
-
 <strong>From the CollegeBoard</strong> <br />
   
 <!-- 1988 FULL EXAM -->   
