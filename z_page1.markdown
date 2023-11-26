@@ -124,8 +124,6 @@ permalink: /courses/
 # ap computer science a (2009 - present)
 <i> AP Computer Science A is both a college-prep course for potential computer science majors and a foundation course for students planning to study in other fields such as mathematics, engineering, physics, chemistry, and geology. The course emphasizes methodology, procedural abstraction, and in-depth study of algorithms, data structures, and data abstractions. Instruction includes preparation for the AP Computer Science A exam in May. In this course, students apply the programming tools they have learned to real-life examples on their own. Computer science is more than just programming; students who successfully complete the course will have an understanding of Java and the ability to adapt to any new programming language. </i>
 
-<p align="center"><img src="../img/site/csa.png" border="0"> </p>
-
 <a href="https://apstudents.collegeboard.org/courses/ap-computer-science-a" target="_blank">about ap computer science a</a><br>
 <a href="https://apstudents.collegeboard.org/courses/ap-computer-science-a/assessment" target="_blank">about the ap exam</a><br>
 <a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">calculator policy</a><br>
@@ -163,8 +161,6 @@ permalink: /courses/
 <a href="https://apclassroom.collegeboard.org/33/home" target="_blank">ap classroom</a> <br>
 <a href="https://skewthescript.org/ap-stats-curriculum" target="_blank">skewthescript.org</a> <br>
 <a href="https://data.gov/" target="_blank">data.gov</a> <br><br>
-
-<p align="center"><img src="../img/site/stats.png" border="0"> </p>
 
 <a href="https://jasp-stats.org/" target="_blank">jasp</a> <br>
 <a href="https://www.w3schools.com/r/default.asp" target="_blank">learn r</a><br>
