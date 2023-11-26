@@ -1,105 +1,128 @@
 ---
-title: summer
 layout: page
-permalink: /summer/
+title: sagemath
+permalink: /sage/
 ---
 
-# summer review
+On this page you'll find a few examples of sagemath. To install the SageMath software, visit the <a href="https://doc.sagemath.org/html/en/installation/index.html" target="_blank"> installation guide</a> or use the <a href="https://sagecell.sagemath.org/" target="_blank">sage cell server</a>. For a comprehensive tutorial, visit <a href="https://doc.sagemath.org/html/en/tutorial/" target="_blank"> docs.sagemath.org</a>. 
 
-<!--
-<center><b> Playlist: Preparing For AP Calculubs AB </b> <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLu49WYVXsOBEJWiznjdTVRaKp3yGnCXDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <br>
-</center>
--->  
+<p align="center"><img src="../img/site/mvc.png" border="0"> </p>
 
-My notes on pre-requisite content: <a href="../docs/paca/preparing_for_ap_calculus_ab.pdf" target="_blank">Preparing for AP Calculus AB</a> <br>
-  
-   <table width="100%" border="0" align="center" cellpadding="1" cellspacing="5" bordercolor="#666666">
-         <tr bordercolor="#000000">
-           <td colspan="2"><div align="center" class="style42"><strong>SUMMER REVIEW PACKETS</strong></div></td>
-         </tr>
-         <tr bordercolor="#000000" bgcolor="#CCCCCC">
-           <td><a href="../docs/apcalculus/ptests/mctest1.pdf" target="_blank">Multiple Choice Test: 34 problems | KEY INCLUDED</a>*</td>
-           <td>&nbsp;</td>
-         </tr>
-          <tr bordercolor="#000000">
-           <td><a href="../docs/apcalculus/ptests/mctest2.pdf" target="_blank">Multiple Choice Test: 25 problems | KEY INCLUDED</a>*</td>
-           <td>&nbsp;</td>
-         </tr>
-          <tr bordercolor="#000000" bgcolor="#CCCCCC">
-           <td><a href="../docs/apcalculus/ptests/mctest3.pdf" target="_blank">Multiple Choice Test: 25 problems | KEY INCLUDED</a>*</td>
-           <td>&nbsp;</td>
-         </tr>
-          <tr bordercolor="#000000">
-           <td><a href="../docs/apcalculus/ptests/mctest4.pdf" target="_blank">Multiple Choice Test: 50 problems | KEY INCLUDED</a>*</td>
-           <td>&nbsp;</td>
-         </tr>
-         <tr bordercolor="#000000" bgcolor="#CCCCCC">
-           <td width="318"><a href="../docs/apcalculus/summer/packet0a.pdf" target="_blank">Are You Ready For Calculus?</a></td>
-           <td width="137"><a href="../docs/apcalculus/summer/packet0asolutions.pdf" target="_blank">Solutions</a></td>
-     </tr>
-  
-<tr bordercolor="#000000">
-           <td><a href="../docs/apcalculus/summer/packet0.pdf" target="_blank">AP Calculus: Packet 0</a>*</td>
-           <td><a href="../docs/apcalculus/summer/packet0solutions.pdf" target="_blank">Solutions</a></td>
-     </tr>
-         <tr bordercolor="#000000" bgcolor="#CCCCCC">
-           <td><a href="../docs/apcalculus/summer/packet1.pdf" target="_blank">AP Calculus: Packet 1*</a></td>
-           <td><a href="../docs/apcalculus/summer/packet1solutions.pdf" target="_blank">Solutions (partial)</a></td>
-         </tr>
-         <tr bordercolor="#000000">
-           <td><span class="style41"><a href="../docs/apcalculus/summer/packet2.pdf" target="_blank">AP Calculus: Packet 2*</a></span></td>
-           <td>&nbsp;</td>
-         </tr>
-         <tr bordercolor="#000000" bgcolor="#CCCCCC">
-           <td><span class="style41"><a href="../docs/apcalculus/summer/packet3.pdf" target="_blank">AP Calculus: Packet 3</a></span></td>
-           <td></td>
-         </tr>
-         <tr bordercolor="#000000">
-           <td><span class="style41"><a href="../docs/apcalculus/summer/packet4.pdf" target="_blank">AP Calculus: Packet 4</a></span></td>
-           <td><span class="style41"></span></td>
-         </tr>
-         <tr bordercolor="#000000" bgcolor="#CCCCCC">
-           <td><span class="style41"><a href="../docs/apcalculus/summer/packet5.pdf" target="_blank" class="style41">AP Calculus: Packet 5</a></span><a href="help/index.php?page=packet5">*</a></td>
-           <td><span class="style41"></span></td>
-         </tr>
-         <tr bordercolor="#000000">
-           <td><span class="style41"><a href="../docs/apcalculus/summer/packet6.pdf" target="_blank" class="style41">AP Calculus: Packet 6*</a></span></td>
-           <td><span class="style41"></span></td>
-         </tr>
-         <tr bordercolor="#000000" bgcolor="#CCCCCC">
-           <td><span class="style41"><a href="../docs/apcalculus/summer/packet7.pdf" target="_blank" class="style41">AP Calculus: Packet 7*</a></span></td>
-           <td><span class="style41"></span></td>
-         </tr>
-         <tr bordercolor="#000000">
-           <td><span class="style41"><a href="../docs/apcalculus/summer/packet8.pdf" target="_blank" class="style41">AP Calculus: Packet 8</a></span>*</td>
-           <td><span class="style41"></span></td>
-         </tr>
-         <tr bordercolor="#000000" bgcolor="#CCCCCC">
-           <td><span class="style41"><a href="../docs/apcalculus/summer/packet9.pdf" target="_blank" class="style41">AP Calculus: Packet 9*</a></span></td>
-           <td></td>
-         </tr>
-  
-<tr bordercolor="#000000">
-           <td><span class="style41"><a href="../docs/apcalculus/summer/packet10.pdf" target="_blank" class="style41">AP Calculus: Packet 10</a></span>*</td>
-           <td><span class="style41"></span></td>
-         </tr>
-  
-<tr bordercolor="#000000" bgcolor="#CCCCCC">
-           <td><a href="../docs/apcalculus/summer/packet11.pdf" target="_blank">AP Calculus: Packet 11</a>*</td>
-           <td><a href="../docs/apcalculus/summer/packet11solutions.pdf" target="_blank" class="style41">Solutions</a></td> </tr>
-  
-  <tr bordercolor="#000000">
-           <td><a href="../docs/apcalculus/summer/packet12.pdf" target="_blank">AP Calculus: Packet 12</a>*</td>
-           <td>&nbsp;</td>
-         </tr>
-  
-<tr bordercolor="#000000" bgcolor="#CCCCCC">
-           <td><a href="../docs/apcalculus/summer/packet13.pdf" target="_blank">AP Calculus: Packet 13</a>*</td>
-           <td>&nbsp;</td> </tr>
-  
-<tr bordercolor="#000000">
-           <td><a href="../docs/apcalculus/summer/packet14.pdf" target="_blank">AP Calculus: Packet 14 (RPI)</a>*</td>
-           <td>&nbsp;</td> </tr>
-  
-</table>
+# basic functions
+
+```python
+
+# define a variable named x
+x = var('x')
+
+# define a function f(x)
+f(x)=sin(x)
+
+# evaluate f(x) at x=1 and store to a variable y
+y = f(1)
+
+# get a numerical approximation of y
+n(y)
+
+# plot f(x) over a given interval
+plot(f(x), (x, -2*pi, 2*pi))
+
+# plot two functions
+plot((e^x, 4-x^2), (x, -3, 2))
+
+# partial fractions
+f = 1/(x^2-3*x+2)
+f.partial_fraction(x)
+
+``` 
+
+
+# solving equations
+
+```python
+
+# declare a variable x and solve a quadratic equation x^2++5x+6=0
+x = var('x')
+solve(x^2 + 5*x + 6, x)
+
+
+# solving the quadratic equation
+a, b, c, x = var('a b c x')
+solve([a*x^2 + b*x + c == 0],x)
+
+# solving a system of two linear equations
+x, y = var('x, y')
+solve([2*x+y==6, 3*x-y==4], x, y)
+
+
+
+``` 
+
+
+# parametric and 3d plotting
+
+```python
+
+# parametric plot of the unit circle: <x(t), y(t)> = <cos(t), sin(t)>
+t = var('t')
+p = parametric_plot((cos(t),sin(t)),(t,0,2*pi),rgbcolor=hue(0.6))
+# to add a title at a specific position (0.5, 1.1)
+name = text("The Unit Circle", (0.5,1.1), rgbcolor=(1,0,0))
+show(p+name)
+
+# multiple parametric plots combined into 1 plotting window
+t = var('t')
+p1 = parametric_plot((sin(t),(sin(t))^2),(t,0,2*pi),rgbcolor=hue(0.2))
+p2 = parametric_plot((cos(t),sin(t)^2),(t,0,2*pi),rgbcolor=hue(0.4))
+p3 = parametric_plot((cos(t),sin(2*t)),(t,0,2*pi),rgbcolor=hue(0.6))
+show(p1+p2+p3, axes=false)
+
+# three-dimensional plot z = f(x, y)
+x, y = var('x,y')
+plot3d(x^2 + y^2, (x,-2,2), (y,-2,2))
+
+# three-dimensional parametric plot z = f(x(u,v), y(u,v))
+u, v = var('u, v')
+f_x(u, v) = cos(u)
+f_y(u, v) = sin(v)
+f_z(u, v) = u^2 + u*v + v^2
+parametric_plot3d([f_x, f_y, f_z], (u, -2, 2), (v, -2, 2))
+
+# three-dimensional implicit plot: hyperboloid of one sheet
+# x^2 + y^2 - z^2 = 1
+x, y, z = var('x, y, z')
+implicit_plot3d(x^2 + y^2 - z^2 - 1, (x,-3, 3), (y,-3, 3), (z,-3, 3))
+
+```
+
+# differentiation and integration
+
+```python
+# declare an independent variable t
+t = var('t')
+
+# differentiate an expression with respect to t
+diff(sin(t) + e^(3*t), t)
+
+# higher order derivative: the third derivative of cos(5x)
+diff(cos(5*x), x, 3)
+
+# partial differentiation
+x, y = var('x,y')
+
+# declare a function f in terms of x and y
+f = 2*x^2 + 3*y^3
+
+# differentiate f with respect to x
+f.diff(x)
+
+#differentiate f with respect to y
+f.diff(y)
+
+# an indefinite integral with respect to x
+integral(x*sin(x^2), x)
+
+# a definite integral with respect to x from x=-1 to 1
+integral(1/(x^2+1), x, -1, 1)
+
+```

@@ -1,5 +1,5 @@
 ---
-title: frQ
+title: frq
 layout: page
 permalink: /frq/
 ---

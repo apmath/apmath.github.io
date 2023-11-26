@@ -1,7 +1,7 @@
 ---
-title: mcQ
+title: mcq
 layout: page
-permalink: /mcquest/
+permalink: /mcqu/
 ---
 
 <strong>From the CollegeBoard</strong> <br />
