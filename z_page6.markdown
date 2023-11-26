@@ -4,8 +4,6 @@ layout: page
 permalink: /summer/
 ---
 
-# summer review
-
 <!--
 <center><b> Playlist: Preparing For AP Calculubs AB </b> <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLu49WYVXsOBEJWiznjdTVRaKp3yGnCXDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <br>
