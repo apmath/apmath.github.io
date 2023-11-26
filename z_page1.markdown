@@ -302,9 +302,9 @@ permalink: /calculus/
 <td width="50%" valign="top">
 <strong>from the collegeboard</strong><br>
   <!-- 1988 FULL EXAM -->   
-<a href="https://apcentral.collegeboard.com/apc/public/repository/calculcus-free-exam-1988.pdf" target="_blank">1988 - AP Calculus AB - FULL EXAM</a> ( <a href="../docs/apcalculus/apexams/fullexams/calculcus-free-exam-1988.pdf" target="_blank">MIRROR </a> ) <br>
+<a href="https://apcentral.collegeboard.com/apc/public/repository/calculcus-free-exam-1988.pdf" target="_blank">1988 - AP Calculus AB</a> ( <a href="../docs/apcalculus/apexams/fullexams/calculcus-free-exam-1988.pdf" target="_blank">MIRROR </a> ) <br>
 <!-- 1998 FULL EXAM -->  
-<a href="https://apcentral.collegeboard.com/apc/public/repository/calculcus-free-exam-1998.pdf" target="_blank">1998 - AP Calculus AB - FULL EXAM</a> ( <a href="../docs/apcalculus/apexams/fullexams/calculcus-free-exam-1998.pdf" target="_blank">MIRROR </a> )<br>
+<a href="https://apcentral.collegeboard.com/apc/public/repository/calculcus-free-exam-1998.pdf" target="_blank">1998 - AP Calculus AB</a> ( <a href="../docs/apcalculus/apexams/fullexams/calculcus-free-exam-1998.pdf" target="_blank">MIRROR </a> )<br>
 <!-- Sample Questions from the the College Board course description -->
 <a href="../docs/apcalculus/apexams/multiplechoice/mc_sample_ab_bc_cb_2013.pdf" target="_blank">Sample Questions: College Board</a> <br><br>
 
