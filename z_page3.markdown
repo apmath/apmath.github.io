@@ -1,7 +1,7 @@
 ---
 title: mcQ
 layout: page
-permalink: /mcq/
+permalink: /mcquest/
 ---
 
 # multiple choice questions

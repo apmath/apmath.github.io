@@ -4,61 +4,188 @@ layout: page
 permalink: /wolfram/
 ---
 
-# multiple choice questions
+# mathematica labs
 
-<strong>From the CollegeBoard</strong> <br />
+<table width="100%" border="2" cellspacing="1" cellpadding="1">
+      <tr>
+        <th colspan="6" scope="col"><strong>Wolfram Mathematica Labs
+    for AP Calculus</strong> [Originally created with <a href="https://www.wolfram.com/mathematica/" target="_blank">Mathematica 8.0</a>]<br>
+  </th>
+      </tr>
+      <tr>
+        <td width="30%">01:  Investigating Limits </td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/01_Limits.pdf" target="_blank">.pdf</a></td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/01_Limits.nb" target="_blank">.nb</a></td>
+        <td width="30%">15: Dot Product</td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/15_Dot_Product.pdf" target="_blank">.pdf</a></td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/15_Dot_Product.nb" target="_blank">.nb</a></td>
+      </tr>
+      <tr>
+        <td width="30%">02:  Rates of Change </td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/02_Rates_of_change.pdf" target="_blank">.pdf</a></td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/02_Rates_of_change.nb" target="_blank">.nb</a></td>
+        <td width="30%">16: Cross Product</td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/16_Cross_Product.pdf" target="_blank">.pdf</a></td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/16_Cross_Product.nb" target="_blank">.nb</a></td>
+      </tr>
+      <tr>
+        <td width="30%">03:  The Derivative </td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/03_The_Derivative.pdf" target="_blank">.pdf</a></td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/03_The_Derivative.nb" target="_blank">.nb</a></td>
+        <td width="30%">17: Lines and Planes</td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/17_Lines_Planes.pdf" target="_blank">.pdf</a></td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/17_Lines_Planes.nb" target="_blank">.nb</a></td>
+      </tr>
+      <tr>
+        <td width="30%">04:  Derivatives Graphically</td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/04_Derivatives_Graphically.pdf" target="_blank">.pdf</a></td>
+         <td width="10%" align="center"><a href="../docs/labs/calculus/04_Derivatives_Graphically.nb" target="_blank">.nb</a></td>
+         <td width="30%">18: Curvature, T(t),N(t), B(t)</td>
+         <td width="10%" align="center"><a href="../docs/labs/calculus/18_Curvature_TNB.pdf" target="_blank">.pdf</a></td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/18_Curvature_TNB.nb" target="_blank">.nb</a></td>
+      </tr>
+      <tr>
+        <td width="30%">05:  Higher Derivatives</td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/05_Higher_Derivatives.pdf" target="_blank">.pdf</a></td>
+         <td width="10%" align="center"><a href="../docs/labs/calculus/05_Higher_Derivatives.nb" target="_blank">.nb</a></td>
+         <td width="30%">19: Multivariable Functions</td>
+         <td width="10%" align="center"><a href="../docs/labs/calculus/19_Multivariable_Functions.pdf" target="_blank">.pdf</a></td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/19_Multivariable_Functions.nb" target="_blank">.nb</a></td>
+      </tr>
+      <tr>
+        <td width="30%">06:  Extrema</td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/06_Extrema.pdf" target="_blank">.pdf</a></td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/06_Extrema.nb" target="_blank">.nb</a></td>
+           <td width="30%">20: Partial Derivatives</td>
+         <td width="10%" align="center"><a href="../docs/labs/calculus/20_Partial_Derivatives.pdf" target="_blank">.pdf</a></td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/20_Partial_Derivatives.nb" target="_blank">.nb</a></td>
+      </tr>
+      <tr>
+        <td width="30%">07:  Inflection Points</td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/07_Inflection_Points.pdf" target="_blank">.pdf</a></td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/07_Inflection_Points.pdf" target="_blank">.nb</a></td>
+        <td width="30%">21:  The Chain Rule</td>
+       <td width="10%" align="center"><a href="../docs/labs/calculus/21_Chain_Rule.pdf" target="_blank">.pdf</a></td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/21_Chain_Rule.nb" target="_blank">.nb</a></td>
+      </tr>
+      <tr>
+        <td width="30%">08:  Implicit Differentiation</td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/08_Implicit_Differentiation.pdf" target="_blank">.pdf</a></td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/08_Implicit_Differentiation.nb" target="_blank">.nb</a></td>
+        <td width="30%">22:  The Gradient</td>
+       <td width="10%" align="center"><a href="../docs/labs/calculus/22_Gradient.pdf" target="_blank">.pdf</a></td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/22_Gradient.nb" target="_blank">.nb</a></td>
   
-<!-- 1988 FULL EXAM -->   
-<a href="https://apcentral.collegeboard.com/apc/public/repository/calculcus-free-exam-1988.pdf" target="_blank">1988 - AP Calculus AB - FULL EXAM</a> ( <a href="../docs/apcalculus/apexams/fullexams/calculcus-free-exam-1988.pdf" target="_blank">MIRROR </a> ) <br />
-
-<!-- 1998 FULL EXAM -->  
-<a href="https://apcentral.collegeboard.com/apc/public/repository/calculcus-free-exam-1998.pdf" target="_blank">1998 - AP Calculus AB - FULL EXAM</a> ( <a href="../docs/apcalculus/apexams/fullexams/calculcus-free-exam-1998.pdf" target="_blank">MIRROR </a> ) <br />
-
-<!-- Sample Questions from the the College Board course description -->
-<a href="../docs/apcalculus/apexams/multiplechoice/mc_sample_ab_bc_cb_2013.pdf" target="_blank">Sample Questions: College Board</a> <br />
-
+</tr>
+      <tr>
+        <td width="30%">09:  Differential Equations</td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/09_Differential_Equations.pdf" target="_blank">.pdf</a></td>
+         <td width="10%" align="center"><a href="../docs/labs/calculus/09_Differential_Equations.nb" target="_blank">.nb</a></td>
+         <td width="30%">23:  Lagrange Multiplier</td>
+           <td width="10%" align="center"><a href="../docs/labs/calculus/23_Lagrange_Multiplier.pdf" target="_blank">.pdf</a></td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/23_Lagrange_Multiplier.nb" target="_blank">.nb</a></td>
+      </tr>
+      <tr>
+        <td width="30%">10:  Integrals</td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/10_Integrals.pdf" target="_blank">.pdf</a></td>
+       <td width="10%" align="center"><a href="../docs/labs/calculus/10_Integrals.nb" target="_blank">.nb</a></td>
+       <td width="30%">&nbsp;</td>
+       <td width="10%" align="center">&nbsp;</td>
+        <td width="10%" align="center">&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="30%">11: Riemann Sums</td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/11_Riemann_Sums.pdf" target="_blank">.pdf</a></td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/11_Riemann_Sums.nb" target="_blank">.nb</a></td>
+        <td width="30%">&nbsp;</td>
+        <td width="10%" align="center">&nbsp;</td>
+        <td width="10%" align="center">&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="30%">12: Improper Integrals*</td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/12_Improper_Integrals.pdf" target="_blank">.pdf</a></td>
+            <td width="10%" align="center"><a href="../docs/labs/calculus/12_Improper_Integrals.nb" target="_blank">.nb</a></td>
+            <td width="30%">&nbsp;</td>
+            <td width="10%" align="center">&nbsp;</td>
+        <td width="10%" align="center">&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="30%">13: Accumulating Functions</td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/13_Accumulating_Functions.pdf" target="_blank">.pdf</a></td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/13_Accumulating_Functions.nb" target="_blank">.nb</a></td>
+        <td width="30%">&nbsp;</td>
+        <td width="10%" align="center">&nbsp;</td>
+        <td width="10%" align="center">&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="30%">14: Sequences and Series*</td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/14_Sequences_and_Series.pdf" target="_blank">.pdf</a></td>
+        <td width="10%" align="center"><a href="../docs/labs/calculus/14_Sequences_and_Series.nb" target="_blank">.nb</a></td>
+        <td width="30%">&nbsp;</td>
+        <td width="10%" align="center">&nbsp;</td>
+        <td width="10%" align="center">&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="6">*AP Calculus BC only</td>
+      </tr>
+    </table>
   
-<strong>AP Calculus AB/BC: ap-calc.github.io</strong><br />  
-
-<!-- ilearnmath.net Multiple Choice Questions for AP Calculus AB/BC -->
-<a href="/mcq/" target="_blank"> 300 Questions: ap-calc.github.io </a><br />    
-<a href="../docs/quest/questapcalculus.pdf" target="_blank"> 130 Questions: ap-calc.github.io</a><br />
-
-<!-- 1997 Calculus AB MOCK EXAM - iLearnMath.net -->   
-<a href="../docs/apcalculus/apexams/fullexams/mc_calcab_1997_mock.pdf" target="_blank">1997 - AP Calculus AB - MOCK EXAM </a> <br />
+<center> <a href="../docs/labs/calculus/Taylor-Series-Shubleka.nb.zip" target="_blank"> Taylor Series with Mathematica </a> (.zip) </center>
+    <hr>
+    <div align="center">
+      <p class="style1"><u>Interactive Demonstrations: Calculus Concepts </u></p>
+      <p class="style2"><u><a href="https://www.wolfram.com/cdf-player/" target="_blank">Download Mathematica Player (Free)</a></u>
+     </p>
+      <table width="100%"  border="0">
+        <tr valign="top">
+          <td><a href="https://demonstrations.wolfram.com/TheTangentLineProblem/" target="_blank"><img src="https://demonstrations.wolfram.com/TheTangentLineProblem/thumbnail_174.jpg" border="0" alt="&quot;The Tangent Line Problem&quot; from the Wolfram Demonstrations Project" title="&quot;The Tangent Line Problem&quot; from the Wolfram Demonstrations Project" /></a><strong><br>
+          The Tangent Problem</strong></td>
+          <td><a href="https://demonstrations.wolfram.com/TheQuotientRule/" target="_blank"><img src="https://demonstrations.wolfram.com/TheQuotientRule/thumbnail_174.jpg" border="0" alt="&quot;The Quotient Rule&quot; from the Wolfram Demonstrations Project" title="&quot;The Quotient Rule&quot; from the Wolfram Demonstrations Project" /></a><br>
+            <strong>The Quotient Rule</strong></td>
+          <td><a href="https://demonstrations.wolfram.com/Discontinuity/" target="_blank"><img src="https://demonstrations.wolfram.com/Discontinuity/thumbnail_174.jpg" border="0" alt="&quot;Discontinuity&quot; from the Wolfram Demonstrations Project" title="&quot;Discontinuity&quot; from the Wolfram Demonstrations Project" /></a><br>
+            <strong>Discontinuity</strong></td>
+        </tr>
+        <tr valign="top">
+          <td>
+        <p align="left"><strong><strong><a href="https://demonstrations.wolfram.com/MeanValueTheorem/" target="_blank"><img src="https://demonstrations.wolfram.com/MeanValueTheorem/thumbnail_174.jpg" border="0" alt="&quot;Mean Value Theorem&quot; from the Wolfram Demonstrations Project" title="&quot;Mean Value Theorem&quot; from the Wolfram Demonstrations Project" /></a> <br>
+          Mean Value Theorem</strong></strong></p></td>
+          <td><p align="left"><strong><a href="https://demonstrations.wolfram.com/SqueezeTheorem/" target="_blank"><img src="https://demonstrations.wolfram.com/SqueezeTheorem/thumbnail_174.jpg" border="0" alt="&quot;Squeeze Theorem&quot; from the Wolfram Demonstrations Project" title="&quot;Squeeze Theorem&quot; from the Wolfram Demonstrations Project"/></a><br>
+          Squeeze Theorem
+            </strong></p>
+          </td>
+          <td><strong><a href="https://demonstrations.wolfram.com/TheFundamentalTheoremOfCalculus/" target="_blank"><img src="https://demonstrations.wolfram.com/TheFundamentalTheoremOfCalculus/thumbnail_174.jpg" border="0" alt="&quot;The Fundamental Theorem of Calculus&quot; from the Wolfram Demonstrations Project" title="&quot;The Fundamental Theorem of Calculus&quot; from the Wolfram Demonstrations Project" /></a><br>
+          The Fundamental Theorem of Calculus</strong></td>
+        </tr>
+        <tr valign="top">
+          <td><strong><a href="https://demonstrations.wolfram.com/AverageValueOfAFunction/" target="_blank"><img src="https://demonstrations.wolfram.com/AverageValueOfAFunction/thumbnail_174.jpg" border="0" alt="&quot;Average Value of a Function&quot; from the Wolfram Demonstrations Project" title="&quot;Average Value of a Function&quot; from the Wolfram Demonstrations Project" /></a><br>
+          Average Value of a Function</strong></td>
+          <td><a href="https://demonstrations.wolfram.com/ExtremeValueTheorem/" target="_blank"><img src="https://demonstrations.wolfram.com/ExtremeValueTheorem/thumbnail_174.jpg" border="0" alt="&quot;Extreme Value Theorem&quot; from the Wolfram Demonstrations Project" title="&quot;Extreme Value Theorem&quot; from the Wolfram Demonstrations Project" /></a><br>
+            <strong>Extreme Value Theorem</strong></td>
+          <td><a href="https://demonstrations.wolfram.com/IntegralMeanValueTheorem/" target="_blank"><img src="https://demonstrations.wolfram.com/IntegralMeanValueTheorem/thumbnail_174.jpg" border="0" alt="&quot;Integral Mean Value Theorem&quot; from the Wolfram Demonstrations Project" title="&quot;Integral Mean Value Theorem&quot; from the Wolfram Demonstrations Project" /></a><br>
+            <strong>Integral Mean Value Theorem</strong></td>
+        </tr>
+        <tr valign="top">
+          <td><a href="https://demonstrations.wolfram.com/IntermediateValueTheorem/" target="_blank"><img src="https://demonstrations.wolfram.com/IntermediateValueTheorem/thumbnail_174.jpg" border="0" alt="&quot;Intermediate Value Theorem&quot; from the Wolfram Demonstrations Project" title="&quot;Intermediate Value Theorem&quot; from the Wolfram Demonstrations Project" /></a><br> <strong>Intermediate Value Theorem</strong></td>
+          <td><a href="https://demonstrations.wolfram.com/IntegrationByRiemannSums/" target="_blank"><img src="https://demonstrations.wolfram.com/IntegrationByRiemannSums/thumbnail_174.jpg" border="0" alt="&quot;Integration by Riemann Sums&quot; from the Wolfram Demonstrations Project" title="&quot;Integration by Riemann Sums&quot; from the Wolfram Demonstrations Project" /></a><br>
+            <strong>Riemann Sums: Integration</strong></td>
+          <td><a href="https://demonstrations.wolfram.com/AreaBetweenCurves/" target="_blank"><img src="https://demonstrations.wolfram.com/AreaBetweenCurves/thumbnail_174.jpg" border="0" alt="&quot;Area Between Curves&quot; from the Wolfram Demonstrations Project" title="&quot;Area Between Curves&quot; from the Wolfram Demonstrations Project" /></a><br>
+            <strong>Area Between Curves</strong></td>
+        </tr>
+        <tr valign="top">
+          <td><a href="https://demonstrations.wolfram.com/VolumesUsingTheDiscMethod/" target="_blank"><img src="https://demonstrations.wolfram.com/VolumesUsingTheDiscMethod/thumbnail_174.jpg" border="0" alt="&quot;Volumes Using the Disc Method&quot; from the Wolfram Demonstrations Project" title="&quot;Volumes Using the Disc Method&quot; from the Wolfram Demonstrations Project" /></a><br>
+            <strong>Disk Method</strong></td>
+          <td><a href="https://demonstrations.wolfram.com/SolidsOfKnownCrossSection/" target="_blank"><img src="https://demonstrations.wolfram.com/SolidsOfKnownCrossSection/thumbnail_174.jpg" border="0" alt="&quot;Solids of Known Cross Section&quot; from the Wolfram Demonstrations Project" title="&quot;Solids of Known Cross Section&quot; from the Wolfram Demonstrations Project" /></a><br>
+            <strong>Solids of Known Cross Sections</strong></td>
+          <td><a href="https://demonstrations.wolfram.com/VolumesOfRevolutionUsingCylindricalShells/" target="_blank"><img src="https://demonstrations.wolfram.com/VolumesOfRevolutionUsingCylindricalShells/thumbnail_174.jpg" border="0" alt="&quot;Volumes of Revolution Using Cylindrical Shells&quot; from the Wolfram Demonstrations Project" title="&quot;Volumes of Revolution Using Cylindrical Shells&quot; from the Wolfram Demonstrations Project" /></a><br>
+            <strong>Shell Method</strong></td>
+        </tr>
+        <tr valign="top">
+          <td><a href="https://demonstrations.wolfram.com/PlotOfAGeometricSequenceAndItsPartialSums/" target="_blank"><img src="https://demonstrations.wolfram.com/PlotOfAGeometricSequenceAndItsPartialSums/thumbnail_174.jpg" border="0" alt="&quot;Plot of a Geometric Sequence and Its Partial Sums&quot; from the Wolfram Demonstrations Project" title="&quot;Plot of a Geometric Sequence and Its Partial Sums&quot; from the Wolfram Demonstrations Project" /></a><br>
+            <strong>Geometric Sequence</strong></td>
+          <td><a href="https://demonstrations.wolfram.com/GraphsOfTaylorPolynomials/" target="_blank"><img src="https://demonstrations.wolfram.com/GraphsOfTaylorPolynomials/thumbnail_174.jpg" border="0" alt="&quot;Graphs of Taylor Polynomials&quot; from the Wolfram Demonstrations Project" title="&quot;Graphs of Taylor Polynomials&quot; from the Wolfram Demonstrations Project" /></a><br>
+            <strong>Taylor Polynomials</strong></td>
+          <td><a href="https://demonstrations.wolfram.com/LHospitalsRuleFor00Forms/" target="_blank"><img src="https://demonstrations.wolfram.com/LHospitalsRuleFor00Forms/thumbnail_174.jpg" border="0" alt="&quot;L'Hospital's Rule for 0/0 Forms&quot; from the Wolfram Demonstrations Project" title="&quot;L'Hospital's Rule for 0/0 Forms&quot; from the Wolfram Demonstrations Project" /></a><br>
+            <strong>L'Hopital's Rule 0/0</strong></td>
+        </tr>
   
-<strong>AP Calculus AB/BC MISC. SOURCES</strong> <br />
-
-<!-- 20 AP Calculus AB Problems from LHS -->
-<a href="../docs/apcalculus/apexams/multiplechoice/01_mc_calc_ab_20p.pdf" target="_blank"> 01. AB/BC | 20 Sample Questions </a><br />
-
-<!-- 32 AP Calculus AB Problems--> 
-<a href="../docs/apcalculus/apexams/multiplechoice/02_mc_ab_32_problems.pdf" target="_blank">  02. AB/BC | 32 Sample Questions </a><font color=purple>(key incl.)</font><br />
-
-<!-- 11 AP Calculus AB Problems from Newton HS? --> 
-<a href="../docs/apcalculus/apexams/multiplechoice/03_mc_ab_11problems.pdf" target="_blank"> 03. AB/BC | 11 Sample Questions </a><br />
-      
-<!-- Sets AP Calculus AB Multiple Choice Problems from Designated Deriver Wiki -->  
-<a href="../docs/apcalculus/apexams/multiplechoice/04_mc_multiple_choice_sets_1thru20.pdf" target="_blank">04. AB/BC | 75 Questions (20 Sets) </a><font color=purple>(key incl.)</font><br />
-
-<!-- 14 MC Problems --> 
-<a href="../docs/apcalculus/apexams/multiplechoice/05_mc_bc_14_problems.pdf" target="_blank"> 05. AB/BC | 14 Sample Problems </a> <font color=purple>(key inc.)</font><br />
-
-<!-- 20 MC/TF Problems -->
-<a href="../docs/apcalculus/apexams/multiplechoice/06_mc_calc_20problems.pdf" target="_blank"> 06. AB/BC | 20 Problems MC/True/False </a><br />  
-
-<!-- 32 MC Problems AB/BC from Brandeis -->
-<a href="../docs/apcalculus/apexams/multiplechoice/07_mc_bc_32_problems_brandeis.pdf" target="_blank"> 07. AB/BC | 32 Sample Problems </a><br />  
-
-<!-- 19 MC Problems AB/BC -->
-<a href="../docs/apcalculus/apexams/multiplechoice/08_mc_ab_19questions.pdf" target="_blank"> 08. AB/BC | 19 Sample Problems </a><br />
-
-<!-- 17 Graphing Calculus Problems - Solved - AP Calculus AB Level -->  
-<a href="../docs/apcalculus/apexams/multiplechoice/09_mc_old_guide_key_solutions.pdf" target="_blank">   09. AB/BC | 17 Solved Graphing Problems (AB)  </a><br />
-
-<!-- Spark Notes: AP Calculus AB | Full Exam -->
-<a href="../docs/apcalculus/apexams/multiplechoice/10_sparknotes_ab_exam_full.pdf" target="_blank"> 10. AB/BC | Full Exam (AB Level)  </a><br />
-
-<!-- 41 MC Problems AB Level -->   
-<a href="../docs/apcalculus/apexams/multiplechoice/11_mc_ab_41questions.pdf" target="_blank">  11. AB/BC | 41 Sample Problems (AB) </a><br />
-  
+</table>
