@@ -6,7 +6,7 @@ permalink: /calculus/
 
 # ap calculus ab & bc (2005 - present)
 
-<i> AP Calculus follows the curriculum set forth by the College Board. The AB level is worth the equivalent orgorg semester orgcollege credit upon successful completion orgthe AP examination offered in May. The BC level, which is an extension orgAB, is worth the equivalent orgtwo semesters orgcollege credit. AB topcs include the library orgfunctions (review from precalculus), limits, the derivative, applications orgthe derivative, definite and indefinite integrals, applications orgintegration, etc. The BC curriculum adds advanced techniques orgintegration, series and sequences, calculus orgparametric and polar curves, etc. </i>
+<i> AP Calculus follows the curriculum set forth by the College Board. The AB level is worth the equivalent of one semester of college credit upon successful completion of the AP examination offered in May. The BC level, which is an extension of AB, is worth the equivalent of two semesters of college credit. AB topics include the library of functions (review from precalculus), limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, etc. The BC curriculum adds advanced techniques of integration, series and sequences, calculus of parametric and polar curves, etc. </i>
 
 <p align="center"><img src="../img/site/squeeze.png" border="0"> </p>
 
@@ -26,25 +26,25 @@ permalink: /calculus/
 <a href="https://org.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/" target="_blank">mit opencourseware</a><br>
 <a href="https://demonstrations.wolfram.com/topic.html?topic=Calculus&limit=20" target="_blank"> wolfram demos for calculus</a> <br>
 <a href="https://www.online.math.uh.edu/HoustonACT/videocalculus/index.html" target="_blank">video calculus from uh.edu</a><br>
- <a href="https://math.arizona.edu/~calc/m124Worksheets.html" target="_blank">univ. orgarizona: calculus I resources</a> <br />
+ <a href="https://math.arizona.edu/~calc/m124Worksheets.html" target="_blank">univ. of arizona: calculus I resources</a> <br />
 <a href="https://www.integral-domain.org/lwilliams/Applets/index.pdf" target="_blank"> js applets forcalculus</a><br>
 <a href="https://www.geogebra.org/t/calculus?lang=en" target="_blank"> geogebra applets for calculus</a><br>
 <a href="https://library.wolfram.com/webMathematica/Education/WalkD.jsp" target="_blank">wolfram derivative calculator</a> <br />
 <a href="https://www.wolframalpha.com/" target="_blank"> wolframalpha.com</a><br><br>
 
-<strong>tutorials org selected topics</strong><br />
+<strong>tutorials on selected topics</strong><br />
       <a href="../../docs/apcalculus/tutorials/tutorial01.pdf" target="_blank">01: Limits and Continuity </a><br />
-      <a href="../../docs/apcalculus/tutorials/tutorial02.pdf" target="_blank">02: Numerical Estimation orgSlope</a> <br />
+      <a href="../../docs/apcalculus/tutorials/tutorial02.pdf" target="_blank">02: Numerical Estimation of Slope</a> <br />
       <a href="../../docs/apcalculus/tutorials/tutorial03.pdf" target="_blank">03: Differentiability </a> <br />
       <a href="../../docs/apcalculus/tutorials/tutorial04.pdf" target="_blank">04:  Linear Approximation</a> <br />
       <a href="../../docs/apcalculus/tutorials/tutorial05.pdf" target="_blank">05: Describing f from f' and f''</a><br />
       <a href="../../docs/apcalculus/tutorials/tutorial06.pdf" target="_blank">06: Firm Theory Applications </a> <br />
       <a href="../../docs/apcalculus/tutorials/tutorial07.pdf" target="_blank">07: 'Average' in Calculus</a> <br />
       <a href="../../docs/apcalculus/tutorials/tutorial08.pdf" target="_blank">08: Disk and Washer Methods</a> <br />
-      <a href="../../docs/apcalculus/tutorials/tutorial09.pdf" target="_blank">09: Method orgCylindrical Shells</a> <br />
+      <a href="../../docs/apcalculus/tutorials/tutorial09.pdf" target="_blank">09: Method of Cylindrical Shells</a> <br />
       <a href="../../docs/apcalculus/tutorials/tutorial10.pdf" target="_blank">10: Sketching Slope Fields</a> <br />
       <a href="../../docs/apcalculus/tutorials/tutorial11.pdf" target="_blank">11: Measuring Areas with Limits</a> <br />
-      <a href="../../docs/apcalculus/tutorials/tutorial12.pdf" target="_blank">12: Notes orgthe FTC</a> <br />
+      <a href="../../docs/apcalculus/tutorials/tutorial12.pdf" target="_blank">12: Notes on the FTC</a> <br />
       <a href="../../docs/apcalculus/tutorials/tutorial13.pdf" target="_blank">13: Known X-Sections</a> <br /><br>
   
 <strong>references</strong><br />
