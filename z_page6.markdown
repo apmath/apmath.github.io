@@ -6,11 +6,11 @@ permalink: /summer/
 
 # summer review
 
- <!--
+<!--
 <center><b> Playlist: Preparing For AP Calculubs AB </b> <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLu49WYVXsOBEJWiznjdTVRaKp3yGnCXDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <br>
 </center>
-  -->  
+-->  
 
 My notes on pre-requisite content: <a href="../docs/paca/preparing_for_ap_calculus_ab.pdf" target="_blank">Preparing for AP Calculus AB</a> <br>
   
