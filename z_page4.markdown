@@ -1,70 +1,41 @@
 ---
-title: links
+title: summer
 layout: page
-permalink: /links/
+permalink: /summer/
 ---
 
-# ap-info (general)
+# summer review
 
-[ <a href="https://apstudents.collegeboard.org/course-index-page" target="_blank">ap courses and exams </a> ]
-[ <a href="https://apcentral.collegeboard.org/" target="_blank">ap central</a> ]
-[ <a href="https://myap.collegeboard.org/login" target="_blank">myap</a> ]
-[ <a href="https://apcentral.collegeboard.org/media/pdf/ap-students-in-college.pdf" target="_blank">ap students in college</a> ]
+<!--
+<center><b> Playlist: Preparing For AP Calculubs AB </b> <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLu49WYVXsOBEJWiznjdTVRaKp3yGnCXDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <br>
+</center>
+-->  
 
-[ <a href="https://apcentral.collegeboard.org/exam-administration-ordering-scores" target="_blank">ap exam info</a> ]
-[ <a href="https://apcentral.collegeboard.org/instructional-resources/teaching-ap-first-time" target="_blank"> teaching ap for the first time</a> ]
-[ <a href="https://apstudents.collegeboard.org/getting-credit-placement/search-policies" target="_blank"> ap college credit policy</a> ]
-
-[ <a href="https://apstudents.collegeboard.org/view-scores" target="_blank">ap scores</a> ]
-[ <a href="https://apcentral.collegeboard.org/instructional-resources/ap-classroom" target="_blank">ap classroom and ap daily</a> ]
-[ <a href="https://apcommunity.collegeboard.org/" target="_blank">ap teacher community</a> ]
-
-
-# software & books
-
-[ <a href="https://www.sagemath.org/" target="_blank">sagemath</a> ] 
-[ <a href="https://sagecell.sagemath.org/" target="_blank"> sagecell</a> ]
-
-
-[ <a href="https://www.desmos.com/calculator" target="_blank">desmos graphing calculator</a> ] 
-[ <a href="https://help.desmos.com/hc/en-us/categories/4406369954701-Graphing-Calculator" target="_blank">reference</a> ]
-
-
-[ <a href="https://www.geogebra.org/?lang=en" target="_blank">geogebra</a> ] 
-[ <a href="https://www.geogebra.org/math" target="_blank"> math resources</a> ]
-
-[ <a href="https://www.wolfram.com/mathematica/" target="_blank">mathematica (req. license)</a> ] 
-[ <a href="https://www.wolframalpha.com/" target="_blank">wolframalpha</a> ] 
-[ <a href="https://demonstrations.wolfram.com/" target="_blank"> wolfram demos</a> ]
-
-[ <a href="https://maxima.sourceforge.io/" target="_blank">maxima</a> ]
-[ <a href="https://octave.org/" target="_blank">octave</a> ]
-[ <a href="https://www.scilab.org/" target="_blank">scilab</a> ]
-[ <a href="https://pari.math.u-bordeaux.fr/" target="_blank">pari/gp</a> ]
-[ <a href="https://www.maplesoft.com/products/Maple/features/" target="_blank">maple (req. license)</a> ]
-
-
-[ <a href="https://www.graphcalc.com/download.shtml" target="_blank">graphcalc</a> ] 
-[ <a href="https://www.ticalc.org/pub/83plus/basic/math/" target="_blank"> ti-83/84 basic</a> ]
-[ <a href="https://www.ticalc.org/pub/89/basic/math/" target="_blank"> ti-89 basic</a> ]
-[ <a href="https://education.ti.com/en/software/details/en/a78091cd540843d68ab8ee5853c84828/student-nspirecx" target="_blank">nspire cas</a> ]
-[ <a href="https://archive.org/details/tucows_343020_Graphe_Easy" target="_blank"> graphe easy</a> ]
-
-
-[ <a href="https://www.latex-project.org/" target="_blank">LaTeX</a> ]
-[ <a href="https://www.overleaf.com/" target="_blank">overleaf</a> ]
-[ <a href="https://embracingtherandom.com/software/latex-and-google-docs/" target="_blank"> LaTeX in Google Docs</a> ]
-
-
-[ <a href="https://aimath.org/textbooks/approved-textbooks/" target="_blank"> american inst. of mathematics</a> ] 
-[ <a href="https://openstax.org/" target="_blank"> open stax</a> ]
-[ <a href="https://activecalculus.org/" target="_blank"> activecalculus</a> ]
-
-# online teaching and learning
-
-[ <a href="https://zoom.us/download" target="_blank">zoom</a> ]
-[ <a href="https://www.skype.com/en/get-skype/" target="_blank">skype</a> ]
-[ <a href="https://meet.google.com/" target="_blank">meet</a> ]
-[ <a href="https://www.ipevo.com/software" target="_blank">ipevo</a> ]
-[ <a href="https://support.smarttech.com/software/smart-notebook" target="_blank"> smart</a> ]
-[ <a href="https://meet.jit.si/" target="_blank">jitsi</a> ]
+My notes on pre-requisite content: <a href="../docs/paca/preparing_for_ap_calculus_ab.pdf" target="_blank">Preparing for AP Calculus AB</a> <br>
+  
+<strong>SUMMER REVIEW PACKETS</strong>
+<a href="../docs/apcalculus/ptests/mctest1.pdf" target="_blank">Multiple Choice Test: 34 problems | KEY INCLUDED</a>*<br>
+<a href="../docs/apcalculus/ptests/mctest2.pdf" target="_blank">Multiple Choice Test: 25 problems | KEY INCLUDED</a>*<br>
+<a href="../docs/apcalculus/ptests/mctest3.pdf" target="_blank">Multiple Choice Test: 25 problems | KEY INCLUDED</a>*<br>
+<a href="../docs/apcalculus/ptests/mctest4.pdf" target="_blank">Multiple Choice Test: 50 problems | KEY INCLUDED</a>*<br>
+<a href="../docs/apcalculus/summer/packet0a.pdf" target="_blank">Are You Ready For Calculus?</a> 
+<a href="../docs/apcalculus/summer/packet0asolutions.pdf" target="_blank">Solutions</a> <br>
+<a href="../docs/apcalculus/summer/packet0.pdf" target="_blank">AP Calculus: Packet 0</a>*
+<a href="../docs/apcalculus/summer/packet0solutions.pdf" target="_blank">Solutions</a><br>
+<a href="../docs/apcalculus/summer/packet1.pdf" target="_blank">AP Calculus: Packet 1*</a>
+<a href="../docs/apcalculus/summer/packet1solutions.pdf" target="_blank">Solutions (partial)</a><br>
+<a href="../docs/apcalculus/summer/packet2.pdf" target="_blank">AP Calculus: Packet 2*<br>
+<a href="../docs/apcalculus/summer/packet3.pdf" target="_blank">AP Calculus: Packet 3</a><br>
+<a href="../docs/apcalculus/summer/packet4.pdf" target="_blank">AP Calculus: Packet 4</a><br>
+<a href="../docs/apcalculus/summer/packet5.pdf" target="_blank">AP Calculus: Packet 5</a> <br>
+<a href="../docs/apcalculus/summer/packet6.pdf" target="_blank">AP Calculus: Packet 6*</a><br>
+<a href="../docs/apcalculus/summer/packet7.pdf" target="_blank">AP Calculus: Packet 7*</a><br>
+<a href="../docs/apcalculus/summer/packet8.pdf" target="_blank">AP Calculus: Packet 8</a><br>
+<a href="../docs/apcalculus/summer/packet9.pdf" target="_blank">AP Calculus: Packet 9*</a><br>
+<a href="../docs/apcalculus/summer/packet10.pdf" target="_blank">AP Calculus: Packet 10</a><br>
+<a href="../docs/apcalculus/summer/packet11.pdf" target="_blank">AP Calculus: Packet 11</a>*
+<a href="../docs/apcalculus/summer/packet11solutions.pdf" target="_blank">Solutions</a><br>
+<a href="../docs/apcalculus/summer/packet12.pdf" target="_blank">AP Calculus: Packet 12</a>*<br>
+<a href="../docs/apcalculus/summer/packet13.pdf" target="_blank">AP Calculus: Packet 13</a>*<br>
+<a href="../docs/apcalculus/summer/packet14.pdf" target="_blank">AP Calculus: Packet 14 (RPI)</a>*
