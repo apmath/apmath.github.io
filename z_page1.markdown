@@ -63,7 +63,7 @@ permalink: /course/
       <a href="../../docs/apcalculus/references/reference16.pdf" target="_blank">16: *Convergence Flowchart v2.0 </a><br />
       <a href="../../docs/apcalculus/references/reference17.pdf" target="_blank">17: TI-84 Tutorial </a><br />
   
-
+---
 <strong>Worksheets/Activities</strong> <br />
       <a href="../../docs/apcalculus/worksheets/worksheet01.pdf" target="_blank">01: Self-Diagnostic Test </a><br /> 
       <a href="../../docs/apcalculus/worksheets/worksheet02.pdf" target="_blank">02: Pre-requisites Test </a><br />
