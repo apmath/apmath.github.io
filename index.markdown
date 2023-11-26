@@ -345,28 +345,29 @@ layout: home
 <strong>ap exams: uh.edu</strong><br>
 
 <!-- UH 2006 Exams --> 
-<a href="../docs/apcalculus/apexams/2006/2006_ab_exam1_full.pdf" target="_blank"> UH | AB 2006 | Exam 1 | Full </a> <br />
-<a href="../docs/apcalculus/apexams/2006/2006_ab_exam2_full.pdf" target="_blank"> UH | AB 2006 | Exam 2 | Full </a> <br />
-<a href="../docs/apcalculus/apexams/2006/2006_ab_exam3.pdf" target="_blank"> UH | AB 2006 | Exam 3 | MC </a> <br />
-<a href="../docs/apcalculus/apexams/2006/2006_ab_exam4.pdf" target="_blank"> UH | AB 2006 | Exam 4 | MC </a> <br />
-<a href="../docs/apcalculus/apexams/2006/2006_ab_exam5.pdf" target="_blank"> UH | AB 2006 | Exam 5 | MC </a> <br />
-<a href="../docs/apcalculus/apexams/2006/2006_bc_exam1_full.pdf" target="_blank"> UH | BC 2006 | Exam 1 | Full </a> (<a href="../docs/apcalculus/apexams/2006/2006_bc_exam1_fr-solutions.pdf" target="_blank">FR Key</a>)<br />
-<a href="../docs/apcalculus/apexams/2006/2006_bc_exam2_full.pdf" target="_blank"> UH | BC 2006 | Exam 2 | Full </a> (<a href="../docs/apcalculus/apexams/2006/2006_bc_exam2_fr-solutions.pdf" target="_blank">FR Key</a>) <br />
-<a href="../docs/apcalculus/apexams/2006/2006_bc_exam3.pdf" target="_blank"> UH | BC 2006 | Exam 3 | MC </a> <br />
-<a href="../docs/apcalculus/apexams/2006/2006_bc_exam4.pdf" target="_blank"> UH | BC 2006 | Exam 4 | MC </a> <br />
-<a href="../docs/apcalculus/apexams/2006/2006_bc_exam5.pdf" target="_blank"> UH | BC 2006 | Exam 5 | MC </a> <br>
+<a href="../docs/apcalculus/apexams/uh/2006/2006_ab_exam1_full.pdf" target="_blank"> UH | AB 2006 | Exam 1 | Full </a> <br />
+<a href="../docs/apcalculus/apexams/uh/2006/2006_ab_exam2_full.pdf" target="_blank"> UH | AB 2006 | Exam 2 | Full </a> <br />
+<a href="../docs/apcalculus/apexams/uh/2006/2006_ab_exam3.pdf" target="_blank"> UH | AB 2006 | Exam 3 | MC </a> <br />
+<a href="../docs/apcalculus/apexams/uh/2006/2006_ab_exam4.pdf" target="_blank"> UH | AB 2006 | Exam 4 | MC </a> <br />
+<a href="../docs/apcalculus/apexams/uh/2006/2006_ab_exam5.pdf" target="_blank"> UH | AB 2006 | Exam 5 | MC </a> <br />
+<a href="../docs/apcalculus/apexams/uh/2006/2006_bc_exam1_full.pdf" target="_blank"> UH | BC 2006 | Exam 1 | Full </a> (<a href="../docs/apcalculus/apexams/uh/2006/2006_bc_exam1_fr-solutions.pdf" target="_blank">FR Key</a>)<br />
+<a href="../docs/apcalculus/apexams/uh/2006/2006_bc_exam2_full.pdf" target="_blank"> UH | BC 2006 | Exam 2 | Full </a> (<a href="../docs/apcalculus/apexams/uh/2006/2006_bc_exam2_fr-solutions.pdf" target="_blank">FR Key</a>) <br />
+<a href="../docs/apcalculus/apexams/uh/2006/2006_bc_exam3.pdf" target="_blank"> UH | BC 2006 | Exam 3 | MC </a> <br />
+<a href="../docs/apcalculus/apexams/uh/2006/2006_bc_exam4.pdf" target="_blank"> UH | BC 2006 | Exam 4 | MC </a> <br />
+<a href="../docs/apcalculus/apexams/uh/2006/2006_bc_exam5.pdf" target="_blank"> UH | BC 2006 | Exam 5 | MC </a> <br>
            
 <!-- UH 2008 Exams --> 
-<a href="../docs/apcalculus/apexams/2008/2008_ab_exam1.pdf" target="_blank"> UH | AB 2008 | Exam 1 | MC </a> <br />
-<a href="../docs/apcalculus/apexams/2008/2008_ab_exam2.pdf" target="_blank"> UH | AB 2008 | Exam 2 | MC</a><br />
-<a href="../docs/apcalculus/apexams/2008/2008_ab_exam3.pdf" target="_blank"> UH | AB 2008 | Exam 3 | MC </a> <br />
-<a href="../docs/apcalculus/apexams/2008/2008_ab_exam4.pdf" target="_blank"> UH | AB 2008 | Exam 4 | MC </a> <br />
-<a href="../docs/apcalculus/apexams/2008/2008_ab_exam5.pdf" target="_blank"> UH | AB 2008 | Exam 5 | MC </a> <br />
-<a href="../docs/apcalculus/apexams/2008/2008_bc_exam1.pdf" target="_blank"> UH | BC 2008 | Exam 1 | MC</a> <br />
-<a href="../docs/apcalculus/apexams/2008/2008_bc_exam2.pdf" target="_blank"> UH | BC 2008 | Exam 2 | MC </a> <br />
-<a href="../docs/apcalculus/apexams/2008/2008_bc_exam3.pdf" target="_blank"> UH | BC 2008 | Exam 3 | MC</a> <br />
-<a href="../docs/apcalculus/apexams/2008/2008_bc_exam4.pdf" target="_blank"> UH | BC 2008 | Exam 4 | MC </a> <br />
-<a href="../docs/apcalculus/apexams/2008/2008_bc_exam5.pdf" target="_blank"> UH | BC 2008 | Exam 5 | MC </a> <br />
+<a href="../docs/apcalculus/apexams/uh/2008/2008_ab_exam1.pdf" target="_blank"> UH | AB 2008 | Exam 1 | MC </a> <br />
+<a href="../docs/apcalculus/apexams/uh/2008/2008_ab_exam2.pdf" target="_blank"> UH | AB 2008 | Exam 2 | MC</a><br />
+<a href="../docs/apcalculus/apexams/uh/2008/2008_ab_exam3.pdf" target="_blank"> UH | AB 2008 | Exam 3 | MC </a> <br />
+<a href="../docs/apcalculus/apexams/uh/2008/2008_ab_exam4.pdf" target="_blank"> UH | AB 2008 | Exam 4 | MC </a> <br />
+<a href="../docs/apcalculus/apexams/uh/2008/2008_ab_exam5.pdf" target="_blank"> UH | AB 2008 | Exam 5 | MC </a> <br />
+<a href="../docs/apcalculus/apexams/uh/2008/2008_bc_exam1.pdf" target="_blank"> UH | BC 2008 | Exam 1 | MC</a> <br />
+<a href="../docs/apcalculus/apexams/uh/2008/2008_bc_exam2.pdf" target="_blank"> UH | BC 2008 | Exam 2 | MC </a> <br />
+<a href="../docs/apcalculus/apexams/uh/2008/2008_bc_exam3.pdf" target="_blank"> UH | BC 2008 | Exam 3 | MC</a> <br />
+<a href="../docs/apcalculus/apexams/uh/2008/2008_bc_exam4.pdf" target="_blank"> UH | BC 2008 | Exam 4 | MC </a> <br />
+<a href="../docs/apcalculus/apexams/uh/2008/2008_bc_exam5.pdf" target="_blank"> UH | BC 2008 | Exam 5 | MC </a> <br />
+
 </td>
 </tr>
 
