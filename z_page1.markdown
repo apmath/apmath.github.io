@@ -139,6 +139,8 @@ permalink: /courses/
 <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank">jdk</a><br>
 <a href="https://processing.org/" target="_blank">processing</a> <br>
 <a href="https://notepad-plus-plus.org/downloads/" target="_blank">notepad++</a><br>
+
+---
       
 # ap statistics (2007 - 2009)
 <a href="https://apstudents.collegeboard.org/courses/ap-statistics" target="_blank">about</a>
@@ -157,11 +159,15 @@ permalink: /courses/
 <a href="https://education.ti.com/en/software/details/en/31FC737C43CF43B0ADA1CF67420C3AA8/89statisticswithlisteditor" target="_blank">ti-89</a> <br>
 <a href="https://www.mathlore.net/files/TInspireCX_Skills_for_APstats.pdf" target="_blank"> ti-nspire </a> <br>
 
+---
+
 # multivariable calculus (2009 - present)
 <a href="https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/" target="_blank">mit - ocw</a><br>
 <a href="https://www.khanacademy.org/math/multivariable-calculus" target="_blank">khan academy</a> <br>
 <a href="https://www.whitman.edu/mathematics/multivariable/multivariable.pdf" target="_blank"> textbook</a> <br>
 <a href="https://open.umn.edu/opentextbooks/textbooks/780" target="_blank">open textbook</a> <br>
+
+---
 
 # linear algebra (2016 - 2019 )
 <a href="https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/" target="_blank"> mit - ocw</a><br>
