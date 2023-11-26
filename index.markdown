@@ -7,7 +7,7 @@ I am an educator and technology enthusiast from the New England region in the Un
 
 If you are looking for the single-page version of ap-calc.github.io, find it <a href="../index_retired.html" target="_blank"> here</a>. For questions or comments email me at apcalc@pm.me or use the form below.
 
-<p align="center"> site last updated: Nov 25, 2023</p>
+<p align="center"> site last updated: Nov 26, 2023</p>
 
 <p align="center"><img src="../img/site/running.jpeg" border="3"> </p>
 
