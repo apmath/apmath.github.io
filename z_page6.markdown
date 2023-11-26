@@ -65,15 +65,15 @@ My notes on pre-requisite content: <a href="../docs/paca/preparing_for_ap_calcul
          </tr>
          <tr bordercolor="#000000">
            <td><span class="style41"><a href="../docs/apcalculus/summer/packet6.pdf" target="_blank" class="style41">AP Calculus: Packet 6*</a></span></td>
-           <td><span class="style41"></a></span></td>
+           <td><span class="style41"></span></td>
          </tr>
          <tr bordercolor="#000000" bgcolor="#CCCCCC">
            <td><span class="style41"><a href="../docs/apcalculus/summer/packet7.pdf" target="_blank" class="style41">AP Calculus: Packet 7*</a></span></td>
-           <td><span class="style41"></a></span></td>
+           <td><span class="style41"></span></td>
          </tr>
          <tr bordercolor="#000000">
            <td><span class="style41"><a href="../docs/apcalculus/summer/packet8.pdf" target="_blank" class="style41">AP Calculus: Packet 8</a></span>*</td>
-           <td><span class="style41"></a></span></td>
+           <td><span class="style41"></span></td>
          </tr>
          <tr bordercolor="#000000" bgcolor="#CCCCCC">
            <td><span class="style41"><a href="../docs/apcalculus/summer/packet9.pdf" target="_blank" class="style41">AP Calculus: Packet 9*</a></span></td>
