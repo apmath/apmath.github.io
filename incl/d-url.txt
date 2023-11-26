@@ -1,1 +1,1 @@
-document.write('<a href="https://ap-calc.github.io/" target="_blank"> ap-calc.github.io</a> ');
+document.write('<a href="https://apmath.github.io/" target="_blank"> apmath.github.io</a> ');

@@ -1,1 +1,1 @@
-document.write('ap-calc.github.io');
+document.write('apmath.github.io');

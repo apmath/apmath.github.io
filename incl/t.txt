@@ -1,2 +1,2 @@
-document.write('<title>ap-calc.github.io</title>');
+document.write('<title>apmath.github.io</title>');
 
