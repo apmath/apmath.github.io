@@ -4,7 +4,7 @@ layout: page
 permalink: /mcqu/
 ---
 
-<strong>From the CollegeBoard</strong> <br />
+<strong>From the CollegeBoard</strong>
   <!-- 1988 FULL EXAM -->   
 <a href="https://apcentral.collegeboard.com/apc/public/repository/calculcus-free-exam-1988.pdf" target="_blank">1988 - AP Calculus AB - FULL EXAM</a> ( <a href="../docs/apcalculus/apexams/fullexams/calculcus-free-exam-1988.pdf" target="_blank">MIRROR </a> ) 
 <!-- 1998 FULL EXAM -->  
@@ -12,7 +12,7 @@ permalink: /mcqu/
 <!-- Sample Questions from the the College Board course description -->
 <a href="../docs/apcalculus/apexams/multiplechoice/mc_sample_ab_bc_cb_2013.pdf" target="_blank">Sample Questions: College Board</a> 
 
-<strong>AP Calculus AB/BC: ap-calc.github.io</strong><br />  
+<strong>AP Calculus AB/BC: ap-calc.github.io</strong> 
 <!-- ilearnmath.net Multiple Choice Questions for AP Calculus AB/BC -->
 <a href="../mcq/index.html" target="_blank"> 300 Questions: ap-calc.github.io </a> 
 <a href="../docs/quest/questapcalculus.pdf" target="_blank"> 130 Questions: ap-calc.github.io</a>
@@ -43,7 +43,7 @@ permalink: /mcqu/
 <!-- 41 MC Problems AB Level -->   
 <a href="../docs/apcalculus/apexams/multiplechoice/11_mc_ab_41questions.pdf" target="_blank">  11. AB/BC | 41 Sample Problems (AB) </a>
   
-<strong>ap exams: uh.edu</strong><br />
+<strong>ap exams: uh.edu</strong>
 
 <!-- UH 2006 Exams --> 
 <a href="../docs/apcalculus/apexa../2006/2006_ab_exam1_full.pdf" target="_blank"> UH | AP Calculus AB 2006 | Exam 1 | Full </a> <br />
