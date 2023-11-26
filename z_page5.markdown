@@ -87,19 +87,20 @@ permalink: /wolfram/
 <a href="../docs/labs/calculus/20_Partial_Derivatives.pdf" target="_blank">[  .pdf  ]</a>
 <a href="../docs/labs/calculus/20_Partial_Derivatives.nb" target="_blank">[  .nb  ]</a>
 
-21:  The Chain Rule
+21: The Chain Rule
 <a href="../docs/labs/calculus/21_Chain_Rule.pdf" target="_blank">[  .pdf  ]</a>
 <a href="../docs/labs/calculus/21_Chain_Rule.nb" target="_blank">[  .nb  ]</a>
 
-22:  The Gradient
+22: The Gradient
 <a href="../docs/labs/calculus/22_Gradient.pdf" target="_blank">[  .pdf  ]</a>
 <a href="../docs/labs/calculus/22_Gradient.nb" target="_blank">[  .nb  ]</a>
 
-23:  Lagrange Multiplier
+23: Lagrange Multiplier
 <a href="../docs/labs/calculus/23_Lagrange_Multiplier.pdf" target="_blank">[  .pdf  ]</a>
 <a href="../docs/labs/calculus/23_Lagrange_Multiplier.nb" target="_blank">[  .nb  ]</a>
 
-00: <a href="../docs/labs/calculus/Taylor-Series-Shubleka.nb.zip" target="_blank"> Taylor Series with Mathematica </a> (.zip) <br><br>
+00: Taylor Series with Mathematica 
+<a href="../docs/labs/calculus/Taylor-Series-Shubleka.nb.zip" target="_blank"> [ .zip ] </a> <br><br>
 
 
 <strong> Interactive Demonstrations: Calculus Concepts </strong><br>
