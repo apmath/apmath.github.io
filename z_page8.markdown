@@ -16,6 +16,7 @@ permalink: /links/
 <a href="https://apcentral.collegeboard.org/exam-administration-ordering-scores" target="_blank">ap exam info</a>
 
 <a href="https://apcentral.collegeboard.org/instructional-resources/teaching-ap-first-time" target="_blank"> teaching ap for the first time</a>
+
 <a href="https://apstudents.collegeboard.org/getting-credit-placement/search-policies" target="_blank"> ap college credit policy</a>
 
 <a href="https://apstudents.collegeboard.org/view-scores" target="_blank">ap scores</a>
