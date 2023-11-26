@@ -30,7 +30,7 @@ permalink: /courses/
 <a href="https://www.integral-domain.org/lwilliams/Applets/index.php" target="_blank"> js applets forcalculus</a><br>
 <a href="https://www.geogebra.org/t/calculus?lang=en" target="_blank"> geogebra applets for calculus</a><br>
 <a href="https://library.wolfram.com/webMathematica/Education/WalkD.jsp" target="_blank">wolfram derivative calculator</a> <br />
-<a href="https://www.wolframalpha.com/" target="_blank"> wolframalpha.com</a><br>
+<a href="https://www.wolframalpha.com/" target="_blank"> wolframalpha.com</a><br><br>
 
 <strong>Tutorials on  Selected Topics</strong><br />
       <a href="../../docs/apcalculus/tutorials/tutorial01.pdf" target="_blank">01: Limits and Continuity </a><br />
@@ -45,7 +45,7 @@ permalink: /courses/
       <a href="../../docs/apcalculus/tutorials/tutorial10.pdf" target="_blank">10: Sketching Slope Fields</a> <br />
       <a href="../../docs/apcalculus/tutorials/tutorial11.pdf" target="_blank">11: Measuring Areas with Limits</a> <br />
       <a href="../../docs/apcalculus/tutorials/tutorial12.pdf" target="_blank">12: Notes on the FTC</a> <br />
-      <a href="../../docs/apcalculus/tutorials/tutorial13.pdf" target="_blank">13: Known X-Sections</a> <br />
+      <a href="../../docs/apcalculus/tutorials/tutorial13.pdf" target="_blank">13: Known X-Sections</a> <br /><br>
   
 <strong>References</strong><br />
       <a href="../../docs/apcalculus/references/reference0.pdf" target="_blank">00: Review of Algebra </a><br />
@@ -105,7 +105,7 @@ permalink: /courses/
       <a href="../../docs/apcalculus/worksheets/worksheet34.pdf" target="_blank"> 34: U-Substitution</a><br />
       <a href="../../docs/apcalculus/worksheets/worksheet35.pdf" target="_blank"> 35: Area between Curves</a><br />
       <a href="../../docs/apcalculus/worksheets/worksheet36.pdf" target="_blank"> 36: Polar / Parametric</a><br />
-      <a href="../../docs/apcalculus/worksheets/worksheet37.pdf" target="_blank"> 37: More Related Rates</a><br />
+      <a href="../../docs/apcalculus/worksheets/worksheet37.pdf" target="_blank"> 37: More Related Rates</a><br /><br>
 
 <strong>Comprehensive Review Material</strong> <br /> 
       <a href="../docs/apcalculus/apexams/review/course_review_worksheets.pdf" target="_blank">01: Course Review Worksheets</a> <br />
