@@ -4,7 +4,7 @@ layout: page
 permalink: /wolfram/
 ---
 
-<strong>Wolfram Mathematica Labs for AP Calculus</strong>
+<strong>Wolfram Mathematica Labs for Single and Multivariable Calculus</strong>
 [Originally created with <a href="https://www.wolfram.com/mathematica/" target="_blank">Mathematica 8.0</a>]<br>
 *AP Calculus BC only 
 
