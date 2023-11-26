@@ -99,11 +99,11 @@ permalink: /wolfram/
 <a href="../docs/labs/calculus/23_Lagrange_Multiplier.pdf" target="_blank">[  .pdf  ]</a>
 <a href="../docs/labs/calculus/23_Lagrange_Multiplier.nb" target="_blank">[  .nb  ]</a>
 
-00: <a href="../docs/labs/calculus/Taylor-Series-Shubleka.nb.zip" target="_blank"> Taylor Series with Mathematica </a> (.zip) <br>
+00: <a href="../docs/labs/calculus/Taylor-Series-Shubleka.nb.zip" target="_blank"> Taylor Series with Mathematica </a> (.zip) <br><br>
 
 
 <strong> Interactive Demonstrations: Calculus Concepts </strong><br>
-( <a href="https://www.wolfram.com/cdf-player/" target="_blank">Download Mathematica Player (Free)</a> )
+[ <a href="https://www.wolfram.com/cdf-player/" target="_blank">Download Mathematica Player (free)</a> ]
 
 <table width="100%"  border="0">
         <tr valign="top">
