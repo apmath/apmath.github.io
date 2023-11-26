@@ -21,7 +21,7 @@ Description: paste a column of raw student scores and use two different methods 
 <a href="https://ap-calc.github.io/gcc/index.html" target="_blank"> Javascript version </a> <br>
 <a href="https://ap-calc.github.io/gcc1/index.html" target="_blank"> Geogebra version </a><br>
 
-<p align="center"><img src="../d-img/curving.png" border="0"> </p>
+<p align="center"><img src="../img/site/curving.png" border="0"> </p>
 
 # random 
 
