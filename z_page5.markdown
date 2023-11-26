@@ -22,6 +22,7 @@ Description: paste a column of raw student scores and use two different methods 
 <p align="center"><img src="../img/site/curving.png" border="0"> </p>
 
 # random 
+<a href="https://apteacher.github.io" target="_blank">current teaching sections / hosted on github </a> <br>
 <a href="../uscis/" target="_blank"> uscis citizenship questions </a> <br>
 <a href="../running/" target="_blank">visualizing stats with Charts.js</a><br>
 <a href="../apscore/" target="_blank">ap calculus scores with google charts</a><br>
