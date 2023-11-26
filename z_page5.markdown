@@ -4,7 +4,9 @@ layout: page
 permalink: /wolfram/
 ---
 
-<strong>Wolfram Mathematica Labs for AP Calculus</strong> [Originally created with <a href="https://www.wolfram.com/mathematica/" target="_blank">Mathematica 8.0</a>]<br>
+<strong>Wolfram Mathematica Labs for AP Calculus</strong>
+[Originally created with <a href="https://www.wolfram.com/mathematica/" target="_blank">Mathematica 8.0</a>]<br>
+*AP Calculus BC only 
 
 01:  Investigating Limits 
 <a href="../docs/labs/calculus/01_Limits.pdf" target="_blank">[  .pdf  ]</a>
@@ -97,13 +99,12 @@ permalink: /wolfram/
 <a href="../docs/labs/calculus/23_Lagrange_Multiplier.pdf" target="_blank">[  .pdf  ]</a>
 <a href="../docs/labs/calculus/23_Lagrange_Multiplier.nb" target="_blank">[  .nb  ]</a>
 
+00: <a href="../docs/labs/calculus/Taylor-Series-Shubleka.nb.zip" target="_blank"> Taylor Series with Mathematica </a> (.zip) <br>
 
-<center>*AP Calculus BC only </center>
-  
-<center> <a href="../docs/labs/calculus/Taylor-Series-Shubleka.nb.zip" target="_blank"> Taylor Series with Mathematica </a> (.zip) <br>
-<p class="style1"><u>Interactive Demonstrations: Calculus Concepts </u></p>
-<p class="style2"><u><a href="https://www.wolfram.com/cdf-player/" target="_blank">Download Mathematica Player (Free)</a></u> </p>
-</center>
+
+<strong> Interactive Demonstrations: Calculus Concepts </strong><br>
+( <a href="https://www.wolfram.com/cdf-player/" target="_blank">Download Mathematica Player (Free)</a> )
+
 <table width="100%"  border="0">
         <tr valign="top">
           <td><a href="https://demonstrations.wolfram.com/TheTangentLineProblem/" target="_blank"><img src="https://demonstrations.wolfram.com/TheTangentLineProblem/thumbnail_174.jpg" border="0" alt="&quot;The Tangent Line Problem&quot; from the Wolfram Demonstrations Project" title="&quot;The Tangent Line Problem&quot; from the Wolfram Demonstrations Project" /></a><strong><br>
