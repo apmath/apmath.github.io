@@ -32,7 +32,7 @@ permalink: /courses/
 <a href="https://library.wolfram.com/webMathematica/Education/WalkD.jsp" target="_blank">wolfram derivative calculator</a> <br />
 <a href="https://www.wolframalpha.com/" target="_blank"> wolframalpha.com</a><br><br>
 
-<strong>Tutorials on  Selected Topics</strong><br />
+<strong>tutorials on  selected topics</strong><br />
       <a href="../../docs/apcalculus/tutorials/tutorial01.pdf" target="_blank">01: Limits and Continuity </a><br />
       <a href="../../docs/apcalculus/tutorials/tutorial02.pdf" target="_blank">02: Numerical Estimation of Slope</a> <br />
       <a href="../../docs/apcalculus/tutorials/tutorial03.pdf" target="_blank">03: Differentiability </a> <br />
@@ -47,7 +47,7 @@ permalink: /courses/
       <a href="../../docs/apcalculus/tutorials/tutorial12.pdf" target="_blank">12: Notes on the FTC</a> <br />
       <a href="../../docs/apcalculus/tutorials/tutorial13.pdf" target="_blank">13: Known X-Sections</a> <br /><br>
   
-<strong>References</strong><br />
+<strong>references</strong><br />
       <a href="../../docs/apcalculus/references/reference0.pdf" target="_blank">00: Review of Algebra </a><br />
       <a href="../../docs/apcalculus/references/reference1.pdf" target="_blank">01: Summary: The Laws of Limits</a><br />
       <a href="../../docs/apcalculus/references/reference2.pdf" target="_blank">02: Cheat Sheet: Differentiation</a><br />
@@ -68,7 +68,7 @@ permalink: /courses/
       <a href="../../docs/apcalculus/references/reference17.pdf" target="_blank">17: TI-84 Tutorial </a><br />
 </td>
 <td width="50%" valign="top">
-<strong>Worksheets/Activities</strong> <br />
+<strong>worksheets/activities</strong> <br />
       <a href="../../docs/apcalculus/worksheets/worksheet01.pdf" target="_blank">01: Self-Diagnostic Test </a><br /> 
       <a href="../../docs/apcalculus/worksheets/worksheet02.pdf" target="_blank">02: Pre-requisites Test </a><br />
       <a href="../../docs/apcalculus/worksheets/worksheet03.pdf" target="_blank">03: Extrema, MVT I  </a><br />
@@ -107,7 +107,7 @@ permalink: /courses/
       <a href="../../docs/apcalculus/worksheets/worksheet36.pdf" target="_blank"> 36: Polar / Parametric</a><br />
       <a href="../../docs/apcalculus/worksheets/worksheet37.pdf" target="_blank"> 37: More Related Rates</a><br /><br>
 
-<strong>Comprehensive Review Material</strong> <br /> 
+<strong>comprehensive review material</strong> <br /> 
       <a href="../docs/apcalculus/apexams/review/course_review_worksheets.pdf" target="_blank">01: Course Review Worksheets</a> <br />
       <a href="../docs/apcalculus/apexams/review/apcalc_chapter_review.pdf" target="_blank">02: Miscellaneous Chapter Review</a> <br />
       <a href="../docs/apcalculus/apexams/review/bc_ap_style_worksheets.pdf" target="_blank">03: AP Style: BC Review</a> <br />
@@ -128,7 +128,7 @@ permalink: /courses/
 <a href="https://apstudents.collegeboard.org/courses/ap-computer-science-a" target="_blank">about ap computer science a</a><br>
 <a href="https://apstudents.collegeboard.org/courses/ap-computer-science-a/assessment" target="_blank">about the ap exam</a><br>
 <a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">calculator policy</a><br>
-<a href="https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-course-and-exam-description.pdf" target="_blank">course description (CED)</a><br>
+<a href="https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-course-and-exam-description.pdf" target="_blank">course description (ced)</a><br>
 <a href="https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam/past-exam-questions" target="_blank">past ap questions</a><br>
 <a href="https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-course-at-a-glance.pdf" target="_blank">ap computer science a at a glance</a> <br>
 <a href="https://blog.collegeboard.org/difference-between-ap-computer-science-principles-and-ap-computer-science" target="_blank">differences: cs p vs cs a</a><br>
@@ -159,7 +159,7 @@ permalink: /courses/
 <a href="https://apstudents.collegeboard.org/courses/ap-statistics" target="_blank">about ap statistics</a>
 <a href="https://apstudents.collegeboard.org/courses/ap-statistics/assessment" target="_blank">about the ap exam</a> <br> 
 <a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">calculator policy</a><br>
-<a href="https://apcentral.collegeboard.org/media/pdf/ap-statistics-course-and-exam-description.pdf" target="_blank">course description (CED)</a> <br>
+<a href="https://apcentral.collegeboard.org/media/pdf/ap-statistics-course-and-exam-description.pdf" target="_blank">course description (ced)</a> <br>
 <a href="https://apcentral.collegeboard.org/courses/ap-statistics/exam/past-exam-questions" target="_blank">past ap questions</a><br>
 <a href="https://apclassroom.collegeboard.org/33/home" target="_blank">ap classroom</a> <br>
 <a href="https://skewthescript.org/ap-stats-curriculum" target="_blank">skewthescript.org</a> <br>
@@ -176,17 +176,17 @@ permalink: /courses/
 ---
 
 # multivariable calculus (2009 - present)
-<a href="https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/" target="_blank">mit - ocw</a><br>
-<a href="https://www.khanacademy.org/math/multivariable-calculus" target="_blank">khan academy</a> <br>
-<a href="https://www.whitman.edu/mathematics/multivariable/multivariable.pdf" target="_blank"> textbook</a> <br>
-<a href="https://open.umn.edu/opentextbooks/textbooks/780" target="_blank">open textbook</a> <br>
+<a href="https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/" target="_blank">mit - opencourseware</a><br>
+<a href="https://www.khanacademy.org/math/multivariable-calculus" target="_blank">khan academy - mvc lessons</a> <br>
+<a href="https://www.whitman.edu/mathematics/multivariable/multivariable.pdf" target="_blank"> textbook - whitman.edu</a> <br>
+<a href="https://open.umn.edu/opentextbooks/textbooks/780" target="_blank">open textbook - umn.edu</a> <br>
 
 ---
 
 # linear algebra (2016 - 2019 )
-<a href="https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/" target="_blank"> mit - ocw</a><br>
-<a href="https://www.khanacademy.org/math/linear-algebra" target="_blank">khan academy</a> <br>
-<a href="https://opentext.uleth.ca/linalg.html" target="_blank"> textbooks</a> <br>
-<a href="https://open.umn.edu/opentextbooks/textbooks/5" target="_blank">open textbook</a> <br>
+<a href="https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/" target="_blank"> mit - opencourseware</a><br>
+<a href="https://www.khanacademy.org/math/linear-algebra" target="_blank">khan academy - linalg lessons</a> <br>
+<a href="https://opentext.uleth.ca/linalg.html" target="_blank"> textbooks - uleth.ca</a> <br>
+<a href="https://open.umn.edu/opentextbooks/textbooks/5" target="_blank">open textbook - umn.edu</a> <br>
 
 
