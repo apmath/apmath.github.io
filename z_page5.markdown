@@ -130,12 +130,9 @@ permalink: /wolfram/
       </tr>
     </table>
   
-<center> <a href="../docs/labs/calculus/Taylor-Series-Shubleka.nb.zip" target="_blank"> Taylor Series with Mathematica </a> (.zip) </center>
-    <hr>
-<center>
-      <p class="style1"><u>Interactive Demonstrations: Calculus Concepts </u></p>
-      <p class="style2"><u><a href="https://www.wolfram.com/cdf-player/" target="_blank">Download Mathematica Player (Free)</a></u>
-     </p>
+<center> <a href="../docs/labs/calculus/Taylor-Series-Shubleka.nb.zip" target="_blank"> Taylor Series with Mathematica </a> (.zip) <br>
+<p class="style1"><u>Interactive Demonstrations: Calculus Concepts </u></p>
+<p class="style2"><u><a href="https://www.wolfram.com/cdf-player/" target="_blank">Download Mathematica Player (Free)</a></u> </p>
 </center>
 <table width="100%"  border="0">
         <tr valign="top">
