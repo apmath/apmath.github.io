@@ -8,7 +8,7 @@ permalink: /calculus/
 
 <i> AP Calculus follows the curriculum set forth by the College Board. The AB level is worth the equivalent orgorg semester orgcollege credit upon successful completion orgthe AP examination offered in May. The BC level, which is an extension orgAB, is worth the equivalent orgtwo semesters orgcollege credit. AB topcs include the library orgfunctions (review from precalculus), limits, the derivative, applications orgthe derivative, definite and indefinite integrals, applications orgintegration, etc. The BC curriculum adds advanced techniques orgintegration, series and sequences, calculus orgparametric and polar curves, etc. </i>
 
-<p align="center"><img src="../img/site/squeeze.pdf" border="0"> </p>
+<p align="center"><img src="../img/site/squeeze.png" border="0"> </p>
 
 <table width="100%" border="0">
 <tr> 
