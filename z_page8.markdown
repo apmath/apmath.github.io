@@ -6,10 +6,15 @@ permalink: /links/
 
 # other courses and links
 
+<table width="100%" border="0">
+<tr>
+<td colspan="2">
 <strong> ap computer science a (2009 - present) </strong> <br><br>
 <!-- <i> AP Computer Science A is both a college-prep course for potential computer science majors and a foundation course for students planning to study in other fields such as mathematics, engineering, physics, chemistry, and geology. The course emphasizes methodology, procedural abstraction, and in-depth study of algorithms, data structures, and data abstractions. Instruction includes preparation for the AP Computer Science A exam in May. In this course, students apply the programming tools they have learned to real-life examples on their own. Computer science is more than just programming; students who successfully complete the course will have an understanding of Java and the ability to adapt to any new programming language. </i>
 -->
-<table width="100%" border="0">
+</td>
+</tr>
+
 <tr>
 <td width="50%" valign="top">
 <b>links</b><br />
@@ -42,11 +47,12 @@ permalink: /links/
 <a href="https://notepad-plus-plus.org/downloads/" target="_blank">notepad++</a><br>
 </td>
 </tr>
-</table>
-      
+<tr>
+<td colspan="2">  
 <strong> ap statistics (2007 - 2009)</strong> <br><br>
+</td>
+</tr>
 
-<table width="100%" border="0">
 <tr>
 <td width="50%" valign="top">
 <b>links</b><br />
@@ -69,9 +75,7 @@ permalink: /links/
 <a href="https://www.mathlore.net/files/TInspireCX_Skills_for_APstats.pdf" target="_blank"> ti-nspire </a> <br>
 </td>
 </tr>
-</table>
 
-<table width="100%" border="0">
 <tr>
 <td width="50%" valign="top">
 <strong> multivariable calculus (2009 - present) </strong><br>
@@ -88,10 +92,7 @@ permalink: /links/
 <a href="https://open.umn.edu/opentextbooks/textbooks/5" target="_blank">open textbook - umn.edu</a> <br>
 </td>
 </tr>
-</table>
 
-
-<table width="100%" border="0">
 <tr>
 <td width="50%" valign="top">
 <strong> ap-info (general) </strong> <br>
