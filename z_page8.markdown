@@ -6,7 +6,7 @@ permalink: /links/
 
 # other courses and links
 
-<strong> ap computer science a (2009 - present) </strong> <br>
+<strong> ap computer science a (2009 - present) </strong> <br><br>
 <!-- <i> AP Computer Science A is both a college-prep course for potential computer science majors and a foundation course for students planning to study in other fields such as mathematics, engineering, physics, chemistry, and geology. The course emphasizes methodology, procedural abstraction, and in-depth study of algorithms, data structures, and data abstractions. Instruction includes preparation for the AP Computer Science A exam in May. In this course, students apply the programming tools they have learned to real-life examples on their own. Computer science is more than just programming; students who successfully complete the course will have an understanding of Java and the ability to adapt to any new programming language. </i>
 -->
 <b>links</b><br />
