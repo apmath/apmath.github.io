@@ -6,7 +6,7 @@ permalink: /about/
  <script type="text/javascript"
     src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
   </script>
-I am an educator and technology enthusiast from the New England region in the United States. The materials on this site are intended for teachers and students of AP Calculus. I initially put the site together when I first started teaching a couple of decades ago for the purpose of sharing course-related content with my own students and colleagues at other schools. Here you will find typed tutorials, references, worksheets, actual AP and mock exam questions, summer review packets, links to external resources, etc. I hope you find these materials useful in your teaching or learning. For questions or comments email me at apcalc@pm.me or use the form below.
+I am an educator and technology enthusiast from the New England region in the United States. The materials on this site are intended for teachers and students of AP Calculus. I initially put the site together when I first started teaching a couple of decades ago. Here you will find typed tutorials, references, worksheets, actual AP and mock exam questions, summer review packets, links to external resources, etc. I hope you find these materials useful in your teaching or learning. For questions or comments email me at apcalc@pm.me or use the form below.
 
 $$ \int_a^b f(x) dx = F(b)-F(a) $$
 
