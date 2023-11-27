@@ -40,8 +40,8 @@ Google Certified Educator<br>
 College Board Workshops (various)<br>
 Wolfram Mathematica Training, etc.<br><br>
 
-<strong>extracurricular activities</strong> <br>
-soccer, running, hiking<br>
+<strong>extracurricular</strong> <br>
+activity: soccer, running, hiking<br>
 other interests: world languages, computing, tutoring. <br> <br>
 
 <br> <br>
