@@ -33,12 +33,7 @@ Beginner: Greek, Turkish<br><br>
 <strong>training/certifications</strong><br>
 Google Certified Educator<br>
 College Board Workshops (various)<br>
-Wolfram Mathematica Training, etc.<br><br>
-
-<strong>extracurricular</strong> <br>
-activity: soccer, running, hiking<br>
-other interests: world languages, computing, tutoring. <br> <br>
-
+Wolfram Training, etc.<br><br>
 
 
 
