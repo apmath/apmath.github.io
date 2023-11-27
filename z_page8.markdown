@@ -9,7 +9,7 @@ permalink: /links/
 <table width="100%" border="0">
 <tr>
 <td colspan="2">
-<strong> ap computer science a (2009 - present) </strong> <br><br>
+<strong> ap computer science a </strong> <br><br>
 <!-- <i> AP Computer Science A is both a college-prep course for potential computer science majors and a foundation course for students planning to study in other fields such as mathematics, engineering, physics, chemistry, and geology. The course emphasizes methodology, procedural abstraction, and in-depth study of algorithms, data structures, and data abstractions. Instruction includes preparation for the AP Computer Science A exam in May. In this course, students apply the programming tools they have learned to real-life examples on their own. Computer science is more than just programming; students who successfully complete the course will have an understanding of Java and the ability to adapt to any new programming language. </i>
 -->
 </td>
@@ -49,7 +49,7 @@ permalink: /links/
 </tr>
 <tr>
 <td colspan="2">  
-<strong> ap statistics (2007 - 2009)</strong> <br><br>
+<strong> ap statistics </strong> <br><br>
 </td>
 </tr>
 
@@ -78,14 +78,14 @@ permalink: /links/
 
 <tr>
 <td width="50%" valign="top">
-<strong> multivariable calculus (2009 - present) </strong><br>
+<strong> multivariable calculus </strong><br>
 <a href="https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/" target="_blank">mit - opencourseware</a><br>
 <a href="https://www.khanacademy.org/math/multivariable-calculus" target="_blank">khan academy - mvc lessons</a> <br>
 <a href="https://www.whitman.edu/mathematics/multivariable/multivariable.pdf" target="_blank"> textbook - whitman.edu</a> <br>
 <a href="https://open.umn.edu/opentextbooks/textbooks/780" target="_blank">open textbook - umn.edu</a> <br>
 </td>
 <td width="50%" valign="top">
-<strong> linear algebra (2016 - 2019 ) </strong> <br>
+<strong> linear algebra </strong> <br>
 <a href="https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/" target="_blank"> mit - opencourseware</a><br>
 <a href="https://www.khanacademy.org/math/linear-algebra" target="_blank">khan academy - linalg lessons</a> <br>
 <a href="https://opentext.uleth.ca/linalg.html" target="_blank"> textbooks - uleth.ca</a> <br>
