@@ -18,13 +18,13 @@ BA in Mathematics with Minors in Economics and Italian Studies<br>
 Graduate Certificate in Open Source Programming<br><br>
 
 <strong>teaching experience</strong><br>
-AP Calculus AB (2005 - present)
-AP Calculus BC (2005 - present)
-AP Computer Science A (2009 - present)
-AP Statistics (2007 - 2009)
-Multivariable Calculus (2009 - present)
-Linear Algebra (2016 - 2019)
-Ind. Study in Adv. Mathematics (various)
+AP Calculus AB (2005 - present) <br>
+AP Calculus BC (2005 - present) <br>
+AP Computer Science A (2009 - present) <br>
+AP Statistics (2007 - 2009) <br>
+Multivariable Calculus (2009 - present) <br>
+Linear Algebra (2016 - 2019) <br>
+Ind. Study in Adv. Mathematics (various) <br> <br>
 
 <strong>programming languages</strong><br>
 Experienced: Java, Julia, Wolfram. <br>
@@ -34,6 +34,15 @@ Familiar: Javascript, Python, Kotlin etc.<br><br>
 Native: Albanian, English<br>
 Fluent: Italian, Spanish, French <br>
 Beginner: Greek, Turkish<br><br>
+
+<strong>training/certifications</strong>
+Google Certified Educator<br>
+College Board Workshops (various)<br>
+Wolfram Mathematica Training, etc.<br><br>
+
+<strong>extracurricular activities</strong>
+soccer, running, hiking<br>
+other interests: world languages, computing, tutoring. <br> <br>
 
 <br> <br>
 <p align="center"> contact form </p>
