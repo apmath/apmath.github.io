@@ -118,9 +118,6 @@ layout: home
 </tr>
 </table>
 
----
-
-
 # free response questions
 
 <table width="100%" border="0">
@@ -293,9 +290,6 @@ layout: home
 </tr>
 </table>
 
----
-
-
 # multiple choice questions
 
 <table width="100%" border="0">
@@ -381,9 +375,6 @@ layout: home
 </td>
 </tr>
 </table>
-
----
-
 
 # summer work before ap calculus
 
