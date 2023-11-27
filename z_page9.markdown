@@ -8,6 +8,33 @@ I am an educator and technology enthusiast from the New England region in the Un
 
 <p align="center"><img src="../img/site/running.jpeg" border="3"> </p>
 
+
+<strong>about me</strong><br>
+Instructor of upper level mathematics and computer science.<br>
+Interests: mathematics, computer science, technology, and education.<br><br>
+
+<strong>education</strong><br>
+BA in Mathematics with Minors in Economics and Italian Studies<br>
+Graduate Certificate in Open Source Programming<br><br>
+
+<strong>teaching experience</strong><br>
+AP Calculus AB (2005 - present)
+AP Calculus BC (2005 - present)
+AP Computer Science A (2009 - present)
+AP Statistics (2007 - 2009)
+Multivariable Calculus (2009 - present)
+Linear Algebra (2016 - 2019)
+Ind. Study in Adv. Mathematics (various)
+
+<strong>programming languages</strong><br>
+Experienced: Java, Julia, Wolfram. <br>
+Familiar: Javascript, Python, Kotlin etc.<br><br>
+
+<strong>languages</strong>
+Native: Albanian, English<br>
+Fluent: Italian, Spanish, French <br>
+Beginner: Greek, Turkish<br><br>
+
 <br> <br>
 <p align="center"> contact form </p>
 
