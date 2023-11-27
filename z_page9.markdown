@@ -4,9 +4,10 @@ layout: page
 permalink: /about/
 ---
 
-I am an educator and technology enthusiast from the New England region in the United States. This site contains resources for students and teachers of Advanced Placement Calculus AB and BC. Here you will find selected tutorials, references, worksheets, past and mock  exam questions, summer review packets, and links to external resources. I hope you find these materials useful in your teaching or learning. For questions or comments email me at apcalc@pm.me or use the form below.
+I am an educator and technology enthusiast from the New England region in the United States. The materials on this site are intended for teachers and students of AP Calculus. I initially put the site together when I first started teaching a couple of decades ago for the purpose of sharing course-related content with my own students and colleagues at other schools. Here you will find typed tutorials, references, worksheets, actual AP and mock exam questions, summer review packets, links to external resources, etc. I hope you find these materials useful in your teaching or learning. For questions or comments email me at apcalc@pm.me or use the form below.
 
-<p align="center"> last updated on Nov 26, 2023</p>
+
+<p align="center"> <i> last updated on Nov 26, 2023.</i></p>
 
 <p align="center"><img src="../img/site/running.jpeg" border="3"> </p>
 
