@@ -39,7 +39,7 @@ permalink: /links/
 
 ---
       
-</strong> ap statistics (2007 - 2009)</strong> <br>
+<strong> ap statistics (2007 - 2009)</strong> <br>
 <b>links</b><br />
 <a href="https://apstudents.collegeboard.org/courses/ap-statistics" target="_blank">about ap statistics</a>
 <a href="https://apstudents.collegeboard.org/courses/ap-statistics/assessment" target="_blank">about the ap exam</a> <br> 
