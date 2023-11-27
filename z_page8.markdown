@@ -44,7 +44,7 @@ permalink: /links/
 </tr>
 </table>
       
-<strong> ap statistics (2007 - 2009)</strong> <br>
+<strong> ap statistics (2007 - 2009)</strong> <br><br>
 
 <table width="100%" border="0">
 <tr>
