@@ -30,7 +30,7 @@ Ind. Study in Adv. Mathematics (various) <br> <br>
 Experienced: Java, Julia, Wolfram. <br>
 Familiar: Javascript, Python, Kotlin etc.<br><br>
 
-<strong>languages</strong>
+<strong>languages</strong><br>
 Native: Albanian, English<br>
 Fluent: Italian, Spanish, French <br>
 Beginner: Greek, Turkish<br><br>
