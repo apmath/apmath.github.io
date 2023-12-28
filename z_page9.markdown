@@ -6,7 +6,7 @@ permalink: /about/
 
 I am an educator and technology enthusiast from the New England region in the United States. The materials on this site are mostly intended for teachers and students of AP Calculus. Here you will find typed tutorials, references, worksheets, actual AP and mock exam questions, summer review packets, links to external resources, etc. I hope you find these materials useful in your teaching or learning. For questions or comments email me at apcalc@pm.me or use the form below.
 
-<p align="center"><img src="../img/site/running.jpeg" border="1"> </p>
+<p align="center"><img src="../img/site/profile__.jpeg" border="1"> </p>
 
 <br> <br>
 <p align="center"> contact form </p>
