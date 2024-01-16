@@ -9,8 +9,8 @@ Instructor of upper level mathematics and computer science.<br>
 Interests: mathematics, computer science, technology, and education.<br><br>
 
 <strong>education</strong><br>
-BA in Mathematics with Minors in Economics and Italian Studies<br>
-Graduate Certificate in Open Source Programming<br><br>
+BA - Mathematics, Economics, Italian Studies<br>
+Graduate Certificate - Open Source Programming<br><br>
 
 <strong>teaching experience</strong><br>
 AP Calculus AB (2005 - present) <br>
