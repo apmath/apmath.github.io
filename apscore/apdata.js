@@ -178,7 +178,27 @@ const abdata= [
       "five": 3,
       "total": 3,
       "avg": 5.0
-    }];
+    },
+{
+      "year": 2024,
+      "one": 0,
+      "two": 0,
+      "three": 0,
+      "four": 1,
+      "five": 2,
+      "total": 3,
+      "avg": 4.667
+    },
+  {
+      "year": 2025,
+      "one": 0,
+      "two": 0,
+      "three": 0,
+      "four": 4,
+      "five": 5,
+      "total": 9,
+      "avg": 4.556
+    }  ];
 
 
 const bcdata = [
@@ -360,7 +380,27 @@ const bcdata = [
     "five": 3,
     "total": 4,
     "avg": 4.75
-}];
+},
+{
+      "year": 2024,
+      "one": 0,
+      "two": 0,
+      "three": 0,
+      "four": 1,
+      "five": 3,
+      "total": 4,
+      "avg": 4.75
+    },
+  {
+      "year": 2025,
+      "one": 0,
+      "two": 0,
+      "three": 2,
+      "four": 1,
+      "five": 4,
+      "total": 7,
+      "avg": 4.286
+    } ];
 
 //create arrays
 const mydata_ab = [['year','1 - one','2 - two','3 - three','4 - four','5 - five']]
