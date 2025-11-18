@@ -18,7 +18,7 @@ AP Calculus BC (2005 - present) <br>
 AP Computer Science A (2009 - present) <br>
 AP Statistics (2007 - 2009) <br>
 Multivariable Calculus (2009 - present) <br>
-Linear Algebra (2016 - 2019) <br>
+Linear Algebra (2016 - 2019, 2025) <br>
 Ind. Study in Adv. Mathematics (various) <br> <br>
 
 <strong>programming languages</strong><br>
