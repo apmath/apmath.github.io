@@ -22,7 +22,7 @@ Description: paste a column of raw student scores and use two different methods 
 <p align="center"><img src="../img/site/curving.png" border="0"> </p>
 
 # random 
-<a href="../grades/" target="_blank">All School Grades - A Visual Data Summary</a><br>
+<a href="../grades/" target="_blank"> grades - a visual data summary</a><br>
 <a href="https://apteacher.github.io" target="_blank">current teaching sections </a> <br>
 <a href="../uscis/" target="_blank"> uscis citizenship questions </a> <br>
 <a href="../running/" target="_blank">visualizing stats with Charts.js</a><br>
