@@ -38,6 +38,7 @@ permalink: /links/
 </td>
 <td width="50%" valign="top">
 <b>tools</b><br />
+<a href="https://www.geany.org/" target="_blank"> geany </a> <br>
 <a href="https://www.sublimetext.com/" target="_blank">sublime</a><br>
 <a href="https://www.jgrasp.org/" target="_blank">jgrasp</a><br>
 <a href="https://www.bluej.org/" target="_blank">bluej </a><br>
