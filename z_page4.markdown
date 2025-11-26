@@ -3,8 +3,9 @@ title: wolfram
 layout: page
 permalink: /wolfram/
 ---
+<details>
 
-<strong>Wolfram Mathematica Labs for Single and Multivariable Calculus</strong> <br>
+<summary> <strong>Wolfram Mathematica Labs for Single and Multivariable Calculus</strong></summary> <br>
 [Originally created with <a href="https://www.wolfram.com/mathematica/" target="_blank">Mathematica 8.0</a>]  * denotes AP Calculus BC only <br>
 <p align="center"><img src="../img/site/koch.png" border="0"> </p>
 
@@ -78,9 +79,10 @@ permalink: /wolfram/
 <a href="../docs/labs/calculus/23_Lagrange_Multiplier.nb" target="_blank">[  .nb  ]</a><br>
 00: Taylor Series with Mathematica 
 <a href="../docs/labs/calculus/Taylor-Series-Shubleka.nb.zip" target="_blank"> [ .zip ] </a> <br><br>
+</details>
 
-
-<strong> Interactive Demonstrations: Calculus Concepts </strong><br>
+<details>
+<summary> <strong> Interactive Demonstrations: Calculus Concepts </strong></summary> <br>
 [ <a href="https://www.wolfram.com/cdf-player/" target="_blank">Download Mathematica Player (free)</a> ]
 
 <table width="100%"  border="0">
@@ -136,3 +138,4 @@ permalink: /wolfram/
         </tr>
   
 </table>
+</details>
