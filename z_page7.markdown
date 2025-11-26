@@ -6,7 +6,7 @@ permalink: /links/
 
 # other courses and links
 
-<table width="100%" border="0">
+<table border="0">
 <tr>
 <td colspan="2">
 <strong> ap computer science a </strong> <br><br>
