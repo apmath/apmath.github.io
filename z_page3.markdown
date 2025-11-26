@@ -10,7 +10,10 @@ To install the SageMath software, visit the <a href="https://doc.sagemath.org/ht
 
 <p align="center"><img src="../img/site/mvc.png" border="0"> </p>
 
+<center> <iframe src="../sage/index.html" width="100%" border="0"> </iframe> </center>
+
 # basic functions 
+
 
 ```python
 
