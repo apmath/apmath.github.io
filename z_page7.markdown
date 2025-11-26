@@ -6,17 +6,8 @@ permalink: /links/
 
 # other courses and links
 
-<table border="0">
-<tr>
-<td colspan="2">
 <strong> ap computer science a </strong> <br><br>
-<!-- <i> AP Computer Science A is both a college-prep course for potential computer science majors and a foundation course for students planning to study in other fields such as mathematics, engineering, physics, chemistry, and geology. The course emphasizes methodology, procedural abstraction, and in-depth study of algorithms, data structures, and data abstractions. Instruction includes preparation for the AP Computer Science A exam in May. In this course, students apply the programming tools they have learned to real-life examples on their own. Computer science is more than just programming; students who successfully complete the course will have an understanding of Java and the ability to adapt to any new programming language. </i>
--->
-</td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
 <details> 
 <summary> <b>links</b></summary> <br />
 <a href="https://apstudents.collegeboard.org/courses/ap-computer-science-a" target="_blank">about ap computer science a</a><br>
@@ -38,8 +29,6 @@ permalink: /links/
 <a href="https://runestone.academy/ns/books/published/csawesome/Unit1-Getting-Started/topic-1-2-java-intro.html?mode=browsing" target="_blank"> csawesome</a> <br> <br>
 </details>
 
-</td>
-<td width="50%" valign="top">
 <details> 
 <summary> <b>tools</b></summary> <br />
 <a href="https://www.geany.org/" target="_blank"> geany </a> <br>
@@ -51,16 +40,9 @@ permalink: /links/
 <a href="https://processing.org/" target="_blank">processing</a> <br>
 <a href="https://notepad-plus-plus.org/downloads/" target="_blank">notepad++</a><br>
 </details>
-</td>
-</tr>
-<tr>
-<td colspan="2">  
-<strong> ap statistics </strong> <br><br>
-</td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
+<strong> ap statistics </strong> <br><br>
+
 <details> 
 <summary> <b>links</b></summary> <br />
 <a href="https://apstudents.collegeboard.org/courses/ap-statistics" target="_blank">about ap statistics</a>
@@ -72,8 +54,7 @@ permalink: /links/
 <a href="https://skewthescript.org/ap-stats-curriculum" target="_blank">skewthescript.org</a> <br>
 <a href="https://data.gov/" target="_blank">data.gov</a> <br><br>
 </details>
-</td>
-<td width="50%" valign="top">
+
 <details>
 <summary> <b>tools</b></summary> <br />
 <a href="https://jasp-stats.org/" target="_blank">jasp</a> <br>
@@ -83,11 +64,8 @@ permalink: /links/
 <a href="https://education.ti.com/en/software/details/en/31FC737C43CF43B0ADA1CF67420C3AA8/89statisticswithlisteditor" target="_blank">ti-89</a> <br>
 <a href="https://www.mathlore.net/files/TInspireCX_Skills_for_APstats.pdf" target="_blank"> ti-nspire </a> <br>
 </details>
-</td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
+
 <details> 
 <summary> <strong> multivariable calculus </strong></summary> <br>
 <a href="https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/" target="_blank">mit - opencourseware</a><br>
@@ -96,8 +74,7 @@ permalink: /links/
 <a href="https://open.umn.edu/opentextbooks/textbooks/780" target="_blank">open textbook - umn.edu</a> <br>
 </details>
 
-</td>
-<td width="50%" valign="top">
+
 <details> 
 <summary> <strong> linear algebra </strong> </summary> <br>
 <a href="https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/" target="_blank"> mit - opencourseware</a><br>
@@ -105,11 +82,7 @@ permalink: /links/
 <a href="https://opentext.uleth.ca/linalg.html" target="_blank"> textbooks - uleth.ca</a> <br>
 <a href="https://open.umn.edu/opentextbooks/textbooks/5" target="_blank">open textbook - umn.edu</a> <br>
 </details>
-</td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
 <details> 
 <summary> <strong> ap-info (general) </strong> </summary> <br>
 <a href="https://apstudents.collegeboard.org/course-index-page" target="_blank">ap courses and exams </a> <br>
@@ -123,7 +96,7 @@ permalink: /links/
 <a href="https://apcentral.collegeboard.org/instructional-resources/ap-classroom" target="_blank">ap classroom and ap daily</a> <br>
 <a href="https://apcommunity.collegeboard.org/" target="_blank">ap teacher community</a> <br> 
 </details>
-<br>
+
 <details>
 <summary><strong> online teaching and learning</strong></summary> <br>
 <a href="https://zoom.us/download" target="_blank">zoom</a><br>
@@ -133,8 +106,8 @@ permalink: /links/
 <a href="https://support.smarttech.com/software/smart-notebook" target="_blank"> smart</a><br>
 <a href="https://meet.jit.si/" target="_blank">jitsi</a><br>
 </details>
-</td>
-<td width="50%" valign="top">
+
+
 <details>
 <summary> <strong> software & books</strong> </summary> <br>
 <a href="https://www.sagemath.org/" target="_blank">sagemath software</a> <br>
@@ -163,6 +136,4 @@ permalink: /links/
 <a href="https://openstax.org/" target="_blank"> open stax</a> <br>
 <a href="https://activecalculus.org/" target="_blank"> activecalculus</a> <br>
 </details>
-</td>
-</tr>
-</table>
+
