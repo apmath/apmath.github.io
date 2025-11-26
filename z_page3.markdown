@@ -131,6 +131,13 @@ integral(1/(x^2+1), x, -1, 1)
 
 ```
 
+<br> <br>
+<details>
+<summary><h1> Desmos Calculator </h1></summary>
+<center> 
+<iframe src="https://www.desmos.com/calculator" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="500px" width="100%" allowfullscreen></iframe> 
+</center>
+</details>
 
 <br> <br>
 
