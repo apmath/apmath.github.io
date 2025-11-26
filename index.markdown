@@ -3,7 +3,8 @@ title: about
 layout: home
 ---
 
-I am an educator and technology enthusiast from the New England region in the United States. I currently teach upper level mathematics and computer science at Cushing Academy, an independent school in north-central Massachusetts. The materials on this site are intended for teachers and students of AP Calculus. Here you will find tutorials, references, worksheets, actual AP and mock exam questions, summer review packets, links to external resources, etc. These classroom materials have been compiled or edited or created over the last two decades. I hope you find the site useful in your teaching or learning. For questions or comments feel free to use the contact form below.
+I am an educator and technology enthusiast from the New England region in the United States. I currently teach upper level mathematics and computer science at Cushing Academy, an independent school in north-central Massachusetts. The materials on this site are intended for teachers and students of AP Calculus. Here you will find tutorials, references, worksheets, actual AP and mock exam questions, summer review packets, links to external resources, etc. The content has been compiled, edited or created over the last two decades. I hope you find the site useful in your teaching or learning. For questions or comments feel free to use the contact form below.
+
 
 <p align="center"><img src="../img/site/profile_pic.png" border="1"> </p>
 

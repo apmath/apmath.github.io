@@ -19,9 +19,7 @@ Description: paste a column of raw student scores and use two different methods 
 <a href="../gcc/index.html" target="_blank"> Javascript version </a> <br>
 <a href="../gcc1/index.html" target="_blank"> Geogebra version </a><br>
 
-<p align="center"><img src="../img/site/curving.png" border="0"> </p>
-
-# random 
+# random things
 <!-- <a href="../grades/" target="_blank"> grades - a visual data summary</a><br> -->
 <a href="https://ca-math.github.io" target="_blank">current teaching sections </a> <br>
 <a href="../uscis/" target="_blank"> uscis citizenship questions </a> <br>
