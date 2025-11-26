@@ -103,6 +103,7 @@ If you must be absent and you know ahead of time, then let me know and I will tr
 <details>
 <summary><b>smart devices</b></summary>
 All smart phones/watches should be stored in the school bag and on mute/vibrate. I will announce ahead of time when we plan to use smart devices for learning purposes.
+</details>
 <details>
 <summary><b>spoken language</b></summary>
 We are expected to speak English in the classroom space.
