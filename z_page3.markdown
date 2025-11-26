@@ -12,7 +12,7 @@ To install the SageMath software, visit the <a href="https://doc.sagemath.org/ht
 
 <center> <iframe src="../sage/index.html" width="100%" height="1000" style="border:0;"> </iframe> </center>
 
-
+<!-- 
 <br> <br>
 <details>
 <summary><h1> Desmos Calculator </h1></summary>
@@ -20,6 +20,7 @@ To install the SageMath software, visit the <a href="https://doc.sagemath.org/ht
 <iframe src="https://www.desmos.com/calculator" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="500px" width="100%" allowfullscreen></iframe> 
 </center>
 </details>
+-->
 
 <br> <br>
 
