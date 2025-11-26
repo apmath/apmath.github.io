@@ -7,7 +7,6 @@ permalink: /links/
 # other courses and links
 
 <strong> ap computer science a </strong> 
-
 <details> 
 <summary> <b>links</b></summary> <br />
 <a href="https://apstudents.collegeboard.org/courses/ap-computer-science-a" target="_blank">about ap computer science a</a><br>
@@ -28,7 +27,6 @@ permalink: /links/
 <a href="http://codingbat.com/java" target="_blank">codingbat resources</a> <br>
 <a href="https://runestone.academy/ns/books/published/csawesome/Unit1-Getting-Started/topic-1-2-java-intro.html?mode=browsing" target="_blank"> csawesome</a> <br> <br>
 </details>
-
 <details> 
 <summary> <b>tools</b></summary> <br />
 <a href="https://www.geany.org/" target="_blank"> geany </a> <br>
@@ -40,11 +38,8 @@ permalink: /links/
 <a href="https://processing.org/" target="_blank">processing</a> <br>
 <a href="https://notepad-plus-plus.org/downloads/" target="_blank">notepad++</a><br>
 </details>
-
-<br><br>
-
-<strong> ap statistics </strong> <br><br>
-
+<br>
+<strong> ap statistics </strong> 
 <details> 
 <summary> <b>links</b></summary> <br />
 <a href="https://apstudents.collegeboard.org/courses/ap-statistics" target="_blank">about ap statistics</a>
@@ -66,9 +61,7 @@ permalink: /links/
 <a href="https://education.ti.com/en/software/details/en/31FC737C43CF43B0ADA1CF67420C3AA8/89statisticswithlisteditor" target="_blank">ti-89</a> <br>
 <a href="https://www.mathlore.net/files/TInspireCX_Skills_for_APstats.pdf" target="_blank"> ti-nspire </a> <br>
 </details>
-
-<br><br>
-
+<br>
 <details> 
 <summary> <strong> multivariable calculus </strong></summary> <br>
 <a href="https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/" target="_blank">mit - opencourseware</a><br>
@@ -76,8 +69,7 @@ permalink: /links/
 <a href="https://www.whitman.edu/mathematics/multivariable/multivariable.pdf" target="_blank"> textbook - whitman.edu</a> <br>
 <a href="https://open.umn.edu/opentextbooks/textbooks/780" target="_blank">open textbook - umn.edu</a> <br>
 </details>
-
-<br><br>
+<br>
 <details> 
 <summary> <strong> linear algebra </strong> </summary> <br>
 <a href="https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/" target="_blank"> mit - opencourseware</a><br>
@@ -85,9 +77,7 @@ permalink: /links/
 <a href="https://opentext.uleth.ca/linalg.html" target="_blank"> textbooks - uleth.ca</a> <br>
 <a href="https://open.umn.edu/opentextbooks/textbooks/5" target="_blank">open textbook - umn.edu</a> <br>
 </details>
-
-<br><br>
-
+<br>
 <details> 
 <summary> <strong> ap-info (general) </strong> </summary> <br>
 <a href="https://apstudents.collegeboard.org/course-index-page" target="_blank">ap courses and exams </a> <br>
@@ -101,9 +91,7 @@ permalink: /links/
 <a href="https://apcentral.collegeboard.org/instructional-resources/ap-classroom" target="_blank">ap classroom and ap daily</a> <br>
 <a href="https://apcommunity.collegeboard.org/" target="_blank">ap teacher community</a> <br> 
 </details>
-
-<br><br>
-
+<br>
 <details>
 <summary><strong> online teaching and learning</strong></summary> <br>
 <a href="https://zoom.us/download" target="_blank">zoom</a><br>
@@ -113,9 +101,7 @@ permalink: /links/
 <a href="https://support.smarttech.com/software/smart-notebook" target="_blank"> smart</a><br>
 <a href="https://meet.jit.si/" target="_blank">jitsi</a><br>
 </details>
-
-<br><br> 
-
+<br>
 <details>
 <summary> <strong> software & books</strong> </summary> <br>
 <a href="https://www.sagemath.org/" target="_blank">sagemath software</a> <br>
