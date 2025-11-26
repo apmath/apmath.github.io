@@ -46,8 +46,7 @@
 <body>
 
     <header>
-        <h1> My SageMath Library | <b id="current-date-display">
-        The date will appear here... </b> </h1>
+        <h1> My SageMath Library </h1>
     </header>
 
 <h2>Single Variable</h2>
@@ -421,11 +420,6 @@ implicit_plot((f(x) - g(x) == 0),(x, xmin, xmax),(y,ymin,ymax),axes = true)
 
 
 
-
-
-
-
-
 <br><br>
 <!-- 
 <center> 
@@ -433,26 +427,5 @@ implicit_plot((f(x) - g(x) == 0),(x, xmin, xmax),(y,ymin,ymax),axes = true)
 </center>
 -->
 
-    <script>
-        // 2. JavaScript Logic
-        function displayDate() {
-            // Create a new Date object (this gets the current date and time from the computer)
-            const today = new Date(); 
-            
-            // Format the date (e.g., "Sun Nov 16 2025 21:44:05 GMT-0500 (EST)")
-            // .toDateString() is often cleaner, showing just: "Sun Nov 16 2025"
-            const dateString = today.toDateString(); 
-
-            // Find the HTML element by its ID
-            const dateElement = document.getElementById("current-date-display");
-
-            // Insert the formatted date string into the HTML element
-            dateElement.textContent = dateString;
-        }
-
-        // 3. Call the function when the page loads
-        displayDate();
-    </script>
-  
 </body>
 </html>
