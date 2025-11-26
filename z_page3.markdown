@@ -111,23 +111,7 @@ diff(sin(t) + e^(3*t), t)
 # higher order derivative: the third derivative of cos(5x)
 diff(cos(5*x), x, 3)
 
-# partial differentiation
-x, y = var('x,y')
 
-# declare a function f in terms of x and y
-f = 2*x^2 + 3*y^3
-
-# differentiate f with respect to x
-f.diff(x)
-
-#differentiate f with respect to y
-f.diff(y)
-
-# an indefinite integral with respect to x
-integral(x*sin(x^2), x)
-
-# a definite integral with respect to x from x=-1 to 1
-integral(1/(x^2+1), x, -1, 1)
 
 ```
 

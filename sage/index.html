@@ -380,8 +380,19 @@ implicit_plot((f(x) - g(x) == 0),(x, xmin, xmax),(y,ymin,ymax),axes = true)
     <div class="sage">
 
   <script type="text/x-sage">
+# partial differentiation
+x, y = var('x,y')
 
+# declare a function f in terms of x and y
+f(x,y) = 2*x^2 + 3*y^3
 
+# differentiate f with respect to x, assign to a new function k, then print   
+k(x,y) = f.diff(x)
+pretty_print(k(x,y))
+
+#differentiate f with respect to y, assign to a new function g, then print
+g(x,y) = f.diff(y)
+pretty_print(g(x,y))
 </script>
 </div>
 </details><details>
