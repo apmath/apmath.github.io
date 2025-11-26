@@ -8,6 +8,27 @@ On this page you'll find a few examples of sagemath. To install the SageMath sof
 
 <p align="center"><img src="../img/site/mvc.png" border="0"> </p>
 
+ <h1>Embedded Sage Cells</h1>
+
+  <h2>Factorial</h2>
+  Click the “Activate” button below to calculate factorials.
+    <div id="mycell"><script type="text/x-sage">
+@interact
+def _(a=(1, 10)):
+    print(factorial(a))
+ </script>
+</div>
+
+<h2>Your own computations</h2>
+Type your own Sage computation below and click “Evaluate”.
+    <div class="compute"><script type="text/x-sage">plot(sin(x), (x, 0, 2*pi))</script></div>
+    <div class="compute"><script type="text/x-sage">
+@interact
+def f(n=(0,10)):
+    print(2^n)
+</script></div>
+
+
 # basic functions
 
 ```python
