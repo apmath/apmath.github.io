@@ -11,7 +11,8 @@ permalink: /calculus/
 <table width="100%" border="0">
 <tr> 
 <td width="50%" valign="top">
-<strong>calculus links</strong> <br />
+<details>
+<summary> <strong>calculus links</strong></summary> <br />
 <a href="https://apstudents.collegeboard.org/courses/ap-calculus-ab" target="_blank">about ap calculus ab</a><br> 
 <a href="https://apstudents.collegeboard.org/courses/ap-calculus-bc" target="_blank">about calculus bc</a> <br>
 <a href="https://apstudents.collegeboard.org/courses/ap-calculus-ab/assessment" target="_blank">about the ab exam</a> <br>
@@ -29,8 +30,10 @@ permalink: /calculus/
 <a href="https://www.geogebra.org/t/calculus?lang=en" target="_blank"> geogebra applets for calculus</a><br>
 <a href="https://library.wolfram.com/webMathematica/Education/WalkD.jsp" target="_blank">wolfram derivative calculator</a> <br />
 <a href="https://www.wolframalpha.com/" target="_blank"> wolframalpha.com</a><br><br>
+</details>
 
-<strong>tutorials on selected topics</strong><br />
+<details>
+<summary> <strong>tutorials on selected topics</strong></summary> <br />
       <a href="../../docs/apcalculus/tutorials/tutorial01.pdf" target="_blank">01: Limits and Continuity </a><br />
       <a href="../../docs/apcalculus/tutorials/tutorial02.pdf" target="_blank">02: Numerical Estimation of Slope</a> <br />
       <a href="../../docs/apcalculus/tutorials/tutorial03.pdf" target="_blank">03: Differentiability </a> <br />
@@ -45,7 +48,10 @@ permalink: /calculus/
       <a href="../../docs/apcalculus/tutorials/tutorial12.pdf" target="_blank">12: Notes on the FTC</a> <br />
       <a href="../../docs/apcalculus/tutorials/tutorial13.pdf" target="_blank">13: Known X-Sections</a> <br /><br>
   
-<strong>references</strong><br />
+  </details>
+
+  <details>
+<summary>  <strong>references</strong> </summary> <br />
       <a href="../../docs/apcalculus/references/reference0.pdf" target="_blank">00: Review of Algebra </a><br />
       <a href="../../docs/apcalculus/references/reference1.pdf" target="_blank">01: Summary: The Laws of Limits</a><br />
       <a href="../../docs/apcalculus/references/reference2.pdf" target="_blank">02: Cheat Sheet: Differentiation</a><br />
@@ -64,9 +70,12 @@ permalink: /calculus/
       <a href="../../docs/apcalculus/references/reference15.pdf" target="_blank">15: AP Calculus AB Study Sheets </a><br />
       <a href="../../docs/apcalculus/references/reference16.pdf" target="_blank">16: *Convergence Flowchart v2.0 </a><br />
       <a href="../../docs/apcalculus/references/reference17.pdf" target="_blank">17: TI-84 Tutorial </a><br />
+      </details>
 </td>
 <td width="50%" valign="top">
-<strong>worksheets/activities</strong> <br />
+<details>
+
+<summary> <strong>worksheets/activities</strong> </summary> <br />
       <a href="../../docs/apcalculus/worksheets/worksheet01.pdf" target="_blank">01: Self-Diagnostic Test </a><br /> 
       <a href="../../docs/apcalculus/worksheets/worksheet02.pdf" target="_blank">02: Pre-requisites Test </a><br />
       <a href="../../docs/apcalculus/worksheets/worksheet03.pdf" target="_blank">03: Extrema, MVT I  </a><br />
@@ -104,14 +113,16 @@ permalink: /calculus/
       <a href="../../docs/apcalculus/worksheets/worksheet35.pdf" target="_blank"> 35: Area between Curves</a><br />
       <a href="../../docs/apcalculus/worksheets/worksheet36.pdf" target="_blank"> 36: Polar / Parametric</a><br />
       <a href="../../docs/apcalculus/worksheets/worksheet37.pdf" target="_blank"> 37: More Related Rates</a><br /><br>
+</details>
 
-<strong>comprehensive review material</strong> <br /> 
+<details>
+<summary> <strong>comprehensive review material</strong> </summary> <br /> 
       <a href="../docs/apcalculus/apexams/review/course_review_worksheets.pdf" target="_blank">01: Course Review Worksheets</a> <br />
       <a href="../docs/apcalculus/apexams/review/apcalc_chapter_review.pdf" target="_blank">02: Miscellaneous Chapter Review</a> <br />
       <a href="../docs/apcalculus/apexams/review/bc_ap_style_worksheets.pdf" target="_blank">03: AP Style: BC Review</a> <br />
       <a href="../docs/apcalculus/apexams/review/ab_ap_style_worksheets.pdf" target="_blank">04: AP Style: AB Review</a> <br />
       <a href="../docs/apcalculus/apexams/review/apcalc_worksheets_and_free_response.pdf" target="_blank">05: Calc AB: Worksheets/Free Resp.</a><br />
-      
+</details>
 </td>
 
 </tr>
