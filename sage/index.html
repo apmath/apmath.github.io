@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mr. Shubleka's SageMath Library</title>
+    <title>My SageMath Library</title>
 
     <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
     <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
@@ -13,7 +13,7 @@
         /* CSS styles go here */
         body {
             /* Set the entire page background to black */
-            background-color: black; 
+            background-color: rgb(255, 255, 255); 
             /* Set default text color for contrast */
             color: white; 
             font-family: Arial, sans-serif;
@@ -23,7 +23,7 @@
 
         header, footer {
             /* Set the header background to red */
-            background-color: rgb(128, 0, 0); 
+            background-color: rgb(240, 197, 197); 
             /* Set the text color inside the header to black for contrast */
             color: black; 
             padding: 20px;
@@ -46,11 +46,11 @@
 <body>
 
     <header>
-        <h1> Mr. Shubleka's SageMath Library | <b id="current-date-display">
+        <h1> My SageMath Library | <b id="current-date-display">
         The date will appear here... </b> </h1>
     </header>
 
-
+<h2>Single-Variable</h2>
 <details>
     <summary> 01) Declaring variables, assigning values, and printing.</summary>
 <div class="sage">
@@ -374,6 +374,8 @@ implicit_plot((f(x) - g(x) == 0),(x, xmin, xmax),(y,ymin,ymax),axes = true)
 </div>
 </details>
 
+<h2>Multivariable Calculus</h2>
+
 <details>
     <summary> Task: </summary>
     <div class="sage">
@@ -403,7 +405,10 @@ implicit_plot((f(x) - g(x) == 0),(x, xmin, xmax),(y,ymin,ymax),axes = true)
 
 </script>
 </div>
-</details><details>
+</details>
+
+<h2>Linear Algebra </h2>
+<details>
     <summary> Task: </summary>
     <div class="sage">
 
@@ -448,9 +453,6 @@ implicit_plot((f(x) - g(x) == 0),(x, xmin, xmax),(y,ymin,ymax),axes = true)
         // 3. Call the function when the page loads
         displayDate();
     </script>
-    <hr>
-    <footer>
-    <center> apmath.github.io | 2025</center>
-    </footer>
+  
 </body>
 </html>
