@@ -6,7 +6,7 @@ permalink: /links/
 
 # other courses and links
 
-<strong> ap computer science a </strong> <br><br>
+<strong> ap computer science a </strong> 
 
 <details> 
 <summary> <b>links</b></summary> <br />
@@ -41,6 +41,8 @@ permalink: /links/
 <a href="https://notepad-plus-plus.org/downloads/" target="_blank">notepad++</a><br>
 </details>
 
+<br><br>
+
 <strong> ap statistics </strong> <br><br>
 
 <details> 
@@ -65,6 +67,7 @@ permalink: /links/
 <a href="https://www.mathlore.net/files/TInspireCX_Skills_for_APstats.pdf" target="_blank"> ti-nspire </a> <br>
 </details>
 
+<br><br>
 
 <details> 
 <summary> <strong> multivariable calculus </strong></summary> <br>
@@ -74,7 +77,7 @@ permalink: /links/
 <a href="https://open.umn.edu/opentextbooks/textbooks/780" target="_blank">open textbook - umn.edu</a> <br>
 </details>
 
-
+<br><br>
 <details> 
 <summary> <strong> linear algebra </strong> </summary> <br>
 <a href="https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/" target="_blank"> mit - opencourseware</a><br>
@@ -82,6 +85,8 @@ permalink: /links/
 <a href="https://opentext.uleth.ca/linalg.html" target="_blank"> textbooks - uleth.ca</a> <br>
 <a href="https://open.umn.edu/opentextbooks/textbooks/5" target="_blank">open textbook - umn.edu</a> <br>
 </details>
+
+<br><br>
 
 <details> 
 <summary> <strong> ap-info (general) </strong> </summary> <br>
@@ -97,6 +102,8 @@ permalink: /links/
 <a href="https://apcommunity.collegeboard.org/" target="_blank">ap teacher community</a> <br> 
 </details>
 
+<br><br>
+
 <details>
 <summary><strong> online teaching and learning</strong></summary> <br>
 <a href="https://zoom.us/download" target="_blank">zoom</a><br>
@@ -107,6 +114,7 @@ permalink: /links/
 <a href="https://meet.jit.si/" target="_blank">jitsi</a><br>
 </details>
 
+<br><br> 
 
 <details>
 <summary> <strong> software & books</strong> </summary> <br>
