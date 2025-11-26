@@ -265,11 +265,23 @@ implicit_plot((f(x) - g(x) == 0),(x, xmin, xmax),(y,ymin,ymax),axes = true)
 </details>
 
 <details>
-    <summary> Task: </summary>
+    <summary> 12) Plotting parametric curves </summary>
     <div class="sage">
 
   <script type="text/x-sage">
+# parametric plot of the unit circle: <x(t), y(t)> = <cos(t), sin(t)>
+t = var('t')
+p = parametric_plot((cos(t),sin(t)),(t,0,2*pi),rgbcolor=hue(0.6))
+# to add a title at a specific position (0.5, 1.1)
+name = text("The Unit Circle", (0.5,1.1), rgbcolor=(1,0,0))
+show(p+name)
 
+# multiple parametric plots combined into 1 plotting window
+t = var('t')
+p1 = parametric_plot((sin(t),(sin(t))^2),(t,0,2*pi),rgbcolor=hue(0.2))
+p2 = parametric_plot((cos(t),sin(t)^2),(t,0,2*pi),rgbcolor=hue(0.4))
+p3 = parametric_plot((cos(t),sin(2*t)),(t,0,2*pi),rgbcolor=hue(0.6))
+show(p1+p2+p3, axes=false)
 
 </script>
 </div>
@@ -362,21 +374,37 @@ implicit_plot((f(x) - g(x) == 0),(x, xmin, xmax),(y,ymin,ymax),axes = true)
 </div>
 </details>
 
-<details>
-    <summary> Task: </summary>
-    <div class="sage">
-
-  <script type="text/x-sage">
-
-
-</script>
-</div>
-</details>
 
 <h2>Multivariable Calculus</h2>
 
 <details>
-    <summary> Task: </summary>
+    <summary> 01) Plotting in 3D: explicit, parametric, implicit  </summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+
+# three-dimensional plot z = f(x, y)
+x, y = var('x,y')
+plot3d(x^2 + y^2, (x,-2,2), (y,-2,2))
+
+# three-dimensional parametric plot z = f(x(u,v), y(u,v))
+u, v = var('u, v')
+f_x(u, v) = cos(u)
+f_y(u, v) = sin(v)
+f_z(u, v) = u^2 + u*v + v^2
+parametric_plot3d([f_x, f_y, f_z], (u, -2, 2), (v, -2, 2))
+
+# three-dimensional implicit plot: hyperboloid of one sheet
+# x^2 + y^2 - z^2 = 1
+x, y, z = var('x, y, z')
+implicit_plot3d(x^2 + y^2 - z^2 - 1, (x,-3, 3), (y,-3, 3), (z,-3, 3))
+
+</script>
+</div>
+</details>
+
+<details>
+    <summary> 02) Partial Differentiation </summary>
     <div class="sage">
 
   <script type="text/x-sage">
