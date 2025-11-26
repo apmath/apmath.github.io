@@ -9,9 +9,8 @@ permalink: /cas/
 To install the SageMath software, visit the <a href="https://doc.sagemath.org/html/en/installation/index.html" target="_blank"> installation guide</a> or use the <a href="https://sagecell.sagemath.org/" target="_blank">sage cell server</a>. For a comprehensive tutorial, visit <a href="https://doc.sagemath.org/html/en/tutorial/" target="_blank"> docs.sagemath.org</a>. 
 
 <p align="center"><img src="../img/site/mvc.png" border="0"> </p>
-<details>
 
-<summary> # basic functions </summary>
+# basic functions 
 
 ```python
 
@@ -39,9 +38,8 @@ f.partial_fraction(x)
 
 ``` 
 
-</details>
-<details>
-<summary> # solving equations </summary>
+
+ # solving equations 
 
 ```python
 
@@ -61,10 +59,8 @@ solve([2*x+y==6, 3*x-y==4], x, y)
 
 
 ``` 
-</details>
 
-<details>
-<summary> # parametric and 3d plotting </summary>
+# parametric and 3d plotting 
 
 ```python
 
@@ -99,9 +95,8 @@ x, y, z = var('x, y, z')
 implicit_plot3d(x^2 + y^2 - z^2 - 1, (x,-3, 3), (y,-3, 3), (z,-3, 3))
 
 ```
-</details>
-<details>
-<summary> # differentiation and integration</summary>
+
+ # differentiation and integration
 
 ```python
 # declare an independent variable t
@@ -132,7 +127,7 @@ integral(x*sin(x^2), x)
 integral(1/(x^2+1), x, -1, 1)
 
 ```
-</details>
+
 
 <br> <br>
 
