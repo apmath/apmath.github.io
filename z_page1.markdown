@@ -4,7 +4,7 @@ layout: page
 permalink: /calculus/
 ---
 
- <p align="center"><img src="../img/site/squeeze.png" border="0"> </p> 
+ <p align="center"><img src="../img/site/koch.png" border="0"> </p> 
 
 <table width="100%" border="0">
 <tr> 
