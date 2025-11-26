@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mr. Shubleka's SageMath Library</title>
+
+    <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+    <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+    <link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+
+    <style>
+        /* CSS styles go here */
+        body {
+            /* Set the entire page background to black */
+            background-color: black; 
+            /* Set default text color for contrast */
+            color: white; 
+            font-family: Arial, sans-serif;
+            margin: 0; /* Remove default body margin */
+            padding: 0;
+        }
+
+        header, footer {
+            /* Set the header background to red */
+            background-color: rgb(128, 0, 0); 
+            /* Set the text color inside the header to black for contrast */
+            color: black; 
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0; /* Remove default margin for h1 inside header */
+            font-size: 2em;
+        }
+
+        .content {
+            padding: 20px;
+        }
+    </style>
+
+
+
+</head>
+<body>
+
+    <header>
+        <h1> Mr. Shubleka's SageMath Library | <b id="current-date-display">
+        The date will appear here... </b> </h1>
+    </header>
+
+
+<details>
+    <summary> 01) Declaring variables, assigning values, and printing.</summary>
+<div class="sage">
+
+  <script type="text/x-sage">
+x, t, y = var('x', 't','y')
+x = 5
+t = 5/2
+
+print("x equals: ", x)
+print("t equals: ", t)
+y = x + t 
+print("y equals: ", y)
+
+#print a numerical value
+print(n(2/3))
+n(pi)
+  </script>
+</div>
+
+</details>
+
+<details>
+    <summary> 02) Defining and evaluating a single-variable function </summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+f(x) = (x-1)/(2-x)
+print(f(1))
+print("f(3) equals ",f(3))
+  </script>
+</div>
+</details>
+
+<details>
+    <summary> 03) Defining and plotting single-variable functions </summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+x, xmin, xmax = var('x xmin xmax')
+xmin = 0
+xmax = 2*pi 
+f(x) = cos(x)
+g(x) = sin(x)
+plot((f(x),g(x)),(x,xmin,xmax))
+</script>
+</div>
+</details>
+
+<details>
+    <summary> 04) Breaking an expression into partial fractions</summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+
+f(x) = 1/(x^2-3*x+2)
+g(x) = f.partial_fraction(x)
+pretty_print("f(x)=",f(x))
+pretty_print("f(x)=",g(x))
+</script>
+</div>
+</details>
+
+<details>
+    <summary> 05) Factoring and expanding expressions </summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+
+x,h = var('x h')
+#declare two functions f and g
+f(x) = x^2-7*x+10
+g(x) = (x-3)*(2*x-7)*(x^2-3)
+#factor f, then print
+pretty_print(f.factor())
+#expand g, then print
+pretty_print(g.expand())
+
+</script>
+</div>
+</details>
+
+<details>
+    <summary> 06) Solving equations </summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+
+# declare a variable x and solve a quadratic equation x^2++5x+6=0
+x = var('x')
+pretty_print(solve(x^2 + 5*x + 6, x))
+
+
+# solving the quadratic equation
+a, b, c, x = var('a b c x')
+pretty_print(solve([a*x^2 + b*x + c == 0],x))
+
+# solving a system of two linear equations
+x, y = var('x, y')
+pretty_print(solve([2*x+y==6, 3*x-y==4], x, y))
+
+# find a root in a specific range
+phi = var('phi')
+pretty_print(find_root(cos(phi)==sin(phi),0,pi/2))
+
+
+
+
+</script>
+</div>
+</details>
+
+
+<details>
+    <summary> 07) Evaluating limits of expressions </summary>
+    <div class="sage">
+  <script type="text/x-sage">
+
+#note: for one-sided limits use the dir='-' or dir='+' attribute.
+
+x, a = var('x a')
+a = 3
+f(x) = (x^2-9)/(x-3)
+limit(f(x),x=a)
+
+</script>
+</div>
+</details>
+
+</script>
+</div>
+</details>
+
+
+<details>
+    <summary> 08) Finding the derivative of a function </summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+# declare an independent variable t
+t = var('t')
+
+#declare a function f(t) and find its derivative m(t)
+f(t) = sqrt(t)
+m(t) = f.diff(t)
+pretty_print(m(t))
+
+# differentiate an expression with respect to t
+h(t) = diff(sin(t) + e^(3*t), t)
+pretty_print(h(t))
+
+# higher order derivative: the third derivative of cos(5x)
+g(x) = diff(cos(5*x), x, 3)
+pretty_print(g(x))
+
+</script>
+</div>
+</details>
+
+<details>
+    <summary> 09) Finding the equation of a tangent line and plotting</summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+x, xmin, xmax, a = var('x', 'xmin', 'xmax','a')
+xmin = -3
+xmax = 3
+a = 1
+f(x) = 2/(x^2+1)
+pretty_print("The equation of the tangent line is at x = 1 is y=", f(a)+(f.diff(x))(x=a)*(x-a))
+plot((f(x),f(a)+(f.diff(x))(x=a)*(x-a)),(x, xmin, xmax))
+
+
+</script>
+</div>
+</details>
+</details><details>
+    <summary> 10) Finding indefinite and definite Integrals </summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+# an indefinite integral with respect to x
+x = var('x')
+f(x) = x*sin(x^2)
+h(x) = integral(f(x),x)
+pretty_print(h(x))
+
+# a definite integral with respect to x from x=-1 to 1
+g(x) = 1/(x^2+1)
+pretty_print(integral(g(x), x, -1, 1))
+
+</script>
+</div>
+</details>
+
+<details>
+    <summary> 11) Plotting curves with implicit equations (2D) </summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+x, xmin, xmax, ymin, ymax = var('x', 'xmin', 'xmax','ymin','ymax')
+xmin = -3
+xmax = 3
+ymin = -3
+ymax = 3
+f(x,y) = x^3 + y^3
+g(x,y) = 3*x*y
+pretty_print("The Folium of Descartes:  ", f(x,y) - g(x,y)==0)
+implicit_plot((f(x) - g(x) == 0),(x, xmin, xmax),(y,ymin,ymax),axes = true)
+
+</script>
+</div>
+</details>
+
+<details>
+    <summary> Task: </summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+
+
+</script>
+</div>
+
+</details>
+
+
+<details>
+    <summary> Task: </summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+
+
+</script>
+</div>
+</details>
+
+<details>
+    <summary> Task: </summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+
+
+</script>
+</div>
+</details>
+
+<details>
+    <summary> Task: </summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+
+
+</script>
+</div>
+</details>
+
+
+<details>
+    <summary> Task: </summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+
+
+</script>
+</div>
+</details><details>
+    <summary> Task: </summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+
+
+</script>
+</div>
+</details><details>
+    <summary> Task: </summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+
+
+</script>
+</div>
+</details>
+
+<details>
+    <summary> Task: </summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+
+
+</script>
+</div>
+</details>
+
+<details>
+    <summary> Task: </summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+
+
+</script>
+</div>
+</details>
+
+<details>
+    <summary> Task: </summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+
+
+</script>
+</div>
+</details>
+
+<details>
+    <summary> Task: </summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+
+
+</script>
+</div>
+</details><details>
+    <summary> Task: </summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+
+
+</script>
+</div>
+</details>
+
+<details>
+    <summary> Task: </summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+
+
+</script>
+</div>
+</details><details>
+    <summary> Task: </summary>
+    <div class="sage">
+
+  <script type="text/x-sage">
+
+
+</script>
+</div>
+</details>
+
+
+
+
+
+
+
+
+<br><br>
+<!-- 
+<center> 
+<iframe src="https://www.desmos.com/calculator" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="100%" allowfullscreen></iframe> 
+</center>
+-->
+
+    <script>
+        // 2. JavaScript Logic
+        function displayDate() {
+            // Create a new Date object (this gets the current date and time from the computer)
+            const today = new Date(); 
+            
+            // Format the date (e.g., "Sun Nov 16 2025 21:44:05 GMT-0500 (EST)")
+            // .toDateString() is often cleaner, showing just: "Sun Nov 16 2025"
+            const dateString = today.toDateString(); 
+
+            // Find the HTML element by its ID
+            const dateElement = document.getElementById("current-date-display");
+
+            // Insert the formatted date string into the HTML element
+            dateElement.textContent = dateString;
+        }
+
+        // 3. Call the function when the page loads
+        displayDate();
+    </script>
+    <hr>
+    <footer>
+    <center> apmath.github.io | 2025</center>
+    </footer>
+</body>
+</html>
