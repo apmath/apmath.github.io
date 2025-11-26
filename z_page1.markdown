@@ -133,7 +133,9 @@ permalink: /calculus/
 <table width="100%" border="0">
 <tr>
 <td width="50%" valign="top">
-<strong>Calculus AB FRQ</strong><br />
+
+<details>
+<summary> <strong>Calculus AB FRQ</strong> </summary> <br />
 <a href="https://apcentral.collegeboard.org/media/pdf/ap25-frq-calculus-ab.pdf" target="_blank">2025 Form A </a> (  Key ) ( <a href="../docs/apcalculus/apexams/cbfreeresponse/2025_ab_form_a_solutions-shubleka.pdf" target="_blank">Solutions</a> ) <br />
 <a href="https://apcentral.collegeboard.org/media/pdf/ap24-frq-calculus-ab.pdf" target="_blank">2024 Form A </a> ( <a href="https://apcentral.collegeboard.org/media/pdf/ap24-sg-calculus-ab.pdf" target="_blank"> Key</a> ) ( <a href="../docs/apcalculus/apexams/cbfreeresponse/2024_ab_form_a_solutions-shubleka.pdf" target="_blank">Solutions</a> ) <br />
 <a href="https://apcentral.collegeboard.org/media/pdf/ap23-frq-calculus-ab.pdf" target="_blank">2023 Form A </a> ( <a href="https://apcentral.collegeboard.org/media/pdf/ap23-sg-calculus-ab.pdf" target="_blank">Key</a> ) ( <a href="../docs/apcalculus/apexams/cbfreeresponse/2023_ab_form_a_solutions-shubleka.pdf" target="_blank">Solutions</a> ) <br />
@@ -228,9 +230,13 @@ permalink: /calculus/
 <a href="../docs/apcalculus/apexams/cbfreeresponse/1969_to_2005_ab_questions.pdf" target="_blank"> 1969 - 2005 AB Free Response </a></span>
   
   -->
+  </details>
+
 </td>
 <td width="50%" valign="top">
-<strong>Calculus BC FRQ</strong><br />
+
+<details>
+<summary> <strong>Calculus BC FRQ</strong> </summary> <br />
 <a href="https://apcentral.collegeboard.org/media/pdf/ap25-frq-calculus-bc.pdf" target="_blank">2025 Form A </a> (  Key ) ( <a href="../docs/apcalculus/apexams/cbfreeresponse/2025_bc_form_a_solutions-shubleka.pdf" target="_blank">Solutions</a> ) <br />
 <a href="https://apcentral.collegeboard.org/media/pdf/ap24-frq-calculus-bc.pdf" target="_blank">2024 Form A </a> ( <a href="https://apcentral.collegeboard.org/media/pdf/ap24-sg-calculus-bc.pdf" target="_blank">Key</a> ) ( <a href="../docs/apcalculus/apexams/cbfreeresponse/2024_bc_form_a_solutions-shubleka.pdf" target="_blank">Solutions</a> ) <br />
 <a href="https://apcentral.collegeboard.org/media/pdf/ap23-frq-calculus-bc.pdf" target="_blank">2023 Form A </a> ( <a href="https://apcentral.collegeboard.org/media/pdf/ap23-sg-calculus-bc.pdf" target="_blank">Key</a> ) ( <a href="../docs/apcalculus/apexams/cbfreeresponse/2023_bc_form_a_solutions-shubleka.pdf" target="_blank">Solutions</a> ) <br />
@@ -291,15 +297,19 @@ permalink: /calculus/
  <a href="../docs/apcalculus/apexams/cbfreeresponse/2001_bc_form_a_questions.pdf" target="_blank">2001 Form A</a> ( <a href="../docs/apcalculus/apexams/cbfreeresponse/2001_bc_form_a_solutions.pdf" target="_blank">Key</a> )</span></p>
   
 -->
+</details>
 </td>
 </tr>
 
 <tr>
 <td colspan="2" valign="top">
-<strong> More FR Practice </strong> <br />
+<details>
+<summary> <strong> More FR Practice </strong> </summary> <br />
 <a href="../docs/apcalculus/apexams/uh/2009/2009_ab_exam1_fr.pdf" target="_blank">UH: 2009 - AB FR</a> (<a href="../docs/apcalculus/apexams/uh/2009/2009_ab_exam1_fr_solutions_only.pdf" target="_blank"> Key</a> ) <br />
 <a href="../docs/apcalculus/apexams/uh/2009/2009_bc_exam1_fr.pdf" target="_blank">UH: 2009 - BC FR</a> <br />
 <a href="../docs/apcalculus/apexams/review/free_response_sets_1thru18.pdf" target="_blank"> Sets of Free Response: AB </a>
+</details>
+
 </td>
 </tr>
 </table>
@@ -309,7 +319,8 @@ permalink: /calculus/
 <table width="100%" border="0">
 <tr>
 <td width="50%" valign="top">
-<strong>from the collegeboard</strong><br>
+<details>
+<summary> <strong>from the collegeboard</strong></summary> <br>
   <!-- 1988 FULL EXAM -->   
 <a href="https://apcentral.collegeboard.com/apc/public/repository/calculcus-free-exam-1988.pdf" target="_blank">1988 - AP Calculus AB</a> ( <a href="../docs/apcalculus/apexams/fullexams/calculcus-free-exam-1988.pdf" target="_blank">MIRROR </a> ) <br>
 <!-- 1998 FULL EXAM -->  
@@ -348,9 +359,13 @@ permalink: /calculus/
 <!-- 41 MC Problems AB Level -->   
 <a href="../docs/apcalculus/apexams/multiplechoice/11_mc_ab_41questions.pdf" target="_blank">  11. AB/BC | 41 Sample Problems (AB) </a>
 
+</details>
+
 </td>
 <td width="50%" valign="top">
-<strong>ap exams: uh.edu</strong><br>
+
+<details>
+<summary> <strong>ap exams: uh.edu</strong></summary> <br>
 
 <!-- UH 2006 Exams --> 
 <a href="../docs/apcalculus/apexams/uh/2006/2006_ab_exam1_full.pdf" target="_blank"> UH | AB 2006 | Exam 1 | Full </a> <br />
@@ -376,16 +391,19 @@ permalink: /calculus/
 <a href="../docs/apcalculus/apexams/uh/2008/2008_bc_exam4.pdf" target="_blank"> UH | BC 2008 | Exam 4 | MC </a> <br />
 <a href="../docs/apcalculus/apexams/uh/2008/2008_bc_exam5.pdf" target="_blank"> UH | BC 2008 | Exam 5 | MC </a> <br />
 
+</details>
 </td>
 </tr>
 
 <tr>
 <td colspan="2" valign="top">
-<strong>Classroom Polling</strong><br />
+<details>
+<summary> <strong>Classroom Polling</strong> </summary> <br />
 <!-- Polling Questions from "Good Project" and "Math Quest" -->
 <a href="../docs/apcalculus/apexams/multiplechoice/mc_good_questions_calculus.pdf" target="_blank">"Good Questions": Calculus</a> <br />
 <a href="../docs/quest/questdifferentialcalculus.pdf" target="_blank">Math Quest: Differential Calculus</a> <br />
 <a href="../docs/quest/questintegralcalculus.pdf" target="_blank">Math Quest: Integral Calculus</a> <br />
+</details>
 </td>
 </tr>
 </table>
@@ -398,9 +416,10 @@ permalink: /calculus/
 </center>
 -->  
 
-My notes on pre-requisite content: <a href="../docs/paca/preparing_for_ap_calculus_ab.pdf" target="_blank">Preparing for AP Calculus AB</a> <br>
+My typed notes on pre-requisite content: <a href="../docs/paca/preparing_for_ap_calculus_ab.pdf" target="_blank">Preparing for AP Calculus AB</a> <br>
 
-<strong>review packets</strong><br>
+<details>
+<summary> <strong>review packets</strong> </summary><br>
 <a href="../docs/apcalculus/ptests/mctest1.pdf" target="_blank"> Multiple Choice Test: 34 problems | KEY INCLUDED</a> <br>
 <a href="../docs/apcalculus/ptests/mctest2.pdf" target="_blank"> Multiple Choice Test: 25 problems | KEY INCLUDED</a> <br>
 <a href="../docs/apcalculus/ptests/mctest3.pdf" target="_blank"> Multiple Choice Test: 25 problems | KEY INCLUDED</a> <br>
@@ -425,3 +444,4 @@ My notes on pre-requisite content: <a href="../docs/paca/preparing_for_ap_calcul
 <a href="../docs/apcalculus/summer/packet12.pdf" target="_blank"> AP Calculus: Packet 12</a> <br>
 <a href="../docs/apcalculus/summer/packet13.pdf" target="_blank"> AP Calculus: Packet 13</a> <br>
 <a href="../docs/apcalculus/summer/packet14.pdf" target="_blank"> AP Calculus: Packet 14 (RPI)</a> 
+</details>
