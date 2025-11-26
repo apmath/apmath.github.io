@@ -3,7 +3,23 @@ layout: page
 title: sage
 permalink: /sage/
 ---
+<script
+  type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+</script>
 
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+    <script>
+    // Make the div with id 'mycell' a Sage cell
+    sagecell.makeSagecell({inputLocation:  '#mycell',
+                           template:       sagecell.templates.minimal,
+                           evalButtonText: 'Activate'});
+    // Make *any* div with class 'compute' a Sage cell
+    sagecell.makeSagecell({inputLocation: 'div.compute',
+                           evalButtonText: 'Evaluate'});
+    </script>
+    
+    
 On this page you'll find a few examples of sagemath. To install the SageMath software, visit the <a href="https://doc.sagemath.org/html/en/installation/index.html" target="_blank"> installation guide</a> or use the <a href="https://sagecell.sagemath.org/" target="_blank">sage cell server</a>. For a comprehensive tutorial, visit <a href="https://doc.sagemath.org/html/en/tutorial/" target="_blank"> docs.sagemath.org</a>. 
 
 <p align="center"><img src="../img/site/mvc.png" border="0"> </p>
