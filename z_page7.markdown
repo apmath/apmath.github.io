@@ -74,7 +74,7 @@ permalink: /teaching/
 </p>
 </details>
 
-<h1> my current teaching schedule </h1>
+<h1> currently teaching </h1>
 
 A = MVC/LA :: B = AP Calculus AB :: F = AP Computer Science A :: G1 = AP Calculus BC
 
