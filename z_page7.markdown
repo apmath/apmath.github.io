@@ -74,6 +74,12 @@ permalink: /teaching/
 </p>
 </details>
 
+<h1> my current teaching schedule </h1>
+
+A = MVC/LA :: B = AP Calculus AB :: F = AP Computer Science A :: G1 = AP Calculus BC
+
+<p align="center"> <img src="/img/site/schedule.png" border="2"> </p>
+
 <h1> course expectations </h1>
 <details>
 <summary><b>grading</b></summary>
