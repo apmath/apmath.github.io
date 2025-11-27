@@ -11,7 +11,6 @@ To install the SageMath software, visit the <a href="https://doc.sagemath.org/ht
 <p align="center"><img src="../img/site/mvc.png" border="0"> </p>
 
 <center> <iframe src="../sage/index.html" width="100%" height="1000" style="border:0;"> </iframe> </center>
-
 <!-- 
 <br> <br>
 <details>
@@ -21,9 +20,6 @@ To install the SageMath software, visit the <a href="https://doc.sagemath.org/ht
 </center>
 </details>
 -->
-
-<br> <br>
-
 <h1> Wolfram Mathematica </h1>
 <details>
 
