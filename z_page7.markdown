@@ -5,8 +5,6 @@ permalink: /teaching/
 ---
 <script src="https://www.w3schools.com/lib/w3.js"></script>
 
-<p align="center"><img src="../img/site/ca.jpeg" border="1"> </p>
-
 <details>
 <summary><b>AP Calculus AB</b></summary>AP Calculus AB follows the curriculum set forth by the College Board. It is worth the equivalent of one semester of college credit upon successful completion of the AP examination offered in May. Students enrolled in this course are required to take this test. Topics covered include library of functions, limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, etc<a href="https://ca-math.github.io/courses/index-ab.html" target="_blank">.</a><a href="javascript:void(0)" onclick="w3.toggleShow('#notes-ab'); w3.toggleShow('#placeholder-ab');"></a>
 
@@ -48,7 +46,7 @@ permalink: /teaching/
 ---
 
 <details>
-<summary><b>AP Computer Science A</b></summary> AP Computer Science A is both a college-prep course for potential computer science majors and a foundation course for students planning to study in other technical fields such as engineering, physics, chemistry, and geology. The course emphasizes methodology, procedural abstraction, and in-depth study of algorithms, data structures, and data abstractions, as well as a detailed examination of a large case study program. Instruction includes preparation for the AP Computer Science A exam. In this course, students apply the programming tools they have learned to real-life examples on their own. Computer science is more than just programming; students who successfully complete the course will have an understanding of Java and the ability to adapt to any new programming language that they are taught in college<a href="https://ca-math.github.io/courses/index-csa.html" target="_blank">. </a>[ <a href="javascript:void(0)" onclick="w3.toggleShow('#notes-csa'); w3.toggleShow('#placeholder-csa');"> my notes</a> ]
+<summary><b>AP Computer Science A</b></summary> AP Computer Science A is both a college-prep course for potential computer science majors and a foundation course for students planning to study in other technical fields such as engineering, physics, chemistry, and geology. The course emphasizes methodology, procedural abstraction, and in-depth study of algorithms, data structures, and data abstractions, as well as a detailed examination of a large case study program. Instruction includes preparation for the AP Computer Science A exam. In this course, students apply the programming tools they have learned to real-life examples on their own. Computer science is more than just programming; students who successfully complete the course will have an understanding of Java and the ability to adapt to any new programming language that they are taught in college<a href="https://ca-math.github.io/courses/index-csa.html" target="_blank">.</a><a href="javascript:void(0)" onclick="w3.toggleShow('#notes-csa'); w3.toggleShow('#placeholder-csa');"></a>
   
 
 
@@ -74,11 +72,8 @@ permalink: /teaching/
 </p>
 </details>
 
-<h1>schedule </h1>
+<p align="center"><img src="../img/site/ca.jpeg" border="1"> </p>
 
-A = MVC/LA :: B = AP Calculus AB :: F = AP Computer Science A :: G1 = AP Calculus BC
-
-<p align="center"> <img src="/img/site/schedule.png" border="2"> </p>
 
 <h1>expectations </h1>
 <details>
@@ -112,3 +107,9 @@ We are expected to speak English in the classroom space.
 <summary><b>calculators</b></summary>
 TI-83/84/89/NSPIRE are recommended graphing calculator models. The in-class demonstrations will focus on the TI-84 features. Be sure to check the calculator policy on the college board website at <a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">this link</a>. In addition to the graphing calculator, we will also use a few CAS applications, so be sure to bring your laptop to class daily.
 </details>
+
+<h1>schedule </h1>
+
+A = MVC/LA :: B = AP Calculus AB :: F = AP Computer Science A :: G1 = AP Calculus BC
+
+<p align="center"> <img src="/img/site/schedule.png" border="2"> </p>
