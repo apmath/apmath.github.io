@@ -408,12 +408,6 @@ permalink: /calculus/
 
 # summer work before ap calculus
 
-<!--
-<center><b> Playlist: Preparing For AP Calculubs AB </b> <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLu49WYVXsOBEJWiznjdTVRaKp3yGnCXDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <br>
-</center>
--->  
-
 My typed notes on pre-requisite content: <a href="../docs/paca/preparing_for_ap_calculus_ab.pdf" target="_blank">Preparing for AP Calculus AB</a> <br>
 
 <details>
@@ -442,4 +436,5 @@ My typed notes on pre-requisite content: <a href="../docs/paca/preparing_for_ap_
 <a href="../docs/apcalculus/summer/packet12.pdf" target="_blank"> AP Calculus: Packet 12</a> <br>
 <a href="../docs/apcalculus/summer/packet13.pdf" target="_blank"> AP Calculus: Packet 13</a> <br>
 <a href="../docs/apcalculus/summer/packet14.pdf" target="_blank"> AP Calculus: Packet 14 (RPI)</a> 
+
 </details>
