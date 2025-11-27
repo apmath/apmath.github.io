@@ -48,7 +48,7 @@ permalink: /teaching/
 ---
 
 <details>
-<summary><b>AP Computer Science A</b></summary> AP Computer Science A is both a college-prep course for potential computer science majors and a foundation course for students planning to study in other technical fields such as engineering, physics, chemistry, and geology. The course emphasizes methodology, procedural abstraction, and in-depth study of algorithms, data structures, and data abstractions, as well as a detailed examination of a large case study program. Instruction includes preparation for the AP Computer Science A exam. In this course, students apply the programming tools they have learned to real-life examples on their own. Computer science is more than just programming; students who successfully complete the course will have an understanding of Java and the ability to adapt to any new programming language that they are taught in college<a href="https://ca-math.github.io/courses/index-csa.html" target="_blank">.</a><a href="javascript:void(0)" onclick="w3.toggleShow('#notes-csa'); w3.toggleShow('#placeholder-csa');"></a>
+<summary><b>AP Computer Science A</b></summary> AP Computer Science A is both a college-prep course for potential computer science majors and a foundation course for students planning to study in other technical fields such as engineering, physics, chemistry, and geology. The course emphasizes methodology, procedural abstraction, and in-depth study of algorithms, data structures, and data abstractions, as well as a detailed examination of a large case study program. Instruction includes preparation for the AP Computer Science A exam. In this course, students apply the programming tools they have learned to real-life examples on their own. Computer science is more than just programming; students who successfully complete the course will have an understanding of Java and the ability to adapt to any new programming language that they are taught in college<a href="https://ca-math.github.io/courses/index-csa.html" target="_blank">. </a>[ <a href="javascript:void(0)" onclick="w3.toggleShow('#notes-csa'); w3.toggleShow('#placeholder-csa');"> my notes</a> ]
   
 
 
@@ -74,13 +74,13 @@ permalink: /teaching/
 </p>
 </details>
 
-<h1> currently teaching </h1>
+<h1>schedule </h1>
 
 A = MVC/LA :: B = AP Calculus AB :: F = AP Computer Science A :: G1 = AP Calculus BC
 
 <p align="center"> <img src="/img/site/schedule.png" border="2"> </p>
 
-<h1> course expectations </h1>
+<h1>expectations </h1>
 <details>
 <summary><b>grading</b></summary>
 Homework and Participation: 0% (the nightly homework helps you prepare for assessments) <br>
