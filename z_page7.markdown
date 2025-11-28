@@ -4,6 +4,7 @@ title: courses
 permalink: /teach/
 ---
 <script src="https://www.w3schools.com/lib/w3.js"></script>
+<p align="center"><img src="../img/site/ca.jpeg" border="1"> <br> <i>Cushing Academy (Massachusetts, USA)</i> </p> 
 <h1>2025 - 2026 </h1>
 <details>
 <summary><b>AP Calculus AB</b></summary>AP Calculus AB follows the curriculum set forth by the College Board. It is worth the equivalent of one semester of college credit upon successful completion of the AP examination offered in May. Students enrolled in this course are required to take this test. Topics covered include library of functions, limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, etc<a href="https://ca-math.github.io/courses/index-ab.html" target="_blank">.</a><a href="javascript:void(0)" onclick="w3.toggleShow('#notes-ab'); w3.toggleShow('#placeholder-ab');"></a>
@@ -65,7 +66,6 @@ permalink: /teach/
 </details>
 
 <br>
- <!-- <p align="center"><img src="../img/site/ca.jpeg" border="1"> <br> <i>Cushing Academy (Massachusetts, USA)</i> </p> -->
 
 
 <h1>expectations </h1>
