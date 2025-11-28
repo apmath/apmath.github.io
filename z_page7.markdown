@@ -4,7 +4,7 @@ title: courses
 permalink: /teach/
 ---
 <script src="https://www.w3schools.com/lib/w3.js"></script>
-<!-- <p align="center"><img src="../img/site/ca.jpeg" border="1"> <br> <i>Cushing Academy (Massachusetts, USA)</i> </p> -->
+
 <details>
 <summary><b>AP Calculus AB</b></summary>AP Calculus AB follows the curriculum set forth by the College Board. It is worth the equivalent of one semester of college credit upon successful completion of the AP examination offered in May. Students enrolled in this course are required to take this test. Topics covered include library of functions, limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, etc<a href="https://ca-math.github.io/courses/index-ab.html" target="_blank">.</a><a href="javascript:void(0)" onclick="w3.toggleShow('#notes-ab'); w3.toggleShow('#placeholder-ab');"></a>
 
@@ -74,6 +74,8 @@ permalink: /teach/
 
 ---
 
+<p align="center"><img src="../img/site/ca.jpeg" border="1"> <br> <i>Cushing Academy (Massachusetts, USA)</i> </p> 
+
 
 <h1>expectations </h1>
 <details>
@@ -108,7 +110,7 @@ We are expected to speak English in the classroom space.
 TI-83/84/89/NSPIRE are recommended graphing calculator models. The in-class demonstrations will focus on the TI-84 features. Be sure to check the calculator policy on the college board website at <a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">this link</a>. In addition to the graphing calculator, we will also use a few CAS applications, so be sure to bring your laptop to class daily.
 </details>
 
-
+<br>
 <h1>office hours</h1>
 
 available by appointment most mornings (8:00am - 8:30am).
