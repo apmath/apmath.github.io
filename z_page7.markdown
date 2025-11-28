@@ -74,6 +74,7 @@ permalink: /teach/
 
 ---
 
+<br>
 <p align="center"><img src="../img/site/ca.jpeg" border="1"> </p>
 
 
