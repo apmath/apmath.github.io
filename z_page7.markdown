@@ -113,7 +113,6 @@ TI-83/84/89/NSPIRE are recommended graphing calculator models. The in-class demo
 
 <br>
 <h1>office hours</h1>
-
 available by appointment most mornings (8:00am - 8:30am).
 
 <h1>schedule </h1>
