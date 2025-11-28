@@ -406,12 +406,14 @@ permalink: /calculus/
 </tr>
 </table>
 
-# summer work before ap calculus
 
-My typed notes on pre-requisite content: <a href="../docs/paca/preparing_for_ap_calculus_ab.pdf" target="_blank">Preparing for AP Calculus AB</a> <br>
+<details>
+<summary> <strong>summer before ap calculus</strong> </summary> <br>
 
+My typed notes on pre-requisite content: <a href="../docs/paca/preparing_for_ap_calculus_ab.pdf" target="_blank">Preparing for AP Calculus AB</a> <br> <br>
 
-<strong>review packets</strong> <br>
+## review packets
+
 <a href="../docs/apcalculus/ptests/mctest1.pdf" target="_blank"> Multiple Choice Test: 34 problems | KEY INCLUDED</a> <br>
 <a href="../docs/apcalculus/ptests/mctest2.pdf" target="_blank"> Multiple Choice Test: 25 problems | KEY INCLUDED</a> <br>
 <a href="../docs/apcalculus/ptests/mctest3.pdf" target="_blank"> Multiple Choice Test: 25 problems | KEY INCLUDED</a> <br>
@@ -436,3 +438,5 @@ My typed notes on pre-requisite content: <a href="../docs/paca/preparing_for_ap_
 <a href="../docs/apcalculus/summer/packet12.pdf" target="_blank"> AP Calculus: Packet 12</a> <br>
 <a href="../docs/apcalculus/summer/packet13.pdf" target="_blank"> AP Calculus: Packet 13</a> <br>
 <a href="../docs/apcalculus/summer/packet14.pdf" target="_blank"> AP Calculus: Packet 14 (RPI)</a> 
+
+</details>
