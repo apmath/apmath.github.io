@@ -116,7 +116,6 @@ TI-83/84/89/NSPIRE are recommended graphing calculator models. The in-class demo
 available by appointment most mornings (8:00am - 8:30am).
 
 <h1>schedule </h1>
-
 A = MVC/LA :: B = AP Calculus AB :: F = AP Computer Science A :: G1 = AP Calculus BC
 
 <p align="center"> <img src="/img/site/schedule.png" border="2"> </p>
