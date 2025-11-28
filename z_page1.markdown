@@ -133,7 +133,7 @@ permalink: /calculus/
 <td width="50%" valign="top">
 
 <details>
-<summary> <strong>Calculus AB FRQ</strong> </summary> <br />
+<summary> <strong>calculus ab frq</strong> </summary> <br />
 <a href="https://apcentral.collegeboard.org/media/pdf/ap25-frq-calculus-ab.pdf" target="_blank">2025 Form A </a> (  Key ) ( <a href="../docs/apcalculus/apexams/cbfreeresponse/2025_ab_form_a_solutions-shubleka.pdf" target="_blank">Solutions</a> ) <br />
 <a href="https://apcentral.collegeboard.org/media/pdf/ap24-frq-calculus-ab.pdf" target="_blank">2024 Form A </a> ( <a href="https://apcentral.collegeboard.org/media/pdf/ap24-sg-calculus-ab.pdf" target="_blank"> Key</a> ) ( <a href="../docs/apcalculus/apexams/cbfreeresponse/2024_ab_form_a_solutions-shubleka.pdf" target="_blank">Solutions</a> ) <br />
 <a href="https://apcentral.collegeboard.org/media/pdf/ap23-frq-calculus-ab.pdf" target="_blank">2023 Form A </a> ( <a href="https://apcentral.collegeboard.org/media/pdf/ap23-sg-calculus-ab.pdf" target="_blank">Key</a> ) ( <a href="../docs/apcalculus/apexams/cbfreeresponse/2023_ab_form_a_solutions-shubleka.pdf" target="_blank">Solutions</a> ) <br />
@@ -234,7 +234,7 @@ permalink: /calculus/
 <td width="50%" valign="top">
 
 <details>
-<summary> <strong>Calculus BC FRQ</strong> </summary> <br />
+<summary> <strong>calculus bc frq</strong> </summary> <br />
 <a href="https://apcentral.collegeboard.org/media/pdf/ap25-frq-calculus-bc.pdf" target="_blank">2025 Form A </a> (  Key ) ( <a href="../docs/apcalculus/apexams/cbfreeresponse/2025_bc_form_a_solutions-shubleka.pdf" target="_blank">Solutions</a> ) <br />
 <a href="https://apcentral.collegeboard.org/media/pdf/ap24-frq-calculus-bc.pdf" target="_blank">2024 Form A </a> ( <a href="https://apcentral.collegeboard.org/media/pdf/ap24-sg-calculus-bc.pdf" target="_blank">Key</a> ) ( <a href="../docs/apcalculus/apexams/cbfreeresponse/2024_bc_form_a_solutions-shubleka.pdf" target="_blank">Solutions</a> ) <br />
 <a href="https://apcentral.collegeboard.org/media/pdf/ap23-frq-calculus-bc.pdf" target="_blank">2023 Form A </a> ( <a href="https://apcentral.collegeboard.org/media/pdf/ap23-sg-calculus-bc.pdf" target="_blank">Key</a> ) ( <a href="../docs/apcalculus/apexams/cbfreeresponse/2023_bc_form_a_solutions-shubleka.pdf" target="_blank">Solutions</a> ) <br />
@@ -302,7 +302,7 @@ permalink: /calculus/
 <tr>
 <td colspan="2" valign="top">
 <details>
-<summary> <strong> More FR Practice </strong> </summary> <br />
+<summary> <strong> more fr practice </strong> </summary> <br />
 <a href="../docs/apcalculus/apexams/uh/2009/2009_ab_exam1_fr.pdf" target="_blank">UH: 2009 - AB FR</a> (<a href="../docs/apcalculus/apexams/uh/2009/2009_ab_exam1_fr_solutions_only.pdf" target="_blank"> Key</a> ) <br />
 <a href="../docs/apcalculus/apexams/uh/2009/2009_bc_exam1_fr.pdf" target="_blank">UH: 2009 - BC FR</a> <br />
 <a href="../docs/apcalculus/apexams/review/free_response_sets_1thru18.pdf" target="_blank"> Sets of Free Response: AB </a>
@@ -396,7 +396,7 @@ permalink: /calculus/
 <tr>
 <td colspan="2" valign="top">
 <details>
-<summary> <strong>Classroom Polling</strong> </summary> <br />
+<summary> <strong>classroom polling</strong> </summary> <br />
 <!-- Polling Questions from "Good Project" and "Math Quest" -->
 <a href="../docs/apcalculus/apexams/multiplechoice/mc_good_questions_calculus.pdf" target="_blank">"Good Questions": Calculus</a> <br />
 <a href="../docs/quest/questdifferentialcalculus.pdf" target="_blank">Math Quest: Differential Calculus</a> <br />
