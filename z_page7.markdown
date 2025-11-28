@@ -74,7 +74,8 @@ permalink: /teach/
 
 ---
 
-<p align="center"><img src="../img/site/ca.jpeg" border="1"> <br> <i>Cushing Academy (Massachusetts, USA)</i> </p> 
+<br>
+<!-- <p align="center"><img src="../img/site/ca.jpeg" border="1"> <br> <i>Cushing Academy (Massachusetts, USA)</i> </p> -->
 
 
 <h1>expectations </h1>
