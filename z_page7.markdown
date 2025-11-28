@@ -1,7 +1,7 @@
 ---
 layout: page
-title: teaching
-permalink: /teaching/
+title: courses
+permalink: /teach/
 ---
 <script src="https://www.w3schools.com/lib/w3.js"></script>
 
