@@ -437,6 +437,6 @@ My typed notes on pre-requisite content: <a href="../docs/paca/preparing_for_ap_
 <a href="../docs/apcalculus/summer/packet11solutions.pdf" target="_blank">[ Solutions ]</a><br>
 <a href="../docs/apcalculus/summer/packet12.pdf" target="_blank"> AP Calculus: Packet 12</a> <br>
 <a href="../docs/apcalculus/summer/packet13.pdf" target="_blank"> AP Calculus: Packet 13</a> <br>
-<a href="../docs/apcalculus/summer/packet14.pdf" target="_blank"> AP Calculus: Packet 14 (RPI)</a> 
+<a href="../docs/apcalculus/summer/packet14.pdf" target="_blank"> AP Calculus: Packet 14 (RPI)</a> <br>
 
 </details>
