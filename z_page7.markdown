@@ -75,7 +75,7 @@ permalink: /teach/
 ---
 
 <br>
-<p align="center"><img src="../img/site/ca.jpeg" border="1"> </p>
+<p align="center"><img src="../img/site/ca.jpeg" border="1"> <br> <i>Cushing Academy (Massachusetts, USA)</i> </p>
 
 
 <h1>expectations </h1>
@@ -110,6 +110,11 @@ We are expected to speak English in the classroom space.
 <summary><b>calculators</b></summary>
 TI-83/84/89/NSPIRE are recommended graphing calculator models. The in-class demonstrations will focus on the TI-84 features. Be sure to check the calculator policy on the college board website at <a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">this link</a>. In addition to the graphing calculator, we will also use a few CAS applications, so be sure to bring your laptop to class daily.
 </details>
+
+
+<h1>office hours</h1>
+
+available by appointment most mornings (8:00am - 8:30am).
 
 <h1>schedule </h1>
 
