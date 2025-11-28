@@ -439,4 +439,3 @@ My typed notes on pre-requisite content: <a href="../docs/paca/preparing_for_ap_
 <a href="../docs/apcalculus/summer/packet13.pdf" target="_blank"> AP Calculus: Packet 13</a> <br>
 <a href="../docs/apcalculus/summer/packet14.pdf" target="_blank"> AP Calculus: Packet 14 (RPI)</a> <br>
 
-</details>
