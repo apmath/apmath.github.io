@@ -7,7 +7,7 @@ I am an educator and technology enthusiast from the New England region in the Un
 <p align="right"> -Denis <i>(last updated: Nov 2025)</i></p>
 
 
-<p align="center"><img src="../img/site/mtw.jpeg" border="1"> </p>
+<p align="center"><img src="../img/site/profile.jpeg" border="1"> </p>
 
 <br> <br>
 <p align="center"> contact form </p>
