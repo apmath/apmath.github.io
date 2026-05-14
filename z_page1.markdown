@@ -134,6 +134,7 @@ permalink: /calculus/
 
 <details>
 <summary> <strong>calculus ab frq</strong> </summary> <br />
+<A href="https://apcentral.collegeboard.org/media/pdf/ap26-frq-calculus-ab.pdf" target="_blank"> 2026 Form A</a> ( Key ) (<a href="../docs/apcalculus/apexams/cbfreeresponse/2026_ab_form_a_solutions-shubleka.pdf" target="_blank">Solutions</a> ) )<br>
 <a href="https://apcentral.collegeboard.org/media/pdf/ap25-frq-calculus-ab.pdf" target="_blank">2025 Form A </a> (  <a href="https://apcentral.collegeboard.org/media/pdf/ap25-sg-calculus-ab.pdf" target="_blank">Key</a> ) ( <a href="../docs/apcalculus/apexams/cbfreeresponse/2025_ab_form_a_solutions-shubleka.pdf" target="_blank">Solutions</a> ) <br />
 <a href="https://apcentral.collegeboard.org/media/pdf/ap24-frq-calculus-ab.pdf" target="_blank">2024 Form A </a> ( <a href="https://apcentral.collegeboard.org/media/pdf/ap24-sg-calculus-ab.pdf" target="_blank"> Key</a> ) ( <a href="../docs/apcalculus/apexams/cbfreeresponse/2024_ab_form_a_solutions-shubleka.pdf" target="_blank">Solutions</a> ) <br />
 <a href="https://apcentral.collegeboard.org/media/pdf/ap23-frq-calculus-ab.pdf" target="_blank">2023 Form A </a> ( <a href="https://apcentral.collegeboard.org/media/pdf/ap23-sg-calculus-ab.pdf" target="_blank">Key</a> ) ( <a href="../docs/apcalculus/apexams/cbfreeresponse/2023_ab_form_a_solutions-shubleka.pdf" target="_blank">Solutions</a> ) <br />
